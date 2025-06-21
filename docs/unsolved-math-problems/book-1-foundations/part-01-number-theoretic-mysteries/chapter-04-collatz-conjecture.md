@@ -61,7 +61,7 @@ In binary, the Collatz map acts as:
 ## 4.5 Statistical Properties
 
 **Definition 4.4** (Density Functions):
-Let D_k(x) = #{n ≤ x : C^k(n) < n} / x
+Let D_k(x) = #\{n ≤ x : C^k(n) < n\} / x
 
 **Theorem 4.3** (Statistical Behavior):
 Empirically:
@@ -88,7 +88,7 @@ an + b & \text{if } n \equiv 1 \pmod{2}
 \end{cases}$$
 
 **Theorem 4.4** (Conway's Undecidability):
-There exist values of a, b for which the halting problem for C_{a,b} is undecidable.
+There exist values of a, b for which the halting problem for C_\{a,b\} is undecidable.
 
 *Philosophical Impact*: The simplicity of 3n+1 sits at the edge of decidability—a hair's breadth from computational universality.
 

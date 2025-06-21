@@ -22,7 +22,7 @@ Concluding our algebraic journey through ψ = ψ(ψ):
 For a closed oriented 4k-dimensional manifold M:
 $$\text{sign}(M) = \text{signature of the intersection form on } H_{2k}(M; \mathbb{R})$$
 
-**Example**: For complex projective space ℂP^{2n}:
+**Example**: For complex projective space ℂP^\{2n\}:
 $$\text{sign}(\mathbb{CP}^{2n}) = 1$$
 
 ## 16.3 The Hirzebruch Signature Theorem

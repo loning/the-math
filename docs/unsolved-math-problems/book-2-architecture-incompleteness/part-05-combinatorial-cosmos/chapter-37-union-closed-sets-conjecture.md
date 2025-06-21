@@ -23,7 +23,7 @@ A family ℱ of finite sets is union-closed if:
 $$A, B \in ℱ \implies A \cup B \in ℱ$$
 
 **Conjecture 37.1** (Frankl, 1979):
-For any finite union-closed family ℱ with ℱ ≠ {∅}, there exists an element x appearing in at least |ℱ|/2 sets.
+For any finite union-closed family ℱ with ℱ ≠ \{∅\}, there exists an element x appearing in at least |ℱ|/2 sets.
 
 **Status**: Open despite simplicity!
 
@@ -33,7 +33,7 @@ For any finite union-closed family ℱ with ℱ ≠ {∅}, there exists an eleme
 ℱ = 2^[n] is union-closed. Every element in exactly 2^(n-1) = |ℱ|/2 sets. ✓
 
 **Example 37.2** (Chain):
-ℱ = {∅, {1}, {1,2}, {1,2,3}}. Element 1 in 3/4 sets. ✓
+ℱ = \{∅, \{1\}, \{1,2\}, \{1,2,3\}\}. Element 1 in 3/4 sets. ✓
 
 **Intuition**: Union-closure forces "popular" elements.
 
@@ -89,7 +89,7 @@ $$f(x) = |\{A \in ℱ : x \in A\}|$$
 
 **Surprising**: Intersection-closed families need not have abundant elements!
 
-**Example**: {{1,2}, {2,3}, {1,3}, {1,2,3}} intersection-closed, no element in > 1/2.
+**Example**: \{\{1,2\}, \{2,3\}, \{1,3\}, \{1,2,3\}\} intersection-closed, no element in > 1/2.
 
 **Lesson**: Union and intersection behave differently.
 
@@ -115,7 +115,7 @@ Random union-closed families satisfy conjecture with high probability.
 
 **Construction**: From ℱ, build graph G(ℱ):
 - Vertices: Elements of universe
-- Edges: {x,y} if some A ∈ ℱ contains exactly {x,y}
+- Edges: \{x,y\} if some A ∈ ℱ contains exactly \{x,y\}
 
 **Connection**: Properties of G(ℱ) relate to UCSC.
 
@@ -172,7 +172,7 @@ def compute_union_closure(family):
 
 ## 37.14 The Two-Element Property
 
-**Observation**: If every 2-element set {x,y} appears in ℱ, then UCSC holds trivially.
+**Observation**: If every 2-element set \{x,y\} appears in ℱ, then UCSC holds trivially.
 
 **Theorem 37.3** (Morris):
 If ℱ is "2-dense" (many 2-element sets), then UCSC holds.

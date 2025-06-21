@@ -30,8 +30,8 @@ where generators $x_i$ satisfy relations $r_j = 1$.
 
 **Conjecture 44.1** (Andrews-Curtis, 1965):
 Every balanced presentation of the trivial group can be transformed to $\langle x | x \rangle$ via:
-1. **Nielsen moves**: $x_i \mapsto x_i^{\pm 1}$, permute generators
-2. **Relation moves**: Add/remove $r_i r_j^{\pm 1}$, permute relations
+1. **Nielsen moves**: $x_i \mapsto x_i^\{\pm 1\}$, permute generators
+2. **Relation moves**: Add/remove $r_i r_j^\{\pm 1\}$, permute relations
 
 **Status**: Open for 60+ years!
 
@@ -49,13 +49,13 @@ The conjecture embodies:
 ## 44.5 Elementary Moves
 
 **Nielsen Moves on Generators**:
-- Replace $x_i$ with $x_i^{-1}$
+- Replace $x_i$ with $x_i^\{-1\}$
 - Replace $x_i$ with $x_i x_j$ (j ≠ i)
 - Permute generators
 
 **Relation Moves**:
-- Replace $r_i$ with $r_i r_j^{\pm 1}$
-- Replace $r_i$ with $w r_i w^{-1}$ (conjugation)
+- Replace $r_i$ with $r_i r_j^\{\pm 1\}$
+- Replace $r_i$ with $w r_i w^\{-1\}$ (conjugation)
 - Permute relations
 
 ## 44.6 Known Results

@@ -36,7 +36,7 @@ $$\{a + te : 0 \leq t \leq 1\} \subset E$$
 **Definition 29.2** (Hausdorff Dimension):
 $$\dim_H(E) = \inf\{s : \mathcal{H}^s(E) = 0\}$$
 
-where $\mathcal{H}^s$ is the s-dimensional Hausdorff measure.
+where $\mathcal\{H\}^s$ is the s-dimensional Hausdorff measure.
 
 ## 29.4 The Kakeya Conjecture
 
@@ -86,7 +86,7 @@ Progress is slow but steady.
 **Definition 29.3** (Kakeya Maximal Function):
 $$M_\delta f(x) = \sup_{e \in S^{n-1}} \frac{1}{|T_{x,e,\delta}|} \int_{T_{x,e,\delta}} |f(y)| dy$$
 
-where $T_{x,e,\delta}$ is a tube of width δ around line through x in direction e.
+where $T_\{x,e,\delta\}$ is a tube of width δ around line through x in direction e.
 
 **Theorem 29.2** (Equivalence):
 Kakeya conjecture ⟺ Optimal bounds for Kakeya maximal function.

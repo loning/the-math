@@ -118,9 +118,9 @@ If there are infinitely many Woodin cardinals, then Σ²₁ statements are gener
 
 **Hope**: Ultimate L should determine the size of the continuum.
 
-**Current State**: Even very strong axioms don't determine 2^{ℵ₀}.
+**Current State**: Even very strong axioms don't determine 2^\{ℵ₀\}.
 
-**Speculation**: Ultimate L might force a specific value, perhaps 2^{ℵ₀} = ℵ₂.
+**Speculation**: Ultimate L might force a specific value, perhaps 2^\{ℵ₀\} = ℵ₂.
 
 **Challenge**: Show that canonical considerations determine continuum size.
 

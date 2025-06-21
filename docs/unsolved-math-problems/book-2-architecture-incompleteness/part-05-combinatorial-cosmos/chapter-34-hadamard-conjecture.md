@@ -25,7 +25,7 @@ $$HH^T = nI_n$$
 **Equivalent Conditions**:
 - All rows mutually orthogonal
 - All columns mutually orthogonal  
-- $|det(H)| = n^{n/2}$ (maximal determinant)
+- $|det(H)| = n^\{n/2\}$ (maximal determinant)
 
 **Example** (n = 2):
 $$H_2 = \begin{pmatrix} 1 & 1 \\ 1 & -1 \end{pmatrix}$$
@@ -182,7 +182,7 @@ where each pᵢ = 4k + 3 is prime.
 
 ## 34.15 Complex Hadamard Matrices
 
-**Generalization**: Entries from {1, -1, i, -i}.
+**Generalization**: Entries from \{1, -1, i, -i\}.
 
 **Definition 34.6** (Complex Hadamard):
 $$HH^* = nI$$

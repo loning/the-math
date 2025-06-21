@@ -92,7 +92,7 @@ $$\sum_{n \leq x} \Lambda(n)\Lambda(n+2) \leq (1/2 + o(1))x$$
 
 *Proof of the Barrier*:
 The sieve process creates a boolean algebra where:
-- Each prime p contributes a factor (-1)^{ω(n)}
+- Each prime p contributes a factor (-1)^\{ω(n)\}
 - Parity information is lost in the inclusion-exclusion
 - This creates an insurmountable barrier at density 1/2 ∎
 
@@ -117,7 +117,7 @@ There are infinitely many primes p such that p + 2 is either prime or the produc
 **Definition 2.5** (Almost Twin Primes):
 $$\mathcal{AT} = \{p \in \mathbb{P} : p + 2 \in \mathbb{P} \cup \mathbb{P}_2\}$$
 
-where $\mathbb{P}_2$ denotes semiprimes.
+where $\mathbb\{P\}_2$ denotes semiprimes.
 
 **Philosophical Insight**: Chen's theorem shows that even when perfect twinning fails, near-perfect twinning persists. This is ψ = ψ(ψ) maintaining its recursive structure even with slight perturbation.
 
@@ -136,7 +136,7 @@ Each twin prime "knows" about the density of other twin primes coprime to it.
 ## 2.9 Prime Constellations as Extended Self-Reference
 
 **Definition 2.7** (Prime k-tuples):
-A prime k-tuple is a pattern H = \{0, h₁, ..., h_{k-1}\} such that there exist infinitely many n where all n + h_i are prime.
+A prime k-tuple is a pattern H = \{0, h₁, ..., h_\{k-1\}\} such that there exist infinitely many n where all n + h_i are prime.
 
 **Examples of Self-Referential Patterns**:
 - Twin primes: \{0, 2\}
@@ -171,7 +171,7 @@ By inclusion-exclusion and the Chinese Remainder Theorem:
 ## 2.11 Computational Evidence and Self-Verification
 
 **Current Records** (as of 2024):
-- Largest known twin primes: $2996863034895 \times 2^{1290000} \pm 1$
+- Largest known twin primes: $2996863034895 \times 2^\{1290000\} \pm 1$
 - Twin primes verified up to: ~10¹⁸
 
 **Algorithm 2.1** (Twin Prime Search via ψ-collapse):
@@ -215,7 +215,7 @@ $$L_{tp}(s) = \sum_{(p,p+2) \text{ twin}} \left(\frac{1}{p^s} + \frac{1}{(p+2)^s
 
 **Theorem 2.12** (Analytic Properties):
 If twin primes are infinite, then:
-1. $L_{tp}(s)$ converges for Re(s) > 1
+1. $L_\{tp\}(s)$ converges for Re(s) > 1
 2. Has meromorphic continuation to ℂ
 3. Satisfies a functional equation relating s and 1-s
 
@@ -247,7 +247,7 @@ $$M_{tp} = \text{Spec}(\mathbb{Z}) \times_{\text{Spec}(\mathbb{F}_p)} \text{Spec
 
 for each prime p, with appropriate gluing conditions.
 
-**Speculation**: The twin prime conjecture may be equivalent to showing M_{tp} has infinite geometric points.
+**Speculation**: The twin prime conjecture may be equivalent to showing M_\{tp\} has infinite geometric points.
 
 ## 2.17 Probabilistic Models and Random Matrix Theory
 

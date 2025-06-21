@@ -99,11 +99,11 @@ Discretize spacetime: x_μ → na_μ (lattice spacing a)
 ## 26.9 The Glueball Spectrum
 
 **Definition 26.3** (Glueballs):
-Bound states of gluons, classified by J^{PC} quantum numbers.
+Bound states of gluons, classified by J^\{PC\} quantum numbers.
 
 **Lattice Predictions**:
-- 0^{++}: Lightest glueball, m ≈ 1.7 GeV
-- 2^{++}: Next state, m ≈ 2.4 GeV
+- 0^\{++\}: Lightest glueball, m ≈ 1.7 GeV
+- 2^\{++\}: Next state, m ≈ 2.4 GeV
 - Rich spectrum of excited states
 
 Each glueball represents self-interacting gauge field creating particle.
@@ -133,7 +133,7 @@ where |n⟩ are vacua with winding number n.
 **Additional Term**:
 $$\mathcal{L}_{\theta} = \frac{\theta}{32\pi^2} \text{Tr}(F_{\mu\nu}\tilde{F}^{\mu\nu})$$
 
-**Mystery**: Why is θ ≲ 10^{-10} experimentally?
+**Mystery**: Why is θ ≲ 10^\{-10\} experimentally?
 
 **Connection**: Mass gap properties depend on θ, linking to fundamental symmetries.
 

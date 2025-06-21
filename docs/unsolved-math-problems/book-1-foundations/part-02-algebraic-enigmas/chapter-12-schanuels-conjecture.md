@@ -47,7 +47,7 @@ Schanuel's Conjecture embodies ultimate self-reference:
 ## 12.5 Known Special Cases
 
 **Theorem 12.1** (Lindemann-Weierstrass):
-If α₁, ..., αₙ are algebraic and linearly independent over ℚ, then e^{α₁}, ..., e^{αₙ} are algebraically independent.
+If α₁, ..., αₙ are algebraic and linearly independent over ℚ, then e^\{α₁\}, ..., e^\{αₙ\} are algebraically independent.
 
 *This is Schanuel when all αᵢ are algebraic.*
 
@@ -65,7 +65,7 @@ Schanuel's Conjecture implies virtually all known transcendence results and many
 **Theorem 12.4** (Implications):
 Schanuel implies:
 1. Algebraic independence of π and e
-2. Transcendence of e^e, e^{e^e}, ...
+2. Transcendence of e^e, e^\{e^e\}, ...
 3. Four exponentials conjecture
 4. Six exponentials theorem
 5. Algebraic independence of logarithms
@@ -95,10 +95,10 @@ Two periods are equal if and only if this equality is forced by:
 ## 12.9 Model Theory and o-Minimality
 
 **Theorem 12.5** (Wilkie):
-Assuming Schanuel, the real exponential field ℝ_{exp} = (ℝ, +, ·, exp) is model-complete.
+Assuming Schanuel, the real exponential field ℝ_\{exp\} = (ℝ, +, ·, exp) is model-complete.
 
 **Theorem 12.6** (Macintyre-Wilkie):
-Schanuel implies ℝ_{exp} has quantifier elimination after adding power functions.
+Schanuel implies ℝ_\{exp\} has quantifier elimination after adding power functions.
 
 This connects transcendence to logic and definability.
 
@@ -134,14 +134,14 @@ def verify_schanuel_case(alphas, precision=1000):
 The smallest field containing ℚ̄ closed under exp and log.
 
 **Theorem 12.7** (Assuming Schanuel):
-The exponential algebraic closure has transcendence degree 2^{ℵ₀} over ℚ.
+The exponential algebraic closure has transcendence degree 2^\{ℵ₀\} over ℚ.
 
 Schanuel precisely characterizes this closure's structure.
 
 ## 12.12 Uniform Versions
 
 **Conjecture 12.4** (Uniform Schanuel):
-There exists a function B(H,D,n) such that if α₁,...,αₙ have height ≤ H and are linearly independent over ℚ, then any algebraic relation among α₁,...,αₙ,e^{α₁},...,e^{αₙ} has degree > B(H,D,n).
+There exists a function B(H,D,n) such that if α₁,...,αₙ have height ≤ H and are linearly independent over ℚ, then any algebraic relation among α₁,...,αₙ,e^\{α₁\},...,e^\{αₙ\} has degree > B(H,D,n).
 
 This would give effective transcendence measures.
 

@@ -38,7 +38,7 @@ $$\rho: \text{Gal}(\overline{\mathbb{Q}}/\mathbb{Q}) \to GL_n(\mathbb{C})$$
 
 **Key Examples**:
 1. **Cyclotomic character**: χ(σ) = σ(ζ)/ζ for roots of unity ζ
-2. **Elliptic curves**: ρ_{E,ℓ} from ℓ-torsion points
+2. **Elliptic curves**: ρ_\{E,ℓ\} from ℓ-torsion points
 3. **Modular forms**: ρ_f from Deligne's construction
 
 ## 13.4 Automorphic Representations
@@ -107,8 +107,8 @@ GL₁ case of Langlands—abelian Galois groups ↔ Hecke characters.
 
 **Theorem 13.2** (Geometric Langlands for GL_n):
 Derived equivalence between:
-- D-modules on Bun_{GL_n}
-- Quasi-coherent sheaves on Loc_{GL_n}
+- D-modules on Bun_\{GL_n\}
+- Quasi-coherent sheaves on Loc_\{GL_n\}
 
 This is proven for GL_n over function fields!
 

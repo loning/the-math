@@ -86,9 +86,9 @@ This exponential growth makes computation difficult.
 **Theorem 10.5** (Drużkowski, 1983):
 The Jacobian Conjecture is equivalent to: Every polynomial map of the form
 $$F(x) = x + (Ax)^{*3}$$
-with A³ = 0 and det(I + 3(Ax)^{*2} ⊗ A) = 1 is injective.
+with A³ = 0 and det(I + 3(Ax)^\{*2\} ⊗ A) = 1 is injective.
 
-Here (v)^{*3} means component-wise cubing.
+Here (v)^\{*3\} means component-wise cubing.
 
 ## 10.9 Connection to Other Problems
 

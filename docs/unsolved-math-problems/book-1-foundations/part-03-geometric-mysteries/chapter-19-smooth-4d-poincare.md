@@ -103,7 +103,7 @@ $$SW_X: \text{Spin}^c(X) \to \mathbb{Z}$$
 
 **Definition 19.3** (Handle):
 $$H^k = D^k \times D^{n-k}$$
-attached along ∂D^k × D^{n-k}.
+attached along ∂D^k × D^\{n-k\}.
 
 **Strategy**: 
 1. Start with standard S⁴

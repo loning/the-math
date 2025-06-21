@@ -68,8 +68,8 @@ Contradiction. Thus q = 1 and m = 2^p - 1 is prime.
 A prime of the form M_p = 2^p - 1 where p is prime.
 
 **Theorem 5.2** (Lucas-Lehmer Test):
-Define S₀ = 4 and S_k = S_{k-1}² - 2 (mod M_p).
-Then M_p is prime if and only if S_{p-2} ≡ 0 (mod M_p).
+Define S₀ = 4 and S_k = S_\{k-1\}² - 2 (mod M_p).
+Then M_p is prime if and only if S_\{p-2\} ≡ 0 (mod M_p).
 
 *This gives an efficient primality test, enabling the discovery of huge perfect numbers.*
 

@@ -20,7 +20,7 @@ Continuing our algebraic exploration of ψ = ψ(ψ):
 **Definition 14.1** (Modular Form of Weight k):
 A holomorphic function f: ℍ → ℂ satisfying:
 $$f\left(\frac{az + b}{cz + d}\right) = (cz + d)^k f(z)$$
-for all $\begin{pmatrix} a & b \\ c & d \end{pmatrix} \in SL_2(\mathbb{Z})$.
+for all $\begin\{pmatrix\} a & b \\ c & d \end\{pmatrix\} \in SL_2(\mathbb\{Z\})$.
 
 **Definition 14.2** (Cusp Form):
 A modular form vanishing at all cusps.

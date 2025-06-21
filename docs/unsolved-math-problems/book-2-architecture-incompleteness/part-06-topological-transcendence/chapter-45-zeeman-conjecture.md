@@ -55,7 +55,7 @@ A face σ is free if it belongs to exactly one maximal face.
 
 **Collapse Move**: Remove free face σ and its unique coface τ.
 
-**Effect**: K ↘ K' where K' = K \ {σ, τ}.
+**Effect**: K ↘ K' where K' = K \ \{σ, τ\}.
 
 **Goal**: Reduce complex to single vertex.
 

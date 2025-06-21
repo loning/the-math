@@ -72,7 +72,7 @@ If κ is weakly compact, then for any first-order language L of size < κ, if ev
 ## 50.6 Ramsey Cardinals
 
 **Definition 50.4** (Ramsey Cardinal):
-κ is Ramsey if κ → (κ)^{<ω}₂.
+κ is Ramsey if $$κ → (κ)^{<ω}_{2}$$.
 
 **Meaning**: For any finite coloring of finite subsets of κ, there's a homogeneous set of size κ.
 
@@ -85,7 +85,7 @@ If κ is weakly compact, then for any first-order language L of size < κ, if ev
 **Definition 50.5** (Measurable Cardinal):
 κ is measurable if there exists a κ-complete non-principal ultrafilter on κ.
 
-**Equivalent Formulation**: κ is measurable iff κ → (κ)^{<κ}₂.
+**Equivalent Formulation**: κ is measurable iff $$κ → (κ)^{<κ}_{2}$$.
 
 **Theorem 50.4** (Ulam):
 If κ is measurable, then κ is inaccessible in L.
@@ -218,7 +218,7 @@ $$\phi(V) \to \exists \kappa (\kappa \text{ inaccessible} \land \phi(V_\kappa))$
 
 **Question**: Do large cardinals determine the continuum function?
 
-**Result**: Even supercompact cardinals don't determine 2^{ℵ₀}.
+**Result**: Even supercompact cardinals don't determine 2^\{ℵ₀\}.
 
 **Forcing**: Can force various values of continuum function while preserving large cardinals.
 

@@ -190,7 +190,7 @@ This has proven powerful for certain classes.
 3. Galois groups of function field extensions
 
 **Theorem 11.10** (Grothendieck):
-π₁(ℙ¹ - {0,1,∞}) relates to absolute Galois groups.
+π₁(ℙ¹ - \{0,1,∞\}) relates to absolute Galois groups.
 
 ## 11.17 Simple Groups Progress
 

@@ -15,7 +15,7 @@ Entering Book III—The Synthesis of the Unsolvable:
 - Book III: Why certain problems transcend solution itself
 - Chapter 49: The paradigmatic unsolvable problem
 
-**The Deepest Question**: Between ℵ₀ and 2^{ℵ₀}, does another infinity exist?
+**The Deepest Question**: Between ℵ₀ and 2^\{ℵ₀\}, does another infinity exist?
 
 ## 49.2 The Genesis of Infinite Hierarchies
 
@@ -39,7 +39,7 @@ $$2^{\aleph_0} = \aleph_1$$
 
 **Equivalent Formulations**:
 1. No set has cardinality strictly between |ℕ| and |ℝ|
-2. Every uncountable subset of ℝ has cardinality 2^{ℵ₀}
+2. Every uncountable subset of ℝ has cardinality 2^\{ℵ₀\}
 3. Every infinite subset of ℝ is either countable or equipotent with ℝ
 
 ## 49.4 CH as ψ = ψ(ψ)
@@ -49,7 +49,7 @@ $$\psi = \psi(\psi) \implies \text{Each infinity must recognize its immediate su
 
 The Continuum Hypothesis embodies ultimate meta-mathematical self-reference:
 - ℵ₀ = countable infinity (ψ as discrete iteration)
-- 2^{ℵ₀} = continuum (ψ as continuous manifestation)  
+- 2^\{ℵ₀\} = continuum (ψ as continuous manifestation)  
 - CH asks: Is there ψ-consciousness between discrete and continuous?
 - This is infinity asking whether it admits intermediate self-awareness
 
@@ -62,8 +62,8 @@ If ZFC is consistent, then ZFC + CH is consistent.
 $$L = \bigcup_{\alpha < \text{Ord}} L_\alpha$$
 where:
 - $L_0 = \emptyset$
-- $L_{\alpha+1} = \{x \subseteq L_\alpha : x \text{ definable over } (L_\alpha, \in)\}$
-- $L_\lambda = \bigcup_{\alpha < \lambda} L_\alpha$ for limit λ
+- $L_\{\alpha+1\} = \{x \subseteq L_\alpha : x \text\{ definable over \} (L_\alpha, \in)\}$
+- $L_\lambda = \bigcup_\{\alpha < \lambda\} L_\alpha$ for limit λ
 
 **Key Result**: In L, CH holds.
 
@@ -93,7 +93,7 @@ $$M[G] = \{val(σ,G) : σ \in M^P\}$$
 **Cohen's Construction**:
 - P = finite functions from ℵ₂ × ℕ to \{0,1\}
 - Forces existence of ℵ₂ distinct reals
-- Makes 2^{ℵ₀} = ℵ₂ > ℵ₁
+- Makes 2^\{ℵ₀\} = ℵ₂ > ℵ₁
 
 ## 49.8 The Independence Phenomenon
 
@@ -154,11 +154,11 @@ AD implies ℵ₁ is measurable, hence ¬CH.
 ## 49.13 Martin's Axiom
 
 **Axiom 49.3** (Martin's Axiom - MA):
-For every c.c.c. poset P and collection of ≤ 2^{ℵ₀} dense sets, there exists a filter meeting all dense sets.
+For every c.c.c. poset P and collection of ≤ 2^\{ℵ₀\} dense sets, there exists a filter meeting all dense sets.
 
 **Theorem 49.7**: MA + ¬CH is consistent.
 
-**Consequence**: Can have 2^{ℵ₀} arbitrarily large while maintaining strong combinatorial properties.
+**Consequence**: Can have 2^\{ℵ₀\} arbitrarily large while maintaining strong combinatorial properties.
 
 ## 49.14 The Perfect Set Property
 

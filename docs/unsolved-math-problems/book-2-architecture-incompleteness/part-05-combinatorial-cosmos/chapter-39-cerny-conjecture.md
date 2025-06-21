@@ -54,7 +54,7 @@ The Cerny Conjecture embodies:
 ## 39.5 The Cerny Automata
 
 **Example 39.1** (Cerny's Construction):
-For n states {0, 1, ..., n-1} and two letters {a, b}:
+For n states \{0, 1, ..., n-1\} and two letters \{a, b\}:
 - a: cyclic shift (i → i+1 mod n)
 - b: identity except n-1 → 0
 

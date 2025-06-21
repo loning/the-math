@@ -104,7 +104,7 @@ Spaces X where $\|u_\lambda\|_X = \|u\|_X$ under NS scaling.
 
 **Examples**:
 - L³(ℝ³)
-- $\dot{H}^{1/2}(ℝ³)$
+- $\dot\{H\}^\{1/2\}(ℝ³)$
 - BMO⁻¹(ℝ³)
 
 Critical spaces reveal the scale-invariant heart of the problem.

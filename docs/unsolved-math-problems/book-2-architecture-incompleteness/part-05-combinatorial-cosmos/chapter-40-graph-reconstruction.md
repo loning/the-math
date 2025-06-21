@@ -128,7 +128,7 @@ Almost all graphs are reconstructible.
 ## 40.10 Ally Reconstruction
 
 **Definition 40.4** (Ally):
-The ally of vertex v is N(v) ∪ {v}.
+The ally of vertex v is N(v) ∪ \{v\}.
 
 **Ally Reconstruction**: Determine G from allies of all vertices.
 

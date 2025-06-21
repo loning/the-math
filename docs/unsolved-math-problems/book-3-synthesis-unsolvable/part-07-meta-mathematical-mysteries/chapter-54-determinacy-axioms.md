@@ -28,7 +28,7 @@ A game G on a set X is given by a payoff set A ⊆ X^ω. Two players alternate c
 Player I wins if (x₀, x₁, x₂, ...) ∈ A.
 
 **Definition 54.2** (Strategy):
-A strategy for Player I is a function σ: X^{<ω} → X such that σ operates on even-length sequences.
+A strategy for Player I is a function $$σ: X^{<ω} → X$$ such that σ operates on even-length sequences.
 
 **Definition 54.3** (Winning Strategy):
 Strategy σ is winning for Player I if every play following σ results in Player I winning.
@@ -82,7 +82,7 @@ AD implies AC_ω (countable choice).
 ## 54.6 The Continuum under AD
 
 **Theorem 54.6** (Martin):
-AD implies 2^{ℵ₀} = ℵ₁.
+AD implies 2^\{ℵ₀\} = ℵ₁.
 
 **But**: Also implies ℵ₁ is measurable.
 
@@ -148,7 +148,7 @@ If there are infinitely many Woodin cardinals, then L(ℝ) ⊨ AD.
 ## 54.11 Wadge Degrees
 
 **Definition 54.7** (Wadge Reducibility):
-A ≤_W B if there exists continuous f: ℕ^ω → ℕ^ω with A = f^{-1}[B].
+A ≤_W B if there exists continuous f: ℕ^ω → ℕ^ω with A = f^\{-1\}[B].
 
 **Under AD**: Wadge degrees have beautiful structure:
 

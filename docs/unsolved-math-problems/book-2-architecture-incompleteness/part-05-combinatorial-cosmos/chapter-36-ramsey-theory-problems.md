@@ -56,7 +56,7 @@ Ramsey theory embodies:
 ## 36.5 Multicolor Ramsey Numbers
 
 **Definition 36.2**:
-R(k₁,...,k_r) = minimum n where r-coloring of K_n yields monochromatic K_{k_i}.
+R(k₁,...,k_r) = minimum n where r-coloring of K_n yields monochromatic K_\{k_i\}.
 
 **Known**:
 - R(3,3,3) = 17
@@ -82,7 +82,7 @@ For any r, k, there exists W(r,k) such that r-coloring of [1,W(r,k)] contains mo
 In [r]ⁿ, a line is determined by fixing some coordinates and varying others together.
 
 **Theorem 36.3** (Hales-Jewett):
-For any r, k, exists HJ(r,k) such that r-coloring of [k]^{HJ(r,k)} contains monochromatic line.
+For any r, k, exists HJ(r,k) such that r-coloring of [k]^\{HJ(r,k)\} contains monochromatic line.
 
 **Significance**: Implies Van der Waerden.
 
@@ -206,7 +206,7 @@ Colorings have "canonical" forms—limited complexity despite apparent chaos.
 ## 36.19 Open Problems
 
 **Major Questions**:
-1. Is R(s,s)^{1/s} → c? If so, what is c?
+1. Is R(s,s)^\{1/s\} → c? If so, what is c?
 2. Determine R(5,5) exactly
 3. Off-diagonal behavior: R(3,t) = Θ(t²/log t)?
 4. Hypergraph Ramsey growth rates

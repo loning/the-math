@@ -40,12 +40,12 @@ $$L(E, s) = \prod_{p \nmid N} \frac{1}{1 - a_p p^{-s} + p^{1-2s}} \prod_{p | N} 
 
 where:
 - For good reduction at p: a_p = p + 1 - #E(𝔽_p)
-- For bad reduction: a_p ∈ {0, 1, -1} depending on reduction type
+- For bad reduction: a_p ∈ \{0, 1, -1\} depending on reduction type
 
 ## 8.4 The BSD Conjecture
 
 **Conjecture 8.1** (Birch and Swinnerton-Dyer):
-1. **Analytic Rank = Algebraic Rank**: ord_{s=1} L(E,s) = rank(E/ℚ)
+1. **Analytic Rank = Algebraic Rank**: ord_\{s=1\} L(E,s) = rank(E/ℚ)
 2. **Leading Coefficient Formula**:
 $$\lim_{s \to 1} \frac{L(E,s)}{(s-1)^r} = \frac{\Omega \cdot \text{Reg} \cdot \prod c_p \cdot |Ш|}{|E(\mathbb{Q})_{\text{tors}}|^2}$$
 
@@ -68,11 +68,11 @@ BSD states that:
 ## 8.6 What We Know
 
 **Theorem 8.2** (Gross-Zagier):
-If ord_{s=1} L(E,s) = 1, then rank(E/ℚ) ≥ 1, and the Heegner point has infinite order.
+If ord_\{s=1\} L(E,s) = 1, then rank(E/ℚ) ≥ 1, and the Heegner point has infinite order.
 
 **Theorem 8.3** (Kolyvagin):
-If ord_{s=1} L(E,s) ≤ 1, then:
-- rank(E/ℚ) = ord_{s=1} L(E,s)
+If ord_\{s=1\} L(E,s) ≤ 1, then:
+- rank(E/ℚ) = ord_\{s=1\} L(E,s)
 - Ш is finite
 
 **Theorem 8.4** (Wiles et al. - Modularity):
@@ -166,8 +166,8 @@ When ordered by height:
 
 **Conjecture 8.3** (Goldfeld):
 For "random" elliptic curves:
-- 50% have rank 0 (ord_{s=1} L = 0)
-- 50% have rank 1 (ord_{s=1} L = 1)
+- 50% have rank 0 (ord_\{s=1\} L = 0)
+- 50% have rank 1 (ord_\{s=1\} L = 1)
 - 0% have higher rank
 
 This suggests typical curves have low rank.

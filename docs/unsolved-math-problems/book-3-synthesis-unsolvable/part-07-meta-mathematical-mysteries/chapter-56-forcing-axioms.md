@@ -29,18 +29,18 @@ Completing Part VII—Meta-Mathematical Mysteries:
 ## 56.3 Martin's Axiom
 
 **Definition 56.1** (Martin's Axiom MA):
-For all κ < 2^{ℵ₀} and all c.c.c. posets P, if 𝒟 is a collection of ≤ κ dense subsets of P, then there exists a filter G ⊆ P meeting every D ∈ 𝒟.
+For all κ < 2^\{ℵ₀\} and all c.c.c. posets P, if 𝒟 is a collection of ≤ κ dense subsets of P, then there exists a filter G ⊆ P meeting every D ∈ 𝒟.
 
 **Intuition**: Every "small" collection of dense sets can be simultaneously met.
 
-**Theorem 56.1**: MA is equivalent to: For all κ < 2^{ℵ₀} and c.c.c. P, P^κ has the κ⁺-c.c.
+**Theorem 56.1**: MA is equivalent to: For all κ < 2^\{ℵ₀\} and c.c.c. P, P^κ has the κ⁺-c.c.
 
-**Strength**: MA(κ) gets stronger as κ approaches 2^{ℵ₀}.
+**Strength**: MA(κ) gets stronger as κ approaches 2^\{ℵ₀\}.
 
 ## 56.4 Consequences of Martin's Axiom
 
 **Theorem 56.2** (MA + ¬CH consistent):
-MA is consistent with 2^{ℵ₀} arbitrarily large.
+MA is consistent with 2^\{ℵ₀\} arbitrarily large.
 
 **Theorem 56.3** (Suslin's Problem):
 MA implies every Suslin line is isomorphic to ℝ.
@@ -49,7 +49,7 @@ MA implies every Suslin line is isomorphic to ℝ.
 MA implies every Whitehead group is free.
 
 **Theorem 56.5** (Kaplansky's Conjecture):
-MA implies every algebra of cardinality < 2^{ℵ₀} over countable field has proper ideals.
+MA implies every algebra of cardinality < 2^\{ℵ₀\} over countable field has proper ideals.
 
 **Pattern**: MA resolves many classical independent problems.
 
@@ -100,7 +100,7 @@ For all stationary set preserving posets P and all collections 𝒟 of ℵ₁ de
 For posets P of size ℵ₁ and collections 𝒟 of ℵ₁ dense subsets, there exists filter meeting all dense sets.
 
 **Comparison**:
-- MA: c.c.c. posets, < 2^{ℵ₀} dense sets
+- MA: c.c.c. posets, < 2^\{ℵ₀\} dense sets
 - PFA: Proper posets, ℵ₁ dense sets  
 - BFA: Size ℵ₁ posets, ℵ₁ dense sets
 
@@ -152,9 +152,9 @@ Technical definition involving systems of elementary submodels.
 ## 56.14 The Continuum Under Forcing Axioms
 
 **Theorem 56.10**: 
-- MA consistent with any value of 2^{ℵ₀}
-- PFA forces 2^{ℵ₀} = ℵ₂
-- MM forces 2^{ℵ₀} = ℵ₂
+- MA consistent with any value of 2^\{ℵ₀\}
+- PFA forces 2^\{ℵ₀\} = ℵ₂
+- MM forces 2^\{ℵ₀\} = ℵ₂
 
 **Explanation**: Stronger axioms place more constraints on cardinal arithmetic.
 

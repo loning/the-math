@@ -23,7 +23,7 @@ A closed subspace M ⊆ H is invariant under operator T if:
 $$T(M) ⊆ M$$
 
 **Trivial Invariant Subspaces**:
-- M = {0}
+- M = \{0\}
 - M = H
 
 **Non-trivial**: Any other closed invariant subspace.
@@ -160,7 +160,7 @@ ISP connects operator theory to dynamics.
 $$T(e_n) = w_n e_{n+1}$$
 
 **Analysis**:
-- Weight sequence {w_n} determines properties
+- Weight sequence \{w_n\} determines properties
 - Some have rich invariant subspace lattices
 - Others might have none (unknown)
 

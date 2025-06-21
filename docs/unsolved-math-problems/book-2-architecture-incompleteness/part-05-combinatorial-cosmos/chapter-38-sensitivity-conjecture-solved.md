@@ -19,10 +19,10 @@ A triumph in our combinatorial journey:
 ## 38.2 Boolean Function Complexity Measures
 
 **Definition 38.1** (Sensitivity):
-For f: {0,1}ⁿ → {0,1} and x ∈ {0,1}ⁿ:
+For f: \{0,1\}ⁿ → \{0,1\} and x ∈ \{0,1\}ⁿ:
 $$s(f,x) = |\{i : f(x) \neq f(x^{\oplus i})\}|$$
 
-where x^{\oplus i} flips the i-th bit.
+where x^\{\oplus i\} flips the i-th bit.
 
 **Definition 38.2** (Max Sensitivity):
 $$s(f) = \max_{x \in \{0,1\}^n} s(f,x)$$
@@ -88,7 +88,7 @@ $$[A_n]_{x,y} = (-1)^{⟨x,y⟩} \text{ if } |x-y|_1 = 1$$
 ## 38.8 The Complete Proof
 
 **Huang's Proof**:
-1. Take subset S ⊆ {0,1}ⁿ where f is constant, |S| ≥ 2^(n-1)
+1. Take subset S ⊆ \{0,1\}ⁿ where f is constant, |S| ≥ 2^(n-1)
 2. Consider induced subgraph of signed hypercube
 3. Largest eigenvalue ≥ √n by interlacing
 4. Eigenvector gives vertex with ≥ √n neighbors

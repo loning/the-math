@@ -26,7 +26,7 @@ A unique game is a constraint satisfaction problem with:
 
 **Constraint Form**: 
 $$\pi_{ij}(x_i) = x_j$$
-where $\pi_{ij}: [k] \to [k]$ is a permutation.
+where $\pi_\{ij\}: [k] \to [k]$ is a permutation.
 
 ## 31.3 The Unique Games Conjecture
 
@@ -55,7 +55,7 @@ The UGC embodies:
 **Theorem 31.1** (Various):
 1. **MAX-CUT**: 0.878... (Goemans-Williamson ratio)
 2. **Vertex Cover**: 2 - ε
-3. **Sparsest Cut**: $\Theta(\sqrt{\log n})$
+3. **Sparsest Cut**: $\Theta(\sqrt\{\log n\})$
 
 UGC implies these are optimal!
 
@@ -91,7 +91,7 @@ NP = PCP[O(log n), O(1)]
 ## 31.9 SDP Hierarchies
 
 **Definition 31.4** (SDP Relaxation):
-Replace discrete variables with vector variables $v_i \in \mathbb{R}^d$:
+Replace discrete variables with vector variables $v_i \in \mathbb\{R\}^d$:
 $$\max \sum_{(i,j) \in E} w_{ij} \langle v_i, v_j \rangle$$
 
 **Hierarchy**: Lasserre/SOS adds constraints at each level.
@@ -158,7 +158,7 @@ $$\text{Stab}_\rho(f) \leq \text{Stab}_\rho(\text{Majority}) + o(1)$$
 ## 31.16 Subexponential Algorithms
 
 **Theorem 31.7** (Arora-Barak-Steurer, 2010):
-Unique Games solvable in time $2^{n^\epsilon}$ for some ε > 0.
+Unique Games solvable in time $2^\{n^\epsilon\}$ for some ε > 0.
 
 **Implication**: UGC cannot be "strongly" exponential.
 

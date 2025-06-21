@@ -37,12 +37,12 @@ Thus M_n is composite. Therefore, n must be prime. ∎
 **Theorem 7.2** (Lucas-Lehmer):
 Define the sequence:
 - S₀ = 4
-- S_{k+1} = S_k² - 2
+- S_\{k+1\} = S_k² - 2
 
-Then M_p is prime if and only if S_{p-2} ≡ 0 (mod M_p).
+Then M_p is prime if and only if S_\{p-2\} ≡ 0 (mod M_p).
 
 *Proof Sketch*:
-The sequence S_k is related to the Lucas sequence V_k(4,1) by S_k = V_{2^k}(4,1).
+The sequence S_k is related to the Lucas sequence V_k(4,1) by S_k = V_\{2^k\}(4,1).
 The test exploits the structure of the group of units in ℤ[√3] modulo M_p. ∎
 
 **Algorithm 7.1** (Efficient Implementation):
@@ -61,7 +61,7 @@ def is_mersenne_prime(p):
 
 **Current Status** (2024):
 - 51 known Mersenne primes
-- Largest: M_{82,589,933} (discovered 2018)
+- Largest: M_\{82,589,933\} (discovered 2018)
 - Gaps: We don't know if any are missing between known ones
 
 **Historical Progression**:
@@ -94,14 +94,19 @@ This would give a characterization of Mersenne primes!
 **Theorem 7.3** (Euclid-Euler Redux):
 There is a bijection between:
 - Mersenne primes M_p
-- Even perfect numbers 2^{p-1}M_p
+- Even perfect numbers 2^\{p-1\}M_p
 
 Thus, the infinitude of perfect numbers is equivalent to the infinitude of Mersenne primes.
 
 ## 7.8 Binary Properties
 
 **Observation 7.1** (Binary Representation):
-$$M_p = \underbrace{111...111}_{p \text{ ones}}$$ in binary
+
+$$
+M_p = \underbrace{111...111}_{p \text{ ones}}
+$$
+
+in binary
 
 **Theorem 7.4** (Digital Root):
 For p > 2:
@@ -151,7 +156,7 @@ A sequence of primes p₁, p₂, ..., pₖ where pᵢ₊₁ = 2pᵢ + 1.
 ## 7.13 The Wieferich Connection
 
 **Definition 7.5** (Wieferich Prime):
-A prime p such that 2^{p-1} ≡ 1 (mod p²).
+A prime p such that 2^\{p-1\} ≡ 1 (mod p²).
 
 **Theorem 7.7**: 
 If p is Wieferich and q = 2^p - 1 is prime, then q is also Wieferich.
@@ -164,7 +169,7 @@ Only two Wieferich primes are known: 1093 and 3511.
 Numbers of the form a^n - b^n, particularly when gcd(a,b) = 1.
 
 **Special Cases**:
-- Fermat numbers: 2^{2^n} + 1
+- Fermat numbers: 2^\{2^n\} + 1
 - Repunits: (10^n - 1)/9
 - General: (a^n - 1)/(a - 1)
 
@@ -174,7 +179,7 @@ Numbers of the form a^n - b^n, particularly when gcd(a,b) = 1.
 $$\gcd(M_m, M_n) = M_{\\gcd(m,n)}$$
 
 *Proof*:
-Uses the fact that 2^{\gcd(m,n)} - 1 divides both 2^m - 1 and 2^n - 1. ∎
+Uses the fact that 2^\{\gcd(m,n)\} - 1 divides both 2^m - 1 and 2^n - 1. ∎
 
 **Corollary**: Mersenne numbers with coprime indices are coprime.
 

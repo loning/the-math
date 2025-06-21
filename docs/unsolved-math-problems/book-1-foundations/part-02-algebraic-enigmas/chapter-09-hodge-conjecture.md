@@ -25,11 +25,11 @@ $$H^k_{dR}(X) = \frac{\\{\text{closed k-forms}\\}}{\\{\text{exact k-forms}\\}}$$
 **Definition 9.2** (Hodge Decomposition):
 $$H^k(X, \mathbb{C}) = \bigoplus_{p+q=k} H^{p,q}(X)$$
 
-where H^{p,q} consists of cohomology classes representable by (p,q)-forms.
+where H^\{p,q\} consists of cohomology classes representable by (p,q)-forms.
 
 **Theorem 9.1** (Hodge):
 The decomposition satisfies:
-- $\overline{H^{p,q}} = H^{q,p}$ (complex conjugation)
+- $\overline\{H^\{p,q\}\} = H^\{q,p\}$ (complex conjugation)
 - Harmonicity with respect to the Kähler metric
 
 ## 9.3 Algebraic Cycles
@@ -43,7 +43,7 @@ $$\text{cl}: Z^p(X) \to H^{2p}(X, \mathbb{Q})$$
 
 sending algebraic cycles to cohomology classes.
 
-**Key Fact**: cl(Z^p(X)) ⊗ ℂ ⊆ H^{p,p}(X) ∩ H^{2p}(X, ℚ)
+**Key Fact**: cl(Z^p(X)) ⊗ ℂ ⊆ H^\{p,p\}(X) ∩ H^\{2p\}(X, ℚ)
 
 ## 9.4 The Hodge Conjecture
 
@@ -105,7 +105,7 @@ These would imply many cases of Hodge.
 ## 9.9 Hodge Theory and Complex Geometry
 
 **Definition 9.5** (Period Matrix):
-For a basis {ωᵢ} of H^p(X,ℂ) and cycles {γⱼ}:
+For a basis \{ωᵢ\} of H^p(X,ℂ) and cycles \{γⱼ\}:
 $$\Pi_{ij} = \int_{\gamma_j} \omega_i$$
 
 **Theorem 9.5** (Griffiths Transversality):

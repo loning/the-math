@@ -19,7 +19,7 @@ Continuing our analytical journey:
 ## 27.2 The Mahler Measure
 
 **Definition 27.1** (Mahler Measure):
-For polynomial P(x) = a_n ∏_{i=1}^n (x - α_i):
+For polynomial P(x) = a_n ∏_\{i=1\}^n (x - α_i):
 $$M(P) = |a_n| \prod_{i=1}^n \max(1, |α_i|)$$
 
 **Logarithmic Mahler Measure**:
@@ -112,7 +112,7 @@ where P_α is minimal polynomial of α.
 **Theorem 27.3** (Dynamical Mahler Measure):
 $$M(P) = \exp\left(\int \log|z| dμ\right)$$
 
-where μ is equilibrium measure on Julia set of z ↦ P(z)/z^{deg P}.
+where μ is equilibrium measure on Julia set of z ↦ P(z)/z^\{deg P\}.
 
 **Insight**: Mahler measure encodes dynamical complexity.
 
@@ -158,7 +158,7 @@ Deep connection between polynomial complexity and arithmetic.
 
 ## 27.13 Limit Points
 
-**Question**: What are limit points of {M(P) : P non-cyclotomic}?
+**Question**: What are limit points of \{M(P) : P non-cyclotomic\}?
 
 **Known**:
 - 1 is a limit point (from below)
@@ -198,7 +198,7 @@ $$\max(h(a), h(b), h(c)) < (1+ε)h(\text{rad}(abc)) + O(1)$$
 **Jensen's Formula**:
 $$m(P) = \int_0^1 \log|P(e^{2πit})| dt$$
 
-**Fourier Analysis**: Study Fourier coefficients of log|P(e^{2πit})|.
+**Fourier Analysis**: Study Fourier coefficients of log|P(e^\{2πit\})|.
 
 **Challenge**: Extract arithmetic from analysis.
 

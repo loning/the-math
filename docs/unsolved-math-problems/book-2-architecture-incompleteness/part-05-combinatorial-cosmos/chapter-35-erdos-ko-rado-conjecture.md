@@ -19,11 +19,11 @@ Deepening our combinatorial exploration:
 ## 35.2 The Original Erdős-Ko-Rado Theorem
 
 **Definition 35.1** (Intersecting Family):
-A family ℱ ⊆ $\binom{[n]}{k}$ is intersecting if for all A, B ∈ ℱ:
+A family ℱ ⊆ $\binom\{[n]\}\{k\}$ is intersecting if for all A, B ∈ ℱ:
 $$A \cap B \neq \emptyset$$
 
 **Theorem 35.1** (Erdős-Ko-Rado, 1961):
-If ℱ ⊆ $\binom{[n]}{k}$ is intersecting and n ≥ 2k, then:
+If ℱ ⊆ $\binom\{[n]\}\{k\}$ is intersecting and n ≥ 2k, then:
 $$|ℱ| \leq \binom{n-1}{k-1}$$
 
 **Extremal Families**: Stars $\{A : 1 \in A\}$.
@@ -34,7 +34,7 @@ $$|ℱ| \leq \binom{n-1}{k-1}$$
 Family ℱ where all pairs have |A ∩ B| ≥ r.
 
 **Conjecture 35.1** (Complete Intersection Theorem):
-Maximum r-intersecting family has size $\binom{n-r}{k-r}$ for n ≥ (k-r+1)(r+1).
+Maximum r-intersecting family has size $\binom\{n-r\}\{k-r\}$ for n ≥ (k-r+1)(r+1).
 
 **Status**: Proven for many cases, open in general.
 
@@ -76,7 +76,7 @@ Shifting preserves intersection property and doesn't decrease size.
 Families 𝒜, ℬ where A ∩ B ≠ ∅ for all A ∈ 𝒜, B ∈ ℬ.
 
 **Theorem 35.3** (Cross-Intersection):
-If 𝒜, ℬ ⊆ $\binom{[n]}{k}$ are cross-intersecting and n ≥ 2k:
+If 𝒜, ℬ ⊆ $\binom\{[n]\}\{k\}$ are cross-intersecting and n ≥ 2k:
 $$|𝒜| · |ℬ| \leq \binom{n-1}{k-1}^2$$
 
 **Equality**: When 𝒜 = ℬ = star.
@@ -105,14 +105,14 @@ Among intersecting families, dictatorships maximize μ_p for p ≤ 1/2.
 **Question**: If |ℱ| is close to maximum, is ℱ close to extremal?
 
 **Theorem 35.5** (Stability):
-If |ℱ| ≥ $\binom{n-1}{k-1} - t$, then ℱ differs from star in O(t) sets.
+If |ℱ| ≥ $\binom\{n-1\}\{k-1\} - t$, then ℱ differs from star in O(t) sets.
 
 **Method**: Spectral gap analysis.
 
 ## 35.11 Degree Conditions
 
 **Definition 35.6** (Degree):
-For v ∈ [n], degree d_ℱ(v) = |{A ∈ ℱ : v ∈ A}|.
+For v ∈ [n], degree d_ℱ(v) = |\{A ∈ ℱ : v ∈ A\}|.
 
 **Theorem 35.6** (Regular Families):
 Among d-regular intersecting families, maximum size is:
@@ -123,7 +123,7 @@ achieved by "spread" families.
 ## 35.12 The Baranyai Partition
 
 **Theorem 35.7** (Baranyai):
-$\binom{[n]}{k}$ can be partitioned into perfect matchings when k|n.
+$\binom\{[n]\}\{k\}$ can be partitioned into perfect matchings when k|n.
 
 **Application**: Constructs optimal regular intersecting families.
 

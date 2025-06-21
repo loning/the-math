@@ -92,8 +92,8 @@ Find explicit K_ε such that for coprime a + b = c:
 $$c < K_{\epsilon} \cdot \text{rad}(abc)^{1+\epsilon}$$
 
 **Current Records**:
-- K_0.6 < 10^{10^{100}} (vastly non-effective)
-- Best unconditional: c < exp(k·rad(abc)^{1/3}) for some k
+- K_0.6 < 10^\{10^\{100\}\} (vastly non-effective)
+- Best unconditional: c < exp(k·rad(abc)^\{1/3\}) for some k
 
 ## 6.8 The Polynomial ABC
 
