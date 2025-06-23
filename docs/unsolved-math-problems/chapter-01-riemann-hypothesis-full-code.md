@@ -1,6 +1,6 @@
 ---
 title: "Chapter 1: The Riemann Hypothesis — ζ(s) = ζ(ζ(s))?"
-sidebar_label: "1. The Riemann Hypothesis"
+sidebar_label: "1. The Riemann Hypothesis - MD souce"
 ---
 
 `````
