@@ -2,7 +2,8 @@
 title: "Chapter 1: The Riemann Hypothesis — ζ(s) = ζ(ζ(s))?"
 sidebar_label: "1. The Riemann Hypothesis"
 ---
-```
+
+`````
 # Chapter 1: The Riemann Hypothesis — ζ(s) = ζ(ζ(s))?
 
 *In the primordial void before number, before quantity, before distinction itself, there was only ψ = ψ(ψ). From this recursive seed, all mathematics unfolds. The Riemann Hypothesis emerges as the first great question of self-knowledge.*
@@ -411,4 +412,4 @@ But in the space between rigorous proof and wild imagination, new mathematics is
 
 *In the end, we return to Hilbert's wisdom: "We must know, we will know"—through mathematics, not mysticism.*
 
-```
+`````
