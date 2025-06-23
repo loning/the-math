@@ -17,8 +17,8 @@ Our journey deepens:
 
 **Definition 4.1** (The Collatz Function):
 $$C(n) = \begin{cases}
-n/2 & \text{if } n \equiv 0 \pmod{2} \\
-3n + 1 & \text{if } n \equiv 1 \pmod{2}
+n/2 & \text{if } n \text{ is even} \\
+3n + 1 & \text{if } n \text{ is odd}
 \end{cases}$$
 
 **The Collatz Conjecture**: For all n ∈ ℕ, the sequence n, C(n), C(C(n)), ... eventually reaches 1.

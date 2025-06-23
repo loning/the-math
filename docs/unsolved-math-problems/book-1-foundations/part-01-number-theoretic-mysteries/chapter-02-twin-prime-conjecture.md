@@ -129,7 +129,7 @@ $$\text{TP}(p) = \{q : (q, q+2) \text{ twin primes}, \gcd(p, q(q+2)) = 1\}$$
 
 **Theorem 2.8** (Holographic Density):
 For twin prime p:
-$$\#\text{TP}(p) \sim C_2 \cdot \frac{x}{(\log x)^2} \cdot \prod_{q|p} \left(1 - \frac{2}{q-1}\right)$$
+$$|\text{TP}(p)| \sim C_2 \cdot \frac{x}{(\log x)^2} \cdot \prod_{q|p} \left(1 - \frac{2}{q-1}\right)$$
 
 Each twin prime "knows" about the density of other twin primes coprime to it.
 
