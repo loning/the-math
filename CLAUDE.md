@@ -449,6 +449,83 @@ Thus: Chapter X = Function(Previous) = Transform(ψ) = Essence(ψ)
 All curly braces `{}` in Markdown files are parsed as JSX expressions by default.  
 To avoid build errors, please **escape them** as `\{` and `\}`.
 
+## Mathematical Formula Guidelines
+
+### Common MDX/KaTeX Issues and Solutions
+
+#### 1. **Curly Brace Conflicts**
+MDX parser interprets `{}` as JavaScript expressions, causing errors in mathematical formulas.
+
+**Problem Examples**:
+```markdown
+❌ $$\{x : x > 0\}$$              // Set notation
+❌ $$\pmod{p}$$                   // LaTeX commands with braces
+❌ $$\text{absolute}$$            // Text commands
+```
+
+**Solutions**:
+```markdown
+✅ $$\lbrace x : x > 0 \rbrace$$  // Use \lbrace and \rbrace
+✅ $$\pmod p$$                    // Remove braces
+✅ $$\text{absolute}$$            // Keep but ensure in math block
+```
+
+#### 2. **Runtime Variable Errors**
+Mathematical symbols outside math environments are interpreted as JavaScript variables.
+
+**Problem Examples**:
+```markdown
+❌ The sequence Tₙ converges      // Tₙ interpreted as variable
+❌ At level n incompleteness      // n interpreted as undefined
+❌ The empty set Ø               // Ø interpreted as variable
+```
+
+**Solutions**:
+```markdown
+✅ The sequence $T_n$ converges
+✅ At level $n$ incompleteness
+✅ The empty set $\emptyset$
+```
+
+#### 3. **HTML Character Conflicts**
+```markdown
+❌ {q < α}                       // < interpreted as HTML tag
+✅ \lbrace q &lt; α \rbrace     // Escape the < symbol
+```
+
+### Best Practices
+
+1. **Set Notation**: Always use `\lbrace` and `\rbrace` instead of `{` and `}`
+2. **Math Variables**: All mathematical symbols must be wrapped in `$...$` or `$$...$$`
+3. **LaTeX Commands**: Prefer braceless forms (e.g., `\pmod p` instead of `\pmod{p}`)
+4. **Special Symbols**:
+   - Empty set: Use `$\emptyset$` not `Ø`
+   - Less than: Use `&lt;` when needed in set notation
+5. **Subscripts/Superscripts**: Ensure expressions like `T_n`, `\psi^n` are in math environments
+
+### Debugging Tips
+
+1. **Build Incrementally**: Test single language builds first (`npm run build -- --locale zh-Hans`)
+2. **Error Types**:
+   - MDX compilation errors → Usually syntax/parsing issues
+   - Runtime errors → Usually undefined variable issues
+3. **Search Patterns**: Use `grep` to find similar error patterns across files
+
+### Common Patterns to Check
+
+```bash
+# Find potential set notation issues
+grep -r "{\s*[a-zA-Z].*:" docs/
+
+# Find potential subscript variables
+grep -r "[A-Za-z]ₙ\|[A-Za-z]_[0-9n]" docs/
+
+# Find empty set symbols
+grep -r "Ø" docs/
+
+# Find potential unescaped math
+grep -r "iω\|e\^{" docs/
+```
 
 ## Deployment
 The site automatically deploys to GitHub Pages when changes are pushed to the `main` branch via GitHub Actions.
