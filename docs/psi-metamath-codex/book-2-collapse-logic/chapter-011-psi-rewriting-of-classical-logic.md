@@ -43,13 +43,16 @@ Classical logic has {`True`, `False`}. ψ-Logic has a richer spectrum:
 - **Entangled** (⊗ψ): Truth depends on other collapses
 
 **Truth Dynamics**:
-$$T(P^ψ, t) = \begin{cases}
+
+$$
+T(P^ψ, t) = \begin{cases}
 ⊤ψ & \text{if P coherently collapses at t}\\
 ⊥ψ & \text{if P incoherently collapses at t}\\
 ≈ψ & \text{if P remains uncollapsed at t}\\
 ↕ψ & \text{if P oscillates at t}\\
 ⊗ψ & \text{if P is entangled at t}
-\end{cases}$$
+\end{cases}
+$$
 
 ## 11.4 Logical Connectives as Collapse Operations
 

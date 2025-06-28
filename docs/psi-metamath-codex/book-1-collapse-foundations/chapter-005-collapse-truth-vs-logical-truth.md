@@ -128,11 +128,14 @@ The two truth modes have different temporal characteristics:
 $$t_1: \mathcal{F} \vdash S \Rightarrow \forall t > t_1: \mathcal{F} \vdash S$$
 
 **Collapse Truth**: Requires temporal actualization
-$$\mathcal{O}_t(S) = \begin{cases} 
-\text{pre-collapse} & t < t_0 \\
-\text{collapsing} & t_0 \leq t \leq t_1 \\
-\text{collapsed} & t > t_1
-\end{cases}$$
+
+$$
+\mathcal{O}_t(S) = \begin{cases} 
+\text{pre-collapse} & \text{if } t < t_0 \\
+\text{collapsing} & \text{if } t_0 \leq t \leq t_1 \\
+\text{collapsed} & \text{if } t > t_1
+\end{cases}
+$$
 
 **Principle 5.2** (Temporal Asymmetry): Logical truth transcends time; collapse truth unfolds through time.
 

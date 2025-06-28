@@ -128,11 +128,14 @@ $$|S\rangle = \alpha|真\rangle + \beta|假\rangle + \gamma|不可判定\rangle$
 $$t_1: \mathcal{F} \vdash S \Rightarrow \forall t > t_1: \mathcal{F} \vdash S$$
 
 **坍缩真理**：需要时间实现
-$$\mathcal{O}_t(S) = \begin{cases} 
-\text{坍缩前} & t < t_0 \\
-\text{坍缩中} & t_0 \leq t \leq t_1 \\
-\text{已坍缩} & t > t_1
-\end{cases}$$
+
+$$
+\mathcal{O}_t(S) = \begin{cases} 
+\text{坍缩前} & \text{if } t < t_0 \\
+\text{坍缩中} & \text{if } t_0 \leq t \leq t_1 \\
+\text{已坍缩} & \text{if } t > t_1
+\end{cases}
+$$
 
 **原理 5.2**（时间不对称）：逻辑真理超越时间；坍缩真理通过时间展开。
 
