@@ -232,10 +232,13 @@ This is not a tautology but a deep principle. It states that contradictory struc
 ### 5.2 The Consistency Operator
 
 **Definition 5.1**: Define the consistency operator $\mathcal{C}$ on the class of all mathematical structures:
-$$\mathcal{C}(M) = \begin{cases} 
-M & \text{if } M \text{ is internally self-consistent} \\
-\emptyset & \text{if } M \text{ contains contradictions}
-\end{cases}$$
+
+$$
+\mathcal{C}(M) = \begin{cases} 
+  M & \text{if } M \text{ is internally self-consistent} \\
+  \emptyset & \text{if } M \text{ contains contradictions}
+\end{cases}
+$$
 
 **Theorem 5.1 (Properties of $\mathcal{C}$)**:
 1. $\mathcal{C}$ is idempotent: $\mathcal{C}(\mathcal{C}(M)) = \mathcal{C}(M)$
@@ -825,11 +828,14 @@ $$\text{Truth}(S) = S$$
 **Theorem 11.2**: RH is a fixed point of mathematical truth.
 
 *Proof*: Define the truth operator:
-$$T[S] = \begin{cases}
+
+$$
+T[S] = \begin{cases}
 \text{True} & \text{if } S \text{ is provably true} \\
 \text{False} & \text{if } S \text{ is provably false} \\
 \text{Undecided} & \text{otherwise}
-\end{cases}$$
+\end{cases}
+$$
 
 For RH:
 1. If $T[\text{RH}] = \text{True}$, then arithmetic is consistent, validating our proof
@@ -845,10 +851,13 @@ Therefore, $T[\text{RH}] = \text{True}$ is the only stable fixed point. ∎
 ### 11.3 The Self-Consistency Operator
 
 **Definition 11.2**: The self-consistency operator for arithmetic:
-$$\mathcal{S}[\mathbb{N}] = \begin{cases}
+
+$$
+\mathcal{S}[\mathbb{N}] = \begin{cases}
 \mathbb{N} & \text{if arithmetic operations are consistent} \\
 \emptyset & \text{if contradictions exist}
-\end{cases}$$
+\end{cases}
+$$
 
 **Theorem 11.3**: $\mathcal{S}[\mathbb{N}] = \mathbb{N}$ if and only if RH is true.
 
@@ -1030,10 +1039,13 @@ For a stable universe:
 - Arithmetic must maintain consistency
 
 Define the "arithmetic consistency" property $A(t)$ at time $t$:
-$$A(t) = \begin{cases}
-1 & \text{if arithmetic consistent at time } t \\
-0 & \text{if arithmetic inconsistent at time } t
-\end{cases}$$
+
+$$
+A(t) = \begin{cases}
+  1 & \text{if arithmetic consistent at time } t \\
+  0 & \text{if arithmetic inconsistent at time } t
+\end{cases}
+$$
 
 For universe stability: $A(t) = 1$ for all $t$.
 
