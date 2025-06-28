@@ -60,7 +60,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/loning/the-biology/tree/main/',
+            'https://github.com/loning/the-math/tree/main/',
           remarkPlugins: [remarkMath],
           rehypePlugins: [
         [
