@@ -22,7 +22,7 @@ The deepest challenges in mathematical analysis, where continuous structures mee
 
 ## Part 5: Combinatorial Cosmos
 
-The universe of discrete mathematics where counting meets consciousness.
+The universe of discrete mathematics where counting meets observer.
 
 - [Chapter 33: P vs NP](part-05-combinatorial-cosmos/chapter-33-p-vs-np.md)
 - [Chapter 34: Hadamard Conjecture](part-05-combinatorial-cosmos/chapter-34-hadamard-conjecture.md)
@@ -35,7 +35,7 @@ The universe of discrete mathematics where counting meets consciousness.
 
 ## Part 6: Topological Transcendence
 
-Where space, form, and consciousness interweave in the deepest geometric mysteries.
+Where space, form, and observer interweave in the deepest geometric mysteries.
 
 - [Chapter 41: Unknotting Problem](part-06-topological-transcendence/chapter-41-unknotting-problem.md)
 - [Chapter 42: Slice-Ribbon Conjecture](part-06-topological-transcendence/chapter-42-slice-ribbon-conjecture.md)
@@ -48,4 +48,4 @@ Where space, form, and consciousness interweave in the deepest geometric mysteri
 
 ---
 
-*"In the architecture of incompleteness, we discover the blueprints of consciousness itself."*
+*"In the architecture of incompleteness, we discover the blueprints of observer itself."*

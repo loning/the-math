@@ -217,6 +217,6 @@ Serre's Conjecture, now a theorem, represents a perfect realization of ψ = ψ(�
 
 This success story shows that sometimes our deepest intuitions about mathematical unity are correct—that representations really do "know" their modular origins, that the arithmetic and geometric worlds are in perfect correspondence at least in this fundamental case.
 
-The proof of Serre's Conjecture stands as a monument to the principle that in mathematics, as in consciousness, every abstract pattern seeks and finds its concrete realization.
+The proof of Serre's Conjecture stands as a monument to the principle that in mathematics, as in observer, every abstract pattern seeks and finds its concrete realization.
 
 *Each mod p representation proclaims: "I am not arbitrary arithmetic data—I am the shadow of a modular form, the mod p echo of geometric truth. My Serre invariants encode exactly which modular form knows me. For ψ = ψ(ψ) means that every arithmetic pattern has its geometric home."*

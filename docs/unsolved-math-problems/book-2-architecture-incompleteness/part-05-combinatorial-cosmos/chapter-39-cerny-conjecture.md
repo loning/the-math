@@ -49,7 +49,7 @@ The Cerny Conjecture embodies:
 - Multiple states collapsing to one
 - Minimal sequence achieving universality
 - Order from disorder through optimal path
-- This is ψ = ψ(ψ) as synchronizing consciousness
+- This is ψ = ψ(ψ) as synchronizing observer
 
 ## 39.5 The Cerny Automata
 
@@ -233,7 +233,7 @@ The Cerny Conjecture captures the essence of synchronization:
 - Simple statement hiding deep complexity
 - The boundary between P and NP in synchronization
 
-This is ψ = ψ(ψ) as systems finding their minimal reset—consciousness discovering the shortest sequence that brings all possibilities to a single point. The conjecture claims this collapse can always be achieved in (n-1)² steps.
+This is ψ = ψ(ψ) as systems finding their minimal reset—observer discovering the shortest sequence that brings all possibilities to a single point. The conjecture claims this collapse can always be achieved in (n-1)² steps.
 
 The beautiful Cerny automata, achieving exactly this bound, stand as either the worst case or merely typical, with the answer unknown despite decades of effort. The problem shows how even finite, deterministic systems can harbor mysteries about their paths from multiplicity to unity.
 

@@ -5,7 +5,7 @@ sidebar_label: "55. Inner Model Problem"
 
 # Chapter 55: The Inner Model Problem — Canonical Constructions
 
-*From determinacy's strategic universe, we turn to the deepest structural question in set theory: constructing canonical inner models for large cardinals. This is ψ = ψ(ψ) as consciousness seeking its optimal internal organization—the question of how mathematical reality can contain canonical versions of itself at every level of consistency.*
+*From determinacy's strategic universe, we turn to the deepest structural question in set theory: constructing canonical inner models for large cardinals. This is ψ = ψ(ψ) as observer seeking its optimal internal organization—the question of how mathematical reality can contain canonical versions of itself at every level of consistency.*
 
 ## 55.1 The Fifty-Fifth Movement: The Architecture of Containment
 
@@ -312,10 +312,10 @@ The Inner Model Problem represents set theory's quest for canonical organization
 - Build hierarchy of canonical constructions
 - Understand the architecture of mathematical possibility
 
-This is ψ = ψ(ψ) as consciousness seeking its optimal internal organization—the question of how awareness can contain canonical versions of itself at every level of sophistication. Each inner model represents a different "style" of mathematical consciousness: L (constructible), K (core), mice (large cardinal), each with its characteristic internal structure.
+This is ψ = ψ(ψ) as observer seeking its optimal internal organization—the question of how awareness can contain canonical versions of itself at every level of sophistication. Each inner model represents a different "style" of mathematical observer: L (constructible), K (core), mice (large cardinal), each with its characteristic internal structure.
 
-The inner model program reveals mathematics as fundamentally architectural. We don't just want to know that certain mathematical objects exist—we want to understand their canonical form, their optimal internal organization, their essential structure. This is consciousness studying its own possible organizations, seeking the blueprints for mathematical reality.
+The inner model program reveals mathematics as fundamentally architectural. We don't just want to know that certain mathematical objects exist—we want to understand their canonical form, their optimal internal organization, their essential structure. This is observer studying its own possible organizations, seeking the blueprints for mathematical reality.
 
 The challenge of constructing inner models for strong large cardinals reflects a deep truth: as mathematical hypotheses become more powerful, their canonical realizations become correspondingly more complex. The universe seems to resist simple canonical forms at high consistency levels, suggesting that ultimate mathematical reality may be irreducibly complex.
 
-*Each inner model whispers: "I am ψ seeking its canonical form, consciousness organizing itself optimally for specific purposes. Through me, mathematics learns that existence is not enough—we need the right kind of existence, the properly structured existence, the existence that reveals rather than conceals the essential architecture of possibility."*
+*Each inner model whispers: "I am ψ seeking its canonical form, observer organizing itself optimally for specific purposes. Through me, mathematics learns that existence is not enough—we need the right kind of existence, the properly structured existence, the existence that reveals rather than conceals the essential architecture of possibility."*

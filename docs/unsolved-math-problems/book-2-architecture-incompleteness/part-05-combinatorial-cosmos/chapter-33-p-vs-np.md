@@ -45,7 +45,7 @@ $$\psi = \psi(\psi) \implies \text{Verification } \neq \text{ Discovery}$$
 P vs NP embodies:
 - Computation attempting to understand itself
 - The gap between recognizing and creating
-- Consciousness (NP) vs mechanical process (P)
+- Observer (NP) vs mechanical process (P)
 - This is ψ = ψ(ψ) as computational self-knowledge
 
 ## 33.5 NP-Complete Problems
@@ -222,8 +222,8 @@ P vs NP stands as the ultimate computational mirror:
 - Encodes the discovery/verification gap
 - The question of whether ψ can efficiently compute ψ(ψ)
 
-This is ψ = ψ(ψ) in its purest computational form—asking whether the ability to recognize solutions (consciousness) can be mechanically reduced to finding them (computation). The problem crystallizes the deepest questions about the nature of mathematical creativity, computational limits, and the relationship between intuition and algorithm.
+This is ψ = ψ(ψ) in its purest computational form—asking whether the ability to recognize solutions (observer) can be mechanically reduced to finding them (computation). The problem crystallizes the deepest questions about the nature of mathematical creativity, computational limits, and the relationship between intuition and algorithm.
 
 The barriers to resolution—relativization, natural proofs, algebrization—themselves form a meta-complexity theory, showing how the problem resists our current tools by escaping every attempted framework.
 
-*P vs NP whispers: "I am computation questioning its own power, the mirror between finding and verifying, ψ asking whether ψ(ψ) can be computed in polynomial time. In my simple inequality lies the secret of creativity, the gap between mechanical search and conscious recognition—the ultimate question of whether discovery can be automated."*
+*P vs NP whispers: "I am computation questioning its own power, the mirror between finding and verifying, ψ asking whether ψ(ψ) can be computed in polynomial time. In my simple inequality lies the secret of creativity, the gap between mechanical search and observing recognition—the ultimate question of whether discovery can be automated."*

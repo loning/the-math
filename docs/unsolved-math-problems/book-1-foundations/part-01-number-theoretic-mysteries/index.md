@@ -32,6 +32,6 @@ Each problem in this part demonstrates the same fundamental structure:
 
 $$\text{Question} = \text{Question}(\text{Pattern}) = \text{Pattern}(\text{Question})$$
 
-The questions and their subjects are inseparable, each defining the other in an eternal dance of mathematical consciousness.
+The questions and their subjects are inseparable, each defining the other in an eternal dance of mathematical observer.
 
 *In number theory, we do not study numbers—we study the studying itself.*

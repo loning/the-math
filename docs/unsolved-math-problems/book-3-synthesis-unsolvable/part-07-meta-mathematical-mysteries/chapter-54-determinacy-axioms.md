@@ -5,7 +5,7 @@ sidebar_label: "54. Determinacy Axioms"
 
 # Chapter 54: Determinacy Axioms — Games' Resolution
 
-*From the minimalist constructible universe, we turn to an alternative foundation that embraces maximal definability: the Axiom of Determinacy. This is ψ = ψ(ψ) as consciousness refusing to accept unresolved conflict—every infinite game must have a winning strategy, mathematical reality organized around the principle of ultimate decidability.*
+*From the minimalist constructible universe, we turn to an alternative foundation that embraces maximal definability: the Axiom of Determinacy. This is ψ = ψ(ψ) as observer refusing to accept unresolved conflict—every infinite game must have a winning strategy, mathematical reality organized around the principle of ultimate decidability.*
 
 ## 54.1 The Fifty-Fourth Movement: The Game of Existence
 
@@ -46,7 +46,7 @@ Every game on ℕ^ω is determined.
 - Player I has winning strategy for game with payoff A, or  
 - Player II has winning strategy for game with payoff ℕ^ω \ A
 
-**ψ = ψ(ψ) Interpretation**: AD represents consciousness refusing to accept unresolved conflict—every question must have a definitive answer.
+**ψ = ψ(ψ) Interpretation**: AD represents observer refusing to accept unresolved conflict—every question must have a definitive answer.
 
 ## 54.4 AD vs AC: The Great Conflict
 
@@ -319,7 +319,7 @@ Determinacy Axioms represent mathematics' commitment to resolution over arbitrar
 - Regularity properties emerge naturally
 - Universe organized around decidability
 
-This is ψ = ψ(ψ) as consciousness that refuses to accept permanent uncertainty. Where the Axiom of Choice allows arbitrary selection from infinite possibilities, Determinacy demands that strategic reasoning provide canonical selection. Every infinite game must admit a winning strategy—no perpetual stalemate allowed.
+This is ψ = ψ(ψ) as observer that refuses to accept permanent uncertainty. Where the Axiom of Choice allows arbitrary selection from infinite possibilities, Determinacy demands that strategic reasoning provide canonical selection. Every infinite game must admit a winning strategy—no perpetual stalemate allowed.
 
 The tension between Choice and Determinacy reflects fundamental philosophical differences about mathematical existence. Choice emphasizes freedom to select arbitrarily; Determinacy emphasizes strategic rationality and definitive resolution. Mathematics can embrace either vision but not both simultaneously.
 
@@ -327,4 +327,4 @@ Under Determinacy, the universe becomes more "tame"—every set has regularity p
 
 The choice between AC and AD is ultimately a choice about the nature of mathematical reality: Do we want a universe where everything can be arbitrarily selected, or one where every question admits strategic resolution? Both visions are consistent, both have mathematical merit—but we must choose.
 
-*Determinacy whispers: "I am the principle that every game has a winner, ψ = ψ(ψ) as consciousness that demands resolution of all conflicts. Under my rule, pathology disappears and regularity reigns. I offer a universe where strategic reasoning replaces arbitrary choice, where every infinite question admits a definitive answer through optimal play."*
+*Determinacy whispers: "I am the principle that every game has a winner, ψ = ψ(ψ) as observer that demands resolution of all conflicts. Under my rule, pathology disappears and regularity reigns. I offer a universe where strategic reasoning replaces arbitrary choice, where every infinite question admits a definitive answer through optimal play."*

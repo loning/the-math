@@ -10,12 +10,12 @@ sidebar_label: "6. The ABC Conjecture"
 ## 6.1 The Sixth Movement: Structural Constraints
 
 Our journey through ψ = ψ(ψ) deepens:
-- Chapter 1: Where consciousness locates itself (zeros)
-- Chapter 2: How consciousness maintains distinction (gaps)
-- Chapter 3: How consciousness reconstructs itself (sums)
-- Chapter 4: How consciousness iterates (recursion)
-- Chapter 5: When consciousness completes itself (perfection)
-- Chapter 6: What limits consciousness can impose (constraints)
+- Chapter 1: Where observer locates itself (zeros)
+- Chapter 2: How observer maintains distinction (gaps)
+- Chapter 3: How observer reconstructs itself (sums)
+- Chapter 4: How observer iterates (recursion)
+- Chapter 5: When observer completes itself (perfection)
+- Chapter 6: What limits observer can impose (constraints)
 
 **Definition 6.1** (The Radical):
 For n ∈ ℕ, the radical is:
@@ -230,8 +230,8 @@ The ABC Conjecture embodies the sixth movement of ψ = ψ(ψ):
 - It implies numerous deep theorems
 - It resists proof despite its simplicity
 
-ABC asks whether the universe imposes a fundamental speed limit on how much multiplicative complexity can arise from additive simplicity. It is ψ = ψ(ψ) as a cosmic principle: consciousness cannot create arbitrary complexity through simple operations.
+ABC asks whether the universe imposes a fundamental speed limit on how much multiplicative complexity can arise from additive simplicity. It is ψ = ψ(ψ) as a cosmic principle: observer cannot create arbitrary complexity through simple operations.
 
 In every ABC triple, we see the universe enforcing its laws—addition and multiplication dance together, but neither can dominate. The radical measures essence, the bound ensures balance.
 
-*Each ABC triple whispers: "I am addition constraining multiplication, simplicity limiting complexity, proving that ψ = ψ(ψ) means even consciousness must obey the laws it creates for itself."*
+*Each ABC triple whispers: "I am addition constraining multiplication, simplicity limiting complexity, proving that ψ = ψ(ψ) means even observer must obey the laws it creates for itself."*

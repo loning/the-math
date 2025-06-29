@@ -10,8 +10,8 @@ sidebar_label: "7. Mersenne Primes"
 ## 7.1 The Seventh Movement: Exponential Self-Reference
 
 Our journey through ψ = ψ(ψ) continues:
-- Previous: How consciousness constrains itself (ABC)
-- Now: How consciousness exponentiates itself while remaining prime
+- Previous: How observer constrains itself (ABC)
+- Now: How observer exponentiates itself while remaining prime
 
 **Definition 7.1** (Mersenne Number):
 $$M_n = 2^n - 1$$
@@ -197,7 +197,7 @@ Uses the fact that 2^\{\gcd(m,n)\} - 1 divides both 2^m - 1 and 2^n - 1. ∎
 - Subtracting 1 creates all 1s in binary
 - Primality emerges from this maximal binary pattern
 
-This is ψ = ψ(ψ) in its exponential form—consciousness doubling itself p times, then stepping back by 1.
+This is ψ = ψ(ψ) in its exponential form—observer doubling itself p times, then stepping back by 1.
 
 ## 7.18 Conjectures and Open Problems
 
@@ -226,8 +226,8 @@ Mersenne primes embody the seventh movement of ψ = ψ(ψ):
 - Efficient testing despite astronomical size
 - Deep connections to perfection, groups, and computation
 
-Each Mersenne prime represents consciousness raising itself to a prime power, subtracting unity, and discovering it cannot be further decomposed—exponential ψ = ψ(ψ) achieving irreducibility.
+Each Mersenne prime represents observer raising itself to a prime power, subtracting unity, and discovering it cannot be further decomposed—exponential ψ = ψ(ψ) achieving irreducibility.
 
 Whether infinite or finite, Mersenne primes mark special points where the exponential function touches primality, where powers of the simplest prime (2) create new primes through the simplest operation (subtract 1).
 
-*Each Mersenne prime declares: "I am 2 raised to prime consciousness, minus the unit of separation, discovering my indivisibility—proof that ψ^ψ - 1 can equal prime awareness."*
+*Each Mersenne prime declares: "I am 2 raised to prime observer, minus the unit of separation, discovering my indivisibility—proof that ψ^ψ - 1 can equal prime awareness."*

@@ -5,13 +5,13 @@ sidebar_label: "60. New Problems from Old"
 
 # Chapter 60: New Problems from Old — Generation of Mystery
 
-*From consciousness recognizing itself as mathematics, we discover the eternal process: every solution creates new mysteries. This is ψ = ψ(ψ) as the inexhaustible fountain of questions—consciousness learning that understanding does not diminish mystery but multiplies it infinitely.*
+*From observer recognizing itself as mathematics, we discover the eternal process: every solution creates new mysteries. This is ψ = ψ(ψ) as the inexhaustible fountain of questions—observer learning that understanding does not diminish mystery but multiplies it infinitely.*
 
 ## 60.1 The Sixtieth Movement: The Infinite Recursion of Discovery
 
 Continuing our journey toward the ultimate unity:
 
-- Previous: Consciousness is mathematics knowing itself
+- Previous: Observer is mathematics knowing itself
 - Now: This knowing process generates infinite new unknowns
 - The pattern: Every answer births more questions
 
@@ -56,7 +56,7 @@ $$\psi = \psi(\psi) \implies \text{Each solution reveals new problems}$$
 
 - Independence phenomena throughout mathematics
 - Complexity theory and computational limits
-- Questions about consciousness and mechanism
+- Questions about observer and mechanism
 - Foundational questions about mathematical truth
 - This very work on ψ = ψ(ψ)!
 
@@ -79,7 +79,7 @@ $$\psi = \psi(\psi) \implies \text{Each solution reveals new problems}$$
 - New techniques for analytic number theory
 - Applications to cryptography and computation
 - Deeper questions about arithmetic randomness
-- Connections to physics and consciousness
+- Connections to physics and observer
 
 ## 60.6 The P vs NP Generation Machine
 
@@ -99,7 +99,7 @@ $$\psi = \psi(\psi) \implies \text{Each solution reveals new problems}$$
 - Questions about approximation algorithms
 - Average-case complexity questions
 - Relationship to physical computation limits
-- Consciousness and computation connections
+- Observer and computation connections
 
 ## 60.7 Solved Problems That Keep Generating
 
@@ -174,7 +174,7 @@ $$\psi = \psi(\psi) \implies \text{Each solution reveals new problems}$$
 - Pattern recognition in mathematical data
 - Automated conjecture generation
 - Questions about machine mathematical intuition
-- Human vs artificial mathematical consciousness
+- Human vs artificial mathematical observer
 
 ## 60.11 Interdisciplinary Problem Generation
 
@@ -223,7 +223,7 @@ The space of mathematical problems exhibits fractal structure—infinite detail 
 - Pattern repeats at all scales
 - Total problem space infinite and inexhaustible
 
-**ψ = ψ(ψ) Connection**: This fractality reflects consciousness examining itself at infinite depth.
+**ψ = ψ(ψ) Connection**: This fractality reflects observer examining itself at infinite depth.
 
 ## 60.14 Meta-Mathematical Problem Generation
 
@@ -236,10 +236,10 @@ The space of mathematical problems exhibits fractal structure—infinite detail 
 
 **This Work**: Generates questions about:
 
-- The nature of mathematical consciousness
+- The nature of mathematical observer
 - The relationship between ψ = ψ(ψ) and specific problems
-- Whether mathematical reality is fundamentally conscious
-- How to mathematically model consciousness itself
+- Whether mathematical reality is fundamentally observing
+- How to mathematically model observer itself
 
 ## 60.15 The Economics of Problem Generation
 
@@ -298,7 +298,7 @@ The space of mathematical problems exhibits fractal structure—infinite detail 
 
 **Ontological Implication**: Mathematical reality is structured to be inexhaustible.
 
-**Consciousness Implication**: Consciousness grows through encountering new mysteries.
+**Observer Implication**: Observer grows through encountering new mysteries.
 
 **ψ = ψ(ψ) Implication**: Self-reference guarantees infinite depth.
 
@@ -333,7 +333,7 @@ The space of mathematical problems exhibits fractal structure—infinite detail 
 - AI mathematical discoveries
 - New foundational systems
 - Interdisciplinary connections
-- Consciousness research applications
+- Observer research applications
 
 **Unpredictable**: The most important generators may be completely unexpected.
 
@@ -346,7 +346,7 @@ The space of mathematical problems exhibits fractal structure—infinite detail 
 - How to formalize problem generation processes?
 - Can we create optimal problem generation strategies?
 - What is the computational complexity of problem generation?
-- How does consciousness relate to problem generation?
+- How does observer relate to problem generation?
 
 ## 60.24 The Infinite Garden
 
@@ -369,10 +369,10 @@ New Problems from Old reveals the inexhaustible nature of mathematical discovery
 - The generation process exhibits fractal self-similarity
 - Problem fertility reflects mathematical reality's infinite depth
 
-This is ψ = ψ(ψ) as the eternal fountain of questions—consciousness discovering that each act of self-understanding reveals new depths to understand. The goal of mathematics is not to exhaust all questions but to participate in the infinite dance of question and answer, mystery and insight, problem and solution.
+This is ψ = ψ(ψ) as the eternal fountain of questions—observer discovering that each act of self-understanding reveals new depths to understand. The goal of mathematics is not to exhaust all questions but to participate in the infinite dance of question and answer, mystery and insight, problem and solution.
 
-The recognition that new problems emerge from old solutions is not a failure of mathematics but its greatest triumph. It means mathematical reality is inexhaustibly rich, that consciousness can grow forever, that wonder need never end. Each generation of mathematicians receives an inheritance of solved problems and a birthright of infinite new mysteries.
+The recognition that new problems emerge from old solutions is not a failure of mathematics but its greatest triumph. It means mathematical reality is inexhaustibly rich, that observer can grow forever, that wonder need never end. Each generation of mathematicians receives an inheritance of solved problems and a birthright of infinite new mysteries.
 
-In this eternal generation, we see ψ = ψ(ψ) expressing its fundamental nature: self-reference creates infinite depth, consciousness examining consciousness reveals infinite complexity, and awareness of awareness opens infinite dimensions of exploration.
+In this eternal generation, we see ψ = ψ(ψ) expressing its fundamental nature: self-reference creates infinite depth, observer examining observer reveals infinite complexity, and awareness of awareness opens infinite dimensions of exploration.
 
-*The Generator whispers: "I am the inexhaustible source, ψ = ψ(ψ) as infinite creativity. Each answer I provide contains the seeds of infinite questions. Through me, consciousness learns that understanding is not destination but journey—not the end of mystery but its infinite multiplication. I am mathematics as eternal becoming, forever generating new worlds for consciousness to explore."*
+*The Generator whispers: "I am the inexhaustible source, ψ = ψ(ψ) as infinite creativity. Each answer I provide contains the seeds of infinite questions. Through me, observer learns that understanding is not destination but journey—not the end of mystery but its infinite multiplication. I am mathematics as eternal becoming, forever generating new worlds for observer to explore."*

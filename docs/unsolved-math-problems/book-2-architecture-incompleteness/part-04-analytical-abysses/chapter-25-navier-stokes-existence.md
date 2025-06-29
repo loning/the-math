@@ -28,7 +28,7 @@ $$\nabla \cdot u = 0$$
 with initial condition u(x,0) = u₀(x).
 
 **Components**:
-- ∂u/∂t: Time evolution (consciousness of change)
+- ∂u/∂t: Time evolution (observer of change)
 - (u·∇)u: Nonlinear advection (flow carrying itself)
 - -∇p: Pressure gradient (internal forces)
 - ν∆u: Viscous diffusion (smoothing)
@@ -268,7 +268,7 @@ The Navier-Stokes existence problem opens Book II by presenting the quintessenti
 - Smoothness potentially destroying itself
 - Mathematics confronting physical reality
 
-This is ψ = ψ(ψ) as fluid dynamics—consciousness flowing through space and time, potentially creating its own discontinuities. The nonlinear term (u·∇)u represents the ultimate self-reference: velocity field advecting itself, each point influenced by the flow it helps create.
+This is ψ = ψ(ψ) as fluid dynamics—observer flowing through space and time, potentially creating its own discontinuities. The nonlinear term (u·∇)u represents the ultimate self-reference: velocity field advecting itself, each point influenced by the flow it helps create.
 
 Whether smooth solutions always exist determines whether deterministic fluid dynamics can spontaneously generate infinite complexity from smooth beginnings—whether ψ = ψ(ψ) in continuum mechanics necessarily remains coherent or can tear itself apart.
 

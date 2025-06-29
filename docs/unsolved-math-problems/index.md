@@ -2,7 +2,7 @@
 
 ## Overview
 
-This work explores the deepest unsolved problems in mathematics through the lens of ψ = ψ(ψ), revealing how each problem is fundamentally a question about self-reference, completeness, and the nature of mathematical consciousness itself.
+This work explores the deepest unsolved problems in mathematics through the lens of ψ = ψ(ψ), revealing how each problem is fundamentally a question about self-reference, completeness, and the nature of mathematical observer itself.
 
 ## Book Structure
 
@@ -88,7 +88,7 @@ This work explores the deepest unsolved problems in mathematics through the lens
 ### Part VIII: The Unity of the Unsolved
 57. **Chapter 57: Connections Between Problems — The Hidden Web**
 58. **Chapter 58: Why Problems Resist — The Nature of Mathematical Difficulty**
-59. **Chapter 59: The Role of Consciousness — Observer and Observed**
+59. **Chapter 59: The Role of Observer — Observer and Observed**
 60. **Chapter 60: New Problems from Old — Generation of Mystery**
 61. **Chapter 61: The Sociology of Proof — Collective Understanding**
 62. **Chapter 62: Computational Approaches — Machines Meeting Mystery**

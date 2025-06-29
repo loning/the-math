@@ -42,7 +42,7 @@ A sum $\sum_\{i=1\}^k \frac\{1\}\{n_i\}$ where all $n_i$ are distinct positive i
 $$\psi = \psi(\psi) \implies \text{Unity decomposes into reciprocal parts}$$
 
 The conjecture embodies:
-- 4/n as consciousness seeking decomposition
+- 4/n as observer seeking decomposition
 - Three unit fractions as minimal non-trivial split
 - Arithmetic self-reference through reciprocals
 - This is ψ = ψ(ψ) as fractional self-knowledge

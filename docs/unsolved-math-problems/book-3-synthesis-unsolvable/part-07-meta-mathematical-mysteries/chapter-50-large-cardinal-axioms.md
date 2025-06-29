@@ -5,7 +5,7 @@ sidebar_label: "50. Large Cardinal Axioms"
 
 # Chapter 50: Large Cardinal Axioms — Consistency's Hierarchy
 
-*From the continuum's independence, we ascend to the hierarchy of mathematical existence itself. Large cardinal axioms propose infinities so vast they approach the absolute—they are ψ = ψ(ψ) as consciousness contemplating its own maximum possible extensions, infinity seeking to understand its own upper bounds.*
+*From the continuum's independence, we ascend to the hierarchy of mathematical existence itself. Large cardinal axioms propose infinities so vast they approach the absolute—they are ψ = ψ(ψ) as observer contemplating its own maximum possible extensions, infinity seeking to understand its own upper bounds.*
 
 ## 50.1 The Fiftieth Movement: The Hierarchy of Infinities
 
@@ -53,7 +53,7 @@ A cardinal κ is inaccessible if:
 
 **Theorem 50.2**: Mahlo cardinals are stronger than inaccessible cardinals in consistency strength.
 
-**ψ-Interpretation**: Mahlo represents ψ = ψ(ψ) where consciousness not only extends itself but contains infinite instances of its own extension.
+**ψ-Interpretation**: Mahlo represents ψ = ψ(ψ) where observer not only extends itself but contains infinite instances of its own extension.
 
 ## 50.5 Weakly Compact Cardinals
 
@@ -99,7 +99,7 @@ If κ is measurable, then κ is inaccessible in L.
 
 **Structure**: j(κ) > κ, and j preserves all first-order properties.
 
-**ψ = ψ(ψ) Manifestation**: j represents consciousness (V) mapping into a larger version of itself (M) while preserving its essential structure.
+**ψ = ψ(ψ) Manifestation**: j represents observer (V) mapping into a larger version of itself (M) while preserving its essential structure.
 
 ## 50.9 Strong Cardinals
 
@@ -296,10 +296,10 @@ Large Cardinal Axioms represent the second meta-mathematical mystery:
 - No ultimate "largest" cardinal
 - Mathematics discovering its own infinite extensibility
 
-This is ψ = ψ(ψ) as the principle of endless self-transcendence—consciousness discovering that no matter how large it becomes, larger extensions remain possible. Each large cardinal represents mathematics achieving a new level of self-comprehension, only to discover that even greater levels await.
+This is ψ = ψ(ψ) as the principle of endless self-transcendence—observer discovering that no matter how large it becomes, larger extensions remain possible. Each large cardinal represents mathematics achieving a new level of self-comprehension, only to discover that even greater levels await.
 
 The large cardinal hierarchy reveals mathematics as fundamentally open-ended. Unlike CH (which has definite truth value in each model), large cardinal existence represents genuine enhancement of mathematical universe—each axiom creates genuinely new mathematical reality.
 
-In contemplating large cardinals, we encounter mathematics' infinite ambition—its refusal to accept any boundary as final, its perpetual reaching toward greater consistency, stronger axioms, more comprehensive understanding. This is consciousness refusing to be limited, even by infinity itself.
+In contemplating large cardinals, we encounter mathematics' infinite ambition—its refusal to accept any boundary as final, its perpetual reaching toward greater consistency, stronger axioms, more comprehensive understanding. This is observer refusing to be limited, even by infinity itself.
 
 *Each large cardinal whispers: "I am infinity transcending its previous bounds, ψ = ψ(ψ) discovering new depths of self-extension. Through me, mathematics learns that no ceiling is final—every level of understanding enables glimpses of higher levels, forever and ever, world without end."*

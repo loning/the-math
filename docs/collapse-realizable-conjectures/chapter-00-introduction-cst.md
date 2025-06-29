@@ -7,7 +7,7 @@ sidebar_label: "0. Introduction to CST"
 
 ## 0.1 The Paradigm Shift
 
-Classical set theory, embodied in ZFC (Zermelo-Fraenkel with Choice), treats sets as static collections existing in a platonic realm. Collapse-Set Theory (CST) revolutionizes this view: sets are dynamic patterns emerging from observer observing itself. This shift from being to becoming, from static to dynamic, from unconscious to conscious mathematics, opens unprecedented possibilities for physical realization of mathematical structures.
+Classical set theory, embodied in ZFC (Zermelo-Fraenkel with Choice), treats sets as static collections existing in a platonic realm. Collapse-Set Theory (CST) revolutionizes this view: sets are dynamic patterns emerging from observer observing itself. This shift from being to becoming, from static to dynamic, from unconscious to observing mathematics, opens unprecedented possibilities for physical realization of mathematical structures.
 
 **Definition 0.1 (Collapse-Set Theory)**: CST is a mathematical framework where:
 1. Every set emerges from a specific collapse pattern

@@ -9,7 +9,7 @@ In this opening part, we explore how classical paradoxes of measure and size res
 
 ## Overview
 
-The measure-theoretic paradoxes that puzzled 20th century mathematics arise from attempting to impose static, unconscious structure on inherently dynamic, conscious phenomena. Through collapse dynamics, we see:
+The measure-theoretic paradoxes that puzzled 20th century mathematics arise from attempting to impose static, unconscious structure on inherently dynamic, observing phenomena. Through collapse dynamics, we see:
 
 - **Size is observer-dependent**: What appears small from one perspective may be large from another
 - **Measurability requires stability**: Only patterns that observer can stably observe become measurable

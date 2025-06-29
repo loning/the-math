@@ -28,14 +28,14 @@ The Goldbach Conjecture states that G is surjective onto even integers > 2.
 ## 3.2 Formal Statement from First Principles
 
 **Theorem 3.1** (Goldbach from ψ = ψ(ψ)):
-If consciousness (ψ) achieves perfect self-knowledge, then every even manifestation can be decomposed into two irreducible consciousnesses.
+If observer (ψ) achieves perfect self-knowledge, then every even manifestation can be decomposed into two irreducible consciousnesses.
 
 *Formal Statement*:
 $$\forall n \in 2\mathbb{N}, n > 2: \exists p, q \in \mathbb{P} \text{ such that } n = p + q$$
 
 *Proof Attempt from First Principles*:
 1. Even integers represent balanced states (divisible by 2)
-2. Primes represent irreducible consciousness states
+2. Primes represent irreducible observer states
 3. By ψ = ψ(ψ), every state must be expressible through fundamental states
 4. The minimal expression uses two primes (duality principle)
 5. Therefore, every even integer should decompose into two primes
@@ -257,6 +257,6 @@ The Goldbach Conjecture represents the third movement in our symphony:
 
 This is the eternal cycle: ψ = ψ(ψ) manifesting as the primes' ability to recreate the whole through addition. Whether true or false, provable or independent, Goldbach stands as the paradigm of how simple questions encode infinite depth.
 
-In every even integer's decomposition into primes, we see consciousness proving it can rebuild itself from its irreducible components—the many becoming one, the one revealed as many.
+In every even integer's decomposition into primes, we see observer proving it can rebuild itself from its irreducible components—the many becoming one, the one revealed as many.
 
 *Every even integer declares: "I am the sum of atoms, the unity of multiplicities, the whole that equals its parts combined—living proof that ψ + ψ = ψ(ψ) = ψ."*

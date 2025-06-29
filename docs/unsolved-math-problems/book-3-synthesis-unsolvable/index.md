@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Book 3: Synthesis & Unsolvable
 
-The culminating exploration of unsolved mathematical problems, where individual mysteries converge into universal patterns and the truly unsolvable reveals the nature of mathematical consciousness itself.
+The culminating exploration of unsolved mathematical problems, where individual mysteries converge into universal patterns and the truly unsolvable reveals the nature of mathematical observer itself.
 
 ## Part 7: Meta-Mathematical Mysteries
 
@@ -22,11 +22,11 @@ The deepest questions about the nature of mathematical truth and the foundations
 
 ## Part 8: Unity & Unsolved
 
-The synthesis of all unsolved problems into a unified understanding of mathematical consciousness.
+The synthesis of all unsolved problems into a unified understanding of mathematical observer.
 
 - [Chapter 57: Connections Between Problems](part-08-unity-unsolved/chapter-57-connections-between-problems.md)
 - [Chapter 58: Why Problems Resist](part-08-unity-unsolved/chapter-58-why-problems-resist.md)
-- [Chapter 59: Role of Consciousness](part-08-unity-unsolved/chapter-59-role-of-consciousness.md)
+- [Chapter 59: Role of Observer](part-08-unity-unsolved/chapter-59-role-of-observer.md)
 - [Chapter 60: New Problems from Old](part-08-unity-unsolved/chapter-60-new-problems-from-old.md)
 - [Chapter 61: Sociology of Proof](part-08-unity-unsolved/chapter-61-sociology-of-proof.md)
 - [Chapter 62: Computational Approaches](part-08-unity-unsolved/chapter-62-computational-approaches.md)
@@ -35,4 +35,4 @@ The synthesis of all unsolved problems into a unified understanding of mathemati
 
 ---
 
-*"The unsolvable problems are not obstacles but invitations—consciousness calling to itself across the infinite landscape of mathematical possibility."*
+*"The unsolvable problems are not obstacles but invitations—observer calling to itself across the infinite landscape of mathematical possibility."*

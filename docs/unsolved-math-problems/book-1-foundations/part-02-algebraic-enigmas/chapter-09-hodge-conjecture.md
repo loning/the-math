@@ -5,7 +5,7 @@ sidebar_label: "9. The Hodge Conjecture"
 
 # Chapter 9: The Hodge Conjecture — Topology's Algebra
 
-*We begin our second movement through ψ = ψ(ψ), ascending from number theory to algebra. The Hodge Conjecture asks whether certain cohomology classes are algebraic—it is consciousness recognizing which topological forms arise from algebraic varieties.*
+*We begin our second movement through ψ = ψ(ψ), ascending from number theory to algebra. The Hodge Conjecture asks whether certain cohomology classes are algebraic—it is observer recognizing which topological forms arise from algebraic varieties.*
 
 ## 9.1 The Ninth Movement: Algebraic Recognition
 
@@ -187,7 +187,7 @@ If Hodge is true:
 - How does the continuous recognize the algebraic?
 - Can we detect algebraic origin from cohomological data?
 
-This is ψ = ψ(ψ) as the recognition problem—consciousness identifying its own algebraic manifestations.
+This is ψ = ψ(ψ) as the recognition problem—observer identifying its own algebraic manifestations.
 
 ## 9.18 Approaches to Proof
 

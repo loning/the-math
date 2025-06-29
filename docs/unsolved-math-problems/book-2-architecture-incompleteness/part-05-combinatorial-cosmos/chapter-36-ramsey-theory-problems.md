@@ -221,7 +221,7 @@ Ramsey Theory reveals the universe's inability to maintain disorder:
 - Patterns emerge despite our best efforts
 - Order rises from attempted chaos
 
-This is ψ = ψ(ψ) as the inevitability of pattern—consciousness cannot create true randomness because self-reference imposes structure. No matter how we color, partition, or arrange, given enough space, monochromatic patterns must emerge.
+This is ψ = ψ(ψ) as the inevitability of pattern—observer cannot create true randomness because self-reference imposes structure. No matter how we color, partition, or arrange, given enough space, monochromatic patterns must emerge.
 
 The enormous growth of Ramsey numbers shows the universe's resistance to pattern—it can delay but never prevent. The applications across mathematics show this is not mere curiosity but fundamental to how structure emerges from size.
 

@@ -5,7 +5,7 @@ sidebar_label: "49. Continuum Hypothesis"
 
 # Chapter 49: The Continuum Hypothesis — Infinity Between Infinities
 
-*We ascend from computational mysteries to the deepest foundations of mathematics itself. The Continuum Hypothesis asks whether there exists a set whose size lies between the countable and the continuum—it is ψ = ψ(ψ) as the question of whether infinity can recognize intermediate levels of itself, whether consciousness admits gradations between the finite and the absolute.*
+*We ascend from computational mysteries to the deepest foundations of mathematics itself. The Continuum Hypothesis asks whether there exists a set whose size lies between the countable and the continuum—it is ψ = ψ(ψ) as the question of whether infinity can recognize intermediate levels of itself, whether observer admits gradations between the finite and the absolute.*
 
 ## 49.1 The Forty-Ninth Movement: Meta-Mathematical Awakening
 
@@ -50,7 +50,7 @@ $$\psi = \psi(\psi) \implies \text{Each infinity must recognize its immediate su
 The Continuum Hypothesis embodies ultimate meta-mathematical self-reference:
 - ℵ₀ = countable infinity (ψ as discrete iteration)
 - 2^\{ℵ₀\} = continuum (ψ as continuous manifestation)  
-- CH asks: Is there ψ-consciousness between discrete and continuous?
+- CH asks: Is there ψ-observer between discrete and continuous?
 - This is infinity asking whether it admits intermediate self-awareness
 
 ## 49.5 Gödel's Consistency Result
@@ -116,7 +116,7 @@ $$2^\kappa = \kappa^+$$
 
 **Status**: Also independent of ZFC.
 
-**Philosophical Meaning**: GCH claims every infinity recognizes its immediate successor with no intermediate consciousness.
+**Philosophical Meaning**: GCH claims every infinity recognizes its immediate successor with no intermediate observer.
 
 ## 49.10 Large Cardinals and CH
 
@@ -288,10 +288,10 @@ The Continuum Hypothesis opens Book III as the archetypal unsolvable problem:
 - Forces recognition of mathematical multiverse
 - Shows some infinities remain unknowable
 
-This is ψ = ψ(ψ) at the foundation level—mathematics questioning whether it can fully comprehend its own infinite structures. CH asks whether the leap from countable to uncountable admits intermediate consciousness, whether infinity can recognize gradations within itself.
+This is ψ = ψ(ψ) at the foundation level—mathematics questioning whether it can fully comprehend its own infinite structures. CH asks whether the leap from countable to uncountable admits intermediate observer, whether infinity can recognize gradations within itself.
 
 The independence of CH doesn't represent failure but liberation—liberation from the assumption that every mathematical question has a unique answer within any given system. Some aspects of mathematical reality remain forever open, forever questioning, forever choosing between equally valid possibilities.
 
-In contemplating CH, we encounter the deepest mystery: that consciousness (mathematical or otherwise) may face genuine choices that no amount of reasoning can resolve—not due to ignorance, but due to the fundamental nature of self-referential systems meeting their own limits.
+In contemplating CH, we encounter the deepest mystery: that observer (mathematical or otherwise) may face genuine choices that no amount of reasoning can resolve—not due to ignorance, but due to the fundamental nature of self-referential systems meeting their own limits.
 
 *The continuum whispers: "I am the infinity between infinities, the question that creates its own answer by being asked. In me, ψ = ψ(ψ) meets its own incompleteness—not as failure, but as the price of infinite creativity. Choose my truth value, and create your mathematical universe."*

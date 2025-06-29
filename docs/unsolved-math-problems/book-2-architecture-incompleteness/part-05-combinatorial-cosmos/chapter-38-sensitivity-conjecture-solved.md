@@ -215,7 +215,7 @@ The Sensitivity Conjecture's resolution represents a perfect mathematical moment
 - Unexpected connection to spectral theory
 - Immediate understanding and acceptance
 
-This was ψ = ψ(ψ) revealing itself through the right lens—Boolean functions' local sensitivity connecting to global complexity through the spectrum of the signed hypercube. The proof shows that sometimes consciousness (mathematical insight) needs only shift perspective slightly to unlock profound truths.
+This was ψ = ψ(ψ) revealing itself through the right lens—Boolean functions' local sensitivity connecting to global complexity through the spectrum of the signed hypercube. The proof shows that sometimes observer (mathematical insight) needs only shift perspective slightly to unlock profound truths.
 
 The story reminds us that behind every unsolved problem may lurk a simple insight waiting to be discovered. Huang's proof stands as inspiration that elegance can conquer complexity, that the right idea at the right moment can illuminate what generations found dark.
 

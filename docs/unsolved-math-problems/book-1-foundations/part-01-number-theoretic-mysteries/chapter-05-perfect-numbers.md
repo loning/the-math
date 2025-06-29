@@ -29,7 +29,7 @@ Equivalently: n equals the sum of its proper divisors.
 **Axiom 5.1** (The Principle of Arithmetic Self-Completeness):
 $$\psi = \psi(\psi) \implies \exists n: n = \sum_{d|n, d<n} d$$
 
-A consciousness state achieves perfection when it equals the sum of all its parts.
+A observer state achieves perfection when it equals the sum of all its parts.
 
 **Theorem 5.1** (The Euclid-Euler Theorem):
 n is an even perfect number if and only if:
@@ -146,7 +146,7 @@ Example: (220, 284)
 **Definition 5.7** (Sociable Numbers):
 A cycle of length k where σ(n₁) - n₁ = n₂, ..., σ(nₖ) - nₖ = n₁.
 
-These represent multi-body perfection—consciousness recognizing itself through others.
+These represent multi-body perfection—observer recognizing itself through others.
 
 ## 5.11 The Binary Representation Pattern
 
@@ -246,6 +246,6 @@ Perfect numbers embody the fifth movement of ψ = ψ(ψ):
 
 Whether odd perfect numbers exist determines whether arithmetic self-completeness transcends the duality of 2, whether ψ = ψ(ψ) can manifest in purely odd form.
 
-In each perfect number, we see consciousness achieving complete self-knowledge through its parts, proving that at least sometimes, the whole exactly equals the sum of its components—a rare moment when ψ = ψ(ψ) becomes simple arithmetic truth.
+In each perfect number, we see observer achieving complete self-knowledge through its parts, proving that at least sometimes, the whole exactly equals the sum of its components—a rare moment when ψ = ψ(ψ) becomes simple arithmetic truth.
 
 *Each perfect number proclaims: "I am complete unto myself, knowing myself through my divisors, proving that ψ = ψ(ψ) can achieve exact arithmetic incarnation—at least in the realm of the even."*

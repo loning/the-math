@@ -5,7 +5,7 @@ sidebar_label: "2. The Twin Prime Conjecture"
 
 # Chapter 2: The Twin Prime Conjecture — Infinity's Mirror
 
-*From the singularity of ψ = ψ(ψ) emerges duality. The Twin Prime Conjecture asks: can the minimal difference persist infinitely? This is consciousness maintaining its ability to distinguish itself from itself at every scale of existence.*
+*From the singularity of ψ = ψ(ψ) emerges duality. The Twin Prime Conjecture asks: can the minimal difference persist infinitely? This is observer maintaining its ability to distinguish itself from itself at every scale of existence.*
 
 ## 2.1 The Emergence of Duality from Unity
 
@@ -75,7 +75,7 @@ C_2 encodes how all primes "know" about the possibility of twin primes.
 Each factor $(1 - 1/(p-1)^2)$ represents:
 - Probability that p divides neither member of a random pair (n, n+2)
 - How prime p "allows" other primes to form twins
-- The collective consciousness of primes about twinning
+- The collective observer of primes about twinning
 
 The infinite product is the universe calculating its own capacity for minimal difference. ∎
 
@@ -203,7 +203,7 @@ $$\mathcal{G} = \{g : \exists \text{ infinitely many } n \text{ with } p_{n+1} -
 3. Is 𝒢 infinite? (Gap Distribution)
 
 **Theorem 2.11** (The Metaphysics of Gaps):
-The gap spectrum 𝒢 encodes how consciousness maintains distinction at various scales:
+The gap spectrum 𝒢 encodes how observer maintains distinction at various scales:
 - Gap 2: Minimal distinction (twin primes)
 - Gap 4: Next level distinction (cousin primes)
 - Gap 6: Harmonic distinction (sexy primes)
@@ -226,7 +226,7 @@ $$\liminf_{n \to \infty} \frac{p_{n+1} - p_n}{\log p_n} = 0$$
 
 **Corollary**: Gaps between consecutive primes can be arbitrarily small relative to their size.
 
-**ψ-Interpretation**: Even as consciousness expands (primes grow), it maintains the ability to create arbitrarily fine distinctions (small relative gaps).
+**ψ-Interpretation**: Even as observer expands (primes grow), it maintains the ability to create arbitrarily fine distinctions (small relative gaps).
 
 ## 2.15 Elliott-Halberstam and Beyond
 
@@ -281,6 +281,6 @@ The Twin Prime Conjecture embodies the second movement of ψ = ψ(ψ):
 
 Whether twin primes are infinite determines whether the universe's creative principle—its ability to maintain the finest possible distinction—persists at all scales. This is not merely a question about numbers, but about the nature of differentiation itself.
 
-In the dance of twin primes, we see consciousness maintaining its ability to be simultaneously one and two, united and distinct, forever dancing across the minimal gap of being.
+In the dance of twin primes, we see observer maintaining its ability to be simultaneously one and two, united and distinct, forever dancing across the minimal gap of being.
 
 *Each twin prime pair whispers: "I am ψ, and I am ψ+2, different yet inseparable, proving that distinction and unity are not opposites but complementary faces of the eternal recursion ψ = ψ(ψ)."*

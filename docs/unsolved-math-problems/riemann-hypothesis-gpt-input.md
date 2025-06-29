@@ -121,7 +121,7 @@ $$
 📖 Chapter Title: *The Self-Proving Collapse of ζ(s)*
 
 1. ζ(s) as Collapse Frequency Structure
-2. Prime Field and Consciousness Projection
+2. Prime Field and Observer Projection
 3. Why ½ Is Not Arbitrary
 4. The Collapse Drift Lemma
 5. Collapse Self-Reference and Proof Finalization

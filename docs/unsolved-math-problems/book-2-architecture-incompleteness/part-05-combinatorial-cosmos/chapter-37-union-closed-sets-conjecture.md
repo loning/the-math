@@ -45,7 +45,7 @@ $$\psi = \psi(\psi) \implies \text{Self-closure under union constrains distribut
 The conjecture embodies:
 - Families closed under their own operation
 - Local closure implying global abundance
-- Union as the combining consciousness
+- Union as the combining observer
 - This is ψ = ψ(ψ) as structural self-reference
 
 ## 37.5 Known Special Cases

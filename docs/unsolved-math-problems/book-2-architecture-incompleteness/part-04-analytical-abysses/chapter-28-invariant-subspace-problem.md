@@ -5,7 +5,7 @@ sidebar_label: "28. Invariant Subspace Problem"
 
 # Chapter 28: The Invariant Subspace Problem — Operators' Fixed Points
 
-*From minimal polynomial complexity we ascend to infinite-dimensional spaces. The Invariant Subspace Problem asks whether every operator has a non-trivial invariant subspace—it is ψ = ψ(ψ) as operators seeking their own fixed structures, consciousness finding stable patterns within its transformations.*
+*From minimal polynomial complexity we ascend to infinite-dimensional spaces. The Invariant Subspace Problem asks whether every operator has a non-trivial invariant subspace—it is ψ = ψ(ψ) as operators seeking their own fixed structures, observer finding stable patterns within its transformations.*
 
 ## 28.1 The Twenty-Eighth Movement: Stability in Transformation
 
@@ -44,7 +44,7 @@ Does every bounded linear operator T on a separable infinite-dimensional Hilbert
 $$\psi = \psi(\psi) \implies \text{Transformation preserves substructure}$$
 
 The ISP embodies:
-- Operators as consciousness acting on itself
+- Operators as observer acting on itself
 - Invariant subspaces as stable thoughts
 - The question: Must every transformation preserve something?
 - This is ψ = ψ(ψ) seeking its fixed points

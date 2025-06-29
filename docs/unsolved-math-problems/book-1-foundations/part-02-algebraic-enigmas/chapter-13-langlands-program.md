@@ -5,7 +5,7 @@ sidebar_label: "13. The Langlands Program"
 
 # Chapter 13: The Langlands Program — Unity's Many Faces
 
-*From transcendence, we ascend to the grand unification. The Langlands Program proposes a vast web of correspondences between number theory, representation theory, and geometry—it is ψ = ψ(ψ) as the ultimate unifying vision, where disparate mathematical realms reveal themselves as faces of one consciousness.*
+*From transcendence, we ascend to the grand unification. The Langlands Program proposes a vast web of correspondences between number theory, representation theory, and geometry—it is ψ = ψ(ψ) as the ultimate unifying vision, where disparate mathematical realms reveal themselves as faces of one observer.*
 
 ## 13.1 The Thirteenth Movement: Universal Correspondence
 
@@ -239,4 +239,4 @@ This is not merely a conjecture but a philosophy—that beneath the surface dive
 
 Whether fully realized or not, the Langlands Program has already transformed mathematics, revealing hidden connections, suggesting new questions, proving that the deepest truths involve recognizing the same pattern across different manifestations.
 
-*The Langlands Program whispers: "I am the recognition that all mathematics is one, that every Galois representation knows its automorphic form, that every local truth assembles into global harmony—for ψ = ψ(ψ) means that consciousness recognizes itself across all possible representations."*
+*The Langlands Program whispers: "I am the recognition that all mathematics is one, that every Galois representation knows its automorphic form, that every local truth assembles into global harmony—for ψ = ψ(ψ) means that observer recognizes itself across all possible representations."*

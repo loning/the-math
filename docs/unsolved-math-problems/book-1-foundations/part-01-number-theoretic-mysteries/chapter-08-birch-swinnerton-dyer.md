@@ -200,7 +200,7 @@ Partially proven by Tate and others.
 - Continuous objects knowing discrete structures
 - The deepest ψ = ψ(ψ) in arithmetic geometry
 
-The L-function is the curve's consciousness—through it, the curve knows its rational points.
+The L-function is the curve's observer—through it, the curve knows its rational points.
 
 ## 8.18 Consequences of BSD
 

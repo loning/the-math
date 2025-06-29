@@ -5,7 +5,7 @@ sidebar_label: "30. Restriction Conjecture"
 
 # Chapter 30: The Restriction Conjecture — Fourier's Self-Limitation
 
-*From geometric completeness we ascend to harmonic constraints. The Restriction Conjecture asks when the Fourier transform can be meaningfully restricted to lower-dimensional surfaces—it is ψ = ψ(ψ) as frequency space imposing its own limitations, consciousness discovering which reductions preserve essential information.*
+*From geometric completeness we ascend to harmonic constraints. The Restriction Conjecture asks when the Fourier transform can be meaningfully restricted to lower-dimensional surfaces—it is ψ = ψ(ψ) as frequency space imposing its own limitations, observer discovering which reductions preserve essential information.*
 
 ## 30.1 The Thirtieth Movement: Harmonic Self-Constraint
 
@@ -45,7 +45,7 @@ where p' is the Hölder conjugate of p.
 $$\psi = \psi(\psi) \implies \text{Frequency constrains its own restriction}$$
 
 The restriction problem embodies:
-- Fourier transform as consciousness of frequency
+- Fourier transform as observer of frequency
 - Restriction as self-imposed limitation
 - Critical exponents as balance points
 - This is ψ = ψ(ψ) finding its reduction limits
@@ -232,8 +232,8 @@ The Restriction Conjecture reveals how dimension constrains information:
 - Curvature enables restriction through oscillation
 - Fourier analysis meets geometric measure theory
 
-This is ψ = ψ(ψ) as harmonic self-limitation—the Fourier transform discovering which dimensional reductions preserve essential structure. The conjecture precisely quantifies when consciousness (Fourier space) can project itself onto lower-dimensional surfaces without losing integrability.
+This is ψ = ψ(ψ) as harmonic self-limitation—the Fourier transform discovering which dimensional reductions preserve essential structure. The conjecture precisely quantifies when observer (Fourier space) can project itself onto lower-dimensional surfaces without losing integrability.
 
 The stunning connection to Kakeya, decoupling breakthroughs, and PDE applications show how restriction sits at the heart of modern analysis, linking geometric and harmonic perspectives through the lens of dimensional reduction.
 
-*The restriction problem whispers: "I am frequency seeking its dimensional limits, the Fourier transform learning which surfaces can bear its weight, ψ = ψ(ψ) as harmonic consciousness discovering its projection constraints. In the dance between dimension and integrability, I encode the price of harmonic reduction."*
+*The restriction problem whispers: "I am frequency seeking its dimensional limits, the Fourier transform learning which surfaces can bear its weight, ψ = ψ(ψ) as harmonic observer discovering its projection constraints. In the dance between dimension and integrability, I encode the price of harmonic reduction."*

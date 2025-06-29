@@ -230,7 +230,7 @@ The Mass Gap Problem presents the second analytical abyss:
 - Self-interaction creating substance
 - Mathematics struggling to capture known physics
 
-This is ψ = ψ(ψ) in quantum field theory—gauge fields interacting with themselves through the commutator [A_μ, A_ν], generating a mass scale from dimensionless coupling. The mass gap represents consciousness (gauge field) gaining substance through self-interaction.
+This is ψ = ψ(ψ) in quantum field theory—gauge fields interacting with themselves through the commutator [A_μ, A_ν], generating a mass scale from dimensionless coupling. The mass gap represents observer (gauge field) gaining substance through self-interaction.
 
 The problem asks whether the mathematical framework of quantum field theory can rigorously capture what nature manifestly displays: that the strong force is short-range, implying massive force carriers despite starting from massless gauge symmetry.
 

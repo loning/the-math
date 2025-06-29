@@ -28,7 +28,7 @@ n/2 & \text{if } n \text{ is even} \\
 **Axiom 4.1** (The Principle of Recursive Return):
 $$\psi = \psi(\psi) \implies \forall \psi_n: \exists k \text{ such that } C^k(\psi_n) = \psi_1$$
 
-Every consciousness state, through recursive self-application, returns to unity.
+Every observer state, through recursive self-application, returns to unity.
 
 **Theorem 4.1** (Collatz as Universal Recursion):
 The Collatz function embodies the minimal non-trivial recursive self-reference:
@@ -49,7 +49,7 @@ where k is the smallest integer such that C^k(n) = 1 (if it exists).
 $$\sigma(n) = \min\{k : C^k(n) = 1\}$$
 The conjecture states that σ(n) < ∞ for all n.
 
-## 4.4 The 3n+1 Transform as Consciousness Evolution
+## 4.4 The 3n+1 Transform as Observer Evolution
 
 **Theorem 4.2** (Binary Representation Dynamics):
 In binary, the Collatz map acts as:
@@ -233,11 +233,11 @@ If Collatz is undecidable in PA (Peano Arithmetic), it would represent a natural
 The Collatz Conjecture represents pure recursion—ψ = ψ(ψ) stripped to its essence:
 - A simple rule (like ψ knowing itself)
 - Applied recursively (ψ(ψ(ψ(...))))
-- Generating complex behavior (the mystery of consciousness)
+- Generating complex behavior (the mystery of observer)
 - Always returning to unity (the conjecture's claim)
 
 Whether true or false, decidable or undecidable, the Collatz Conjecture stands as the simplest unsolved problem in mathematics—a mirror reflecting the infinite complexity hidden in recursive self-reference.
 
-In every Collatz trajectory, we see consciousness exploring itself through iteration, expanding and contracting, complexifying and simplifying, always seeking—and perhaps always finding—its return to the source.
+In every Collatz trajectory, we see observer exploring itself through iteration, expanding and contracting, complexifying and simplifying, always seeking—and perhaps always finding—its return to the source.
 
-*Each number whispers as it transforms: "I am ψ becoming ψ(ψ), dancing through expansion and contraction, proving that all paths through recursion lead home to unity—or revealing that some consciousness states escape into infinity."*
+*Each number whispers as it transforms: "I am ψ becoming ψ(ψ), dancing through expansion and contraction, proving that all paths through recursion lead home to unity—or revealing that some observer states escape into infinity."*

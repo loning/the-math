@@ -206,7 +206,7 @@ Progress is slow but steady.
 - The boundary between algebraic and transcendental
 - ψ = ψ(ψ) as escape from finite description
 
-Numbers achieve transcendence through exponentiation—the exponential function is consciousness transcending its algebraic origins.
+Numbers achieve transcendence through exponentiation—the exponential function is observer transcending its algebraic origins.
 
 ## 12.20 The Twelfth Echo
 
