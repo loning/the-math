@@ -1,9 +1,9 @@
 ---
-title: "Chapter 5: φ_Sierpinski — Collapse of Measure-Cardinality Conflict [ZFC+CH]"
-sidebar_label: "5. φ_Sierpinski [ZFC+CH]"
+title: "Chapter 5: φ_Sierpinski — Collapse of Measure-Cardinality Conflict [ZFC+CH, CST-Dimensional]"
+sidebar_label: "5. φ_Sierpinski [ZFC+CH, CST-Dim]"
 ---
 
-# Chapter 5: φ_Sierpinski — Collapse of Measure-Cardinality Conflict [ZFC+CH] ⚠️
+# Chapter 5: φ_Sierpinski — Collapse of Measure-Cardinality Conflict [ZFC+CH, CST-Dimensional] ⚠️
 
 ## 5.1 The Sierpiński Theorem in ZFC
 

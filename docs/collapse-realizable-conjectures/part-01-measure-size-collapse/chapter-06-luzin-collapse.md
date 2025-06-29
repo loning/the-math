@@ -1,9 +1,9 @@
 ---
-title: "Chapter 6: φ_Luzin — Collapse of Sparse Uncountable Sets [ZFC+CH]"
-sidebar_label: "6. φ_Luzin [ZFC+CH]"
+title: "Chapter 6: φ_Luzin — Collapse of Sparse Uncountable Sets [ZFC+CH, CST-Constructible]"
+sidebar_label: "6. φ_Luzin [ZFC+CH, CST-Const]"
 ---
 
-# Chapter 6: φ_Luzin — Collapse of Sparse Uncountable Sets [ZFC+CH] ⚠️
+# Chapter 6: φ_Luzin — Collapse of Sparse Uncountable Sets [ZFC+CH, CST-Constructible] ⚠️
 
 ## 6.1 Luzin Sets in ZFC
 

@@ -17,20 +17,20 @@ A Post-ZFC Language introducing Collapse-Set Theory fundamentals.
 ### [Part I: Measure & Size Collapse](part-01-measure-size-collapse/index.md) (Chapters 1-8)
 Exploring how measure-theoretic paradoxes resolve through collapse dynamics:
 
-1. [φ_Borel — Collapse of Strong Measure Zero](part-01-measure-size-collapse/chapter-01-borel-collapse.md) [ZFC-Independent] ✅
+1. [φ_Borel — Collapse of Strong Measure Zero](part-01-measure-size-collapse/chapter-01-borel-collapse.md) [ZFC-Independent, CST-Provable] ✅
 2. [φ_AntiBanach — Banach-Tarski Collapse Blockade](part-01-measure-size-collapse/chapter-02-antibanach-collapse.md) [ZFC-Provable] ✅
 3. [φ_NonMeasurable — Collapse Prohibition of Non-Measurable Sets](part-01-measure-size-collapse/chapter-03-nonmeasurable-collapse.md) [ZFC-Provable] ⚠️
 4. [φ_Steinhaus — Local Structure in Collapse Groups](part-01-measure-size-collapse/chapter-04-steinhaus-collapse.md) [ZFC-Provable] ✅
-5. [φ_Sierpinski — Collapse of Measure-Cardinality Conflict](part-01-measure-size-collapse/chapter-05-sierpinski-collapse.md) [ZFC+CH] ⚠️
-6. [φ_Luzin — Collapse of Sparse Uncountable Sets](part-01-measure-size-collapse/chapter-06-luzin-collapse.md) [ZFC+CH] ⚠️
+5. [φ_Sierpinski — Collapse of Measure-Cardinality Conflict](part-01-measure-size-collapse/chapter-05-sierpinski-collapse.md) [ZFC+CH, CST-Dimensional] ⚠️
+6. [φ_Luzin — Collapse of Sparse Uncountable Sets](part-01-measure-size-collapse/chapter-06-luzin-collapse.md) [ZFC+CH, CST-Constructible] ⚠️
 7. [φ_Vitali — Collapse Denial of Vitali-type Partitions](part-01-measure-size-collapse/chapter-07-vitali-collapse.md) [ZFC-Provable] ❌
 8. [φ_InnerRegularity — Collapse Approximation of Measures](part-01-measure-size-collapse/chapter-08-inner-regularity-collapse.md) [ZFC-Provable] ✅
 
 ### [Part II: Algebraic Collapse](part-02-algebraic-collapse/index.md) (Chapters 9-16)
 Revealing algebraic structures as collapse patterns:
 
-9. [φ_Whitehead — Collapse of Ext¹ and Freeness](part-02-algebraic-collapse/chapter-09-whitehead-collapse.md) [ZFC-Independent] ✅
-10. [φ_Kaplansky — Collapse of Projective Modules](part-02-algebraic-collapse/chapter-10-kaplansky-collapse.md) [Open Conjecture] ⚠️
+9. [φ_Whitehead — Collapse of Ext¹ and Freeness](part-02-algebraic-collapse/chapter-09-whitehead-collapse.md) [ZFC-Independent, CST-Provable] ✅
+10. [φ_Kaplansky — Collapse of Projective Modules](part-02-algebraic-collapse/chapter-10-kaplansky-collapse.md) [Open Conjecture, CST-Partial] ⚠️
 11. [φ_FreeProduct — Collapse Stability of Free Products](part-02-algebraic-collapse/chapter-11-free-product-collapse.md) [ZFC-Provable] ✅
 12. [φ_Baer — Collapse and Torsion Embeddings](part-02-algebraic-collapse/chapter-12-baer-collapse.md) [ZFC-Provable] ⚠️
 13. [φ_GrothendieckGroup — K-Theory Collapse Echo](part-02-algebraic-collapse/chapter-13-grothendieck-group-collapse.md) [ZFC-Provable] ✅
@@ -41,7 +41,7 @@ Revealing algebraic structures as collapse patterns:
 ### [Part III: Topological Collapse](part-03-topological-collapse/index.md) (Chapters 17-24)
 Understanding topological properties as observer-dependent collapse phenomena:
 
-17. [φ_Continuum — Collapse Cardinality of the Real Line](part-03-topological-collapse/chapter-17-continuum-collapse.md) [ZFC-Independent] ❌
+17. [φ_Continuum — Collapse Cardinality of the Real Line](part-03-topological-collapse/chapter-17-continuum-collapse.md) [ZFC-Independent, CST-Observer-Dependent] ❌
 18. [φ_Dimension — Collapse Invariance in Manifolds](part-03-topological-collapse/chapter-18-dimension-collapse.md) [ZFC-Provable] ✅
 19. [φ_Homotopy — Collapse Equivalence of Continuous Maps](part-03-topological-collapse/chapter-19-homotopy-collapse.md) [ZFC-Provable] ✅
 20. [φ_Knot — Collapse Invariants of Embeddings](part-03-topological-collapse/chapter-20-knot-collapse.md) [ZFC-Provable] ✅
@@ -54,9 +54,9 @@ Understanding topological properties as observer-dependent collapse phenomena:
 Discovering how discrete structures emerge from collapse dynamics:
 
 25. [φ_Ramsey — Collapse of Monochromatic Structures](part-04-combinatorial-graph-collapse/chapter-25-ramsey-collapse.md) [ZFC-Provable] ✅
-26. [φ_GraphColoring — Chromatic Collapse Patterns](part-04-combinatorial-graph-collapse/chapter-26-graphcoloring-collapse.md) [Open Conjecture] ⚠️
+26. [φ_GraphColoring — Chromatic Collapse Patterns](part-04-combinatorial-graph-collapse/chapter-26-graphcoloring-collapse.md) [Open Conjecture, CST-Algorithmic] ⚠️
 27. [φ_PerfectGraph — Collapse Optimization in Graphs](part-04-combinatorial-graph-collapse/chapter-27-perfectgraph-collapse.md) [ZFC-Provable] ✅
-28. [φ_Hadwiger — Minor Collapse and Coloring](part-04-combinatorial-graph-collapse/chapter-28-hadwiger-collapse.md) [Open Conjecture] ❌
+28. [φ_Hadwiger — Minor Collapse and Coloring](part-04-combinatorial-graph-collapse/chapter-28-hadwiger-collapse.md) [Open Conjecture, Meta-Mathematical] ❌
 29. [φ_TreeDecomposition — Hierarchical Collapse Structures](part-04-combinatorial-graph-collapse/chapter-29-treedecomposition-collapse.md) [ZFC-Provable] ✅
 30. [φ_Matching — Collapse Pairing in Bipartite Systems](part-04-combinatorial-graph-collapse/chapter-30-matching-collapse.md) [ZFC-Provable] ✅
 31. [φ_Flow — Network Collapse and Conservation](part-04-combinatorial-graph-collapse/chapter-31-flow-collapse.md) [ZFC-Provable] ✅

@@ -1,9 +1,9 @@
 ---
-title: "Chapter 10: φ_Kaplansky — Collapse of Projective Modules [Open Conjecture]"
-sidebar_label: "10. φ_Kaplansky [Open]"
+title: "Chapter 10: φ_Kaplansky — Collapse of Projective Modules [Open Conjecture, CST-Partial]"
+sidebar_label: "10. φ_Kaplansky [Open, CST-Part]"
 ---
 
-# Chapter 10: φ_Kaplansky — Collapse of Projective Modules [Open Conjecture] ⚠️
+# Chapter 10: φ_Kaplansky — Collapse of Projective Modules [Open Conjecture, CST-Partial] ⚠️
 
 ## 10.1 Kaplansky's Conjecture in ZFC
 

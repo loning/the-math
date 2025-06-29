@@ -1,9 +1,9 @@
 ---
-title: "Chapter 1: φ_Borel — Collapse of Strong Measure Zero [ZFC-Independent]"
-sidebar_label: "1. φ_Borel [ZFC-Ind]"
+title: "Chapter 1: φ_Borel — Collapse of Strong Measure Zero [ZFC-Independent, CST-Provable]"
+sidebar_label: "1. φ_Borel [ZFC-Ind, CST-Prov]"
 ---
 
-# Chapter 1: φ_Borel — Collapse of Strong Measure Zero [ZFC-Independent] ✅
+# Chapter 1: φ_Borel — Collapse of Strong Measure Zero [ZFC-Independent, CST-Provable] ✅
 
 ## 1.1 The Borel Conjecture in ZFC
 

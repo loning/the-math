@@ -1,9 +1,9 @@
 ---
-title: "Chapter 9: φ_Whitehead — Collapse of Ext¹ and Freeness [ZFC-Independent]"
-sidebar_label: "9. φ_Whitehead [ZFC-Ind]"
+title: "Chapter 9: φ_Whitehead — Collapse of Ext¹ and Freeness [ZFC-Independent, CST-Provable]"
+sidebar_label: "9. φ_Whitehead [ZFC-Ind, CST-Prov]"
 ---
 
-# Chapter 9: φ_Whitehead — Collapse of Ext¹ and Freeness [ZFC-Independent] ✅
+# Chapter 9: φ_Whitehead — Collapse of Ext¹ and Freeness [ZFC-Independent, CST-Provable] ✅
 
 ## 9.1 The Whitehead Problem in ZFC
 
