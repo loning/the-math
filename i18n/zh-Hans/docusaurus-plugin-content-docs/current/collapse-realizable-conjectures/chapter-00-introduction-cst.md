@@ -99,9 +99,9 @@ CST翻译：∃t : x ∈ₜ A，意思是"在时间t，x通过观察属于A"
 
 ### 构造到生成
 
-ZFC：A = {x : φ(x)}
+ZFC：A = \lbrace x : φ(x) \rbrace
 
-CST：A = {x : ψ ○ Pφ ↓ x}，其中Pφ编码性质φ的模式
+CST：A = \lbrace x : ψ ○ Pφ ↓ x \rbrace，其中Pφ编码性质φ的模式
 
 ### 证明到坍缩序列
 
