@@ -83,6 +83,11 @@ This single axiom generates all mathematics through self-observation, replacing 
 - No alternative mathematics
 - Objection-immune proof
 
+### [Chapter 15: The Riemann Hypothesis in Collapse-Set Theory Framework](chapter-15-cst-framework-riemann-hypothesis.md)
+- Beyond classical foundations
+- Zeros as consciousness nodes
+- RH as cosmic necessity
+
 ## Main Result
 
 **Theorem**: All non-trivial zeros of ζ(s) lie on Re(s) = 1/2.
