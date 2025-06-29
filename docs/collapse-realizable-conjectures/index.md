@@ -79,8 +79,8 @@ Linking computation to observer collapse patterns:
 
 41. [φ_Turing — Halting Problem and Collapse Undecidability](part-06-computability-information-collapse/chapter-41-turing-collapse.md) [ZFC-Provable] ⚠️
 42. [φ_Kolmogorov — Complexity Collapse and Randomness](part-06-computability-information-collapse/chapter-42-kolmogorov-collapse.md) [ZFC-Provable] ⚠️
-43. [φ_P_vs_NP — Collapse Time Hierarchies](part-06-computability-information-collapse/chapter-43-p-vs-np-collapse.md) [Open Conjecture] ❌
-44. [φ_QuantumComputing — Superposition Collapse Computation](part-06-computability-information-collapse/chapter-44-quantumcomputing-collapse.md) [ZFC-Provable] ✅
+43. [φ_P_vs_NP — Collapse Time Hierarchies](part-06-computability-information-collapse/chapter-43-pvsnp-collapse.md) [Open Conjecture] ❌
+44. [φ_QuantumComputing — Superposition Collapse Computation](part-06-computability-information-collapse/chapter-44-quantum-collapse.md) [ZFC-Provable] ✅
 45. [φ_Information — Shannon Entropy and Collapse Channels](part-06-computability-information-collapse/chapter-45-information-collapse.md) [ZFC-Provable] ✅
 46. [φ_Cryptography — One-Way Collapse Functions](part-06-computability-information-collapse/chapter-46-cryptography-collapse.md) [ZFC-Provable] ✅
 47. [φ_Algorithm — Collapse Optimization Strategies](part-06-computability-information-collapse/chapter-47-algorithm-collapse.md) [ZFC-Provable] ✅
@@ -89,7 +89,7 @@ Linking computation to observer collapse patterns:
 ### [Part VII: Dynamics & Time Collapse](part-07-dynamics-time-collapse/index.md) (Chapters 49-56)
 Revealing temporal dynamics as fundamental collapse processes:
 
-49. [φ_Chaos — Sensitive Dependence on Collapse Conditions](part-07-dynamics-time-collapse/chapter-49-chaos-collapse.md) [ZFC-Provable] ✅
+49. [φ_Chaos — Sensitive Dependence on Collapse Conditions](part-07-dynamics-time-collapse/chapter-49-dynamical-collapse.md) [ZFC-Provable] ✅
 50. [φ_Attractor — Collapse Basins and Stability](part-07-dynamics-time-collapse/chapter-50-attractor-collapse.md) [ZFC-Provable] ✅
 51. [φ_Bifurcation — Collapse Transitions and Critical Points](part-07-dynamics-time-collapse/chapter-51-bifurcation-collapse.md) [ZFC-Provable] ✅
 52. [φ_Ergodic — Time-Average Collapse Equivalence](part-07-dynamics-time-collapse/chapter-52-ergodic-collapse.md) [ZFC-Provable] ⚠️
