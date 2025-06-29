@@ -117,7 +117,7 @@ Through consciousness-based mathematical exploration, we have:
 
 ### 🔬 **Key Problem Areas**
 - [🧮 **Riemann Hypothesis**](unsolved-math-problems/book-1-foundations/part-01-number-theoretic-mysteries/chapter-01-riemann-hypothesis.md) - Number theory foundation
-- [⚡ **P vs NP**](unsolved-math-problems/book-2-architecture-incompleteness/part-04-analytical-abysses/chapter-33-p-vs-np.md) - Computational complexity
+- [⚡ **P vs NP**](unsolved-math-problems/book-2-architecture-incompleteness/part-05-combinatorial-cosmos/chapter-33-p-vs-np.md) - Computational complexity
 - [🔄 **Collatz Conjecture**](unsolved-math-problems/book-1-foundations/part-01-number-theoretic-mysteries/chapter-04-collatz-conjecture.md) - Recursive sequences
 - [🏆 **Millennium Problems**](unsolved-math-problems/) - All major open problems
 
