@@ -144,13 +144,15 @@ $$\psi \xrightarrow{\text{must}} \mathbb{N} \xrightarrow{\text{must}} \text{Prim
 
 **Theorem 15.2 (Necessary Generation Chain)**: In CST, the following implications are forced:
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 &\text{(1) } \psi = \psi(\psi) \Rightarrow \exists \mathbb{N} \\
 &\text{(2) } \exists \mathbb{N} \land \psi \Rightarrow \exists \text{Primes} \\
 &\text{(3) } \exists \text{Primes} \land \psi \Rightarrow \exists \zeta(s) \\
 &\text{(4) } \exists \zeta(s) \land \psi \Rightarrow \exists \text{Zeros} \\
 &\text{(5) } \exists \text{Zeros} \land \psi \Rightarrow \forall \rho (\zeta(\rho)=0 \Rightarrow \text{Re}(\rho)=1/2)
-\end{aligned}$$
+\end{aligned}
+$$
 
 *Proof*: Each implication follows from CST axioms:
 - (1): CST2 generates counting via self-observation
