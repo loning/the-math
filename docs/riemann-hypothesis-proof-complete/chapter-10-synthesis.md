@@ -125,4 +125,4 @@ This completes our proof.
 
 ---
 
-*Continue to [Chapter 11: Computational Verification](chapter-11-computation.md) for numerical confirmation, or return to the [Table of Contents](index.md).*
+*Continue to [Chapter 11: Meta-Emergence](chapter-11-meta-emergence.md) for numerical confirmation, or return to the [Table of Contents](index.md).*

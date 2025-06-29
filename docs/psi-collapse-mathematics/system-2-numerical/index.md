@@ -15,10 +15,10 @@ From the primordial ψ = ψ(ψ), numbers emerge not as abstract entities but as 
 11. [ψ⁰ and Frequency Seed Structure](chapter-011-psi-zero-frequency-seed.md)
 12. [ψⁿ as Natural Number Resonance](chapter-012-psi-n-natural-resonance.md)
 13. [Collapse Addition and ψ-Fusion](chapter-013-collapse-addition-fusion.md)
-14. [Collapse Multiplication and Echo-Coupling](chapter-014-collapse-multiplication-echo.md)
+14. [Collapse Multiplication and Echo-Coupling](chapter-014-collapse-multiplication-echo-coupling.md)
 15. [Rationality and Collapse Ratios](chapter-015-rationality-collapse-ratios.md)
-16. [ψ-Real Line as Frequency Continuum](chapter-016-psi-real-frequency-continuum.md)
-17. [ψ-Infinite Expansion and Hypernumber](chapter-017-psi-infinite-expansion.md)
+16. [ψ-Real Line as Frequency Continuum](chapter-016-psi-real-line-frequency-continuum.md)
+17. [ψ-Infinite Expansion and Hypernumber](chapter-017-psi-infinite-expansion-hypernumber.md)
 18. [Prime as Collapse Singularities](chapter-018-prime-collapse-singularities.md)
 
 ## Core Revelations

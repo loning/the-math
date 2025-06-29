@@ -13,31 +13,31 @@ sidebar_position: 3
 
 ## 章节
 
-### [第19章：坍缩逻辑与真值动力学](./chapter-019-collapse-logic-truth-dynamics)
+### [第19章：坍缩逻辑与真值动力学](./chapter-019-collapse-logic-truth-dynamics.md)
 真值如何从观察坍缩中涌现而非静态存在。
 
-### [第20章：ψ否定作为相位反转](./chapter-020-psi-negation-phase-inversion)
+### [第20章：ψ否定作为相位反转](./chapter-020-psi-negation-phase-inversion.md)
 否定作为观察场中的180°相移而非单纯否认。
 
-### [第21章：坍缩合取与量子与](./chapter-021-collapse-conjunction-quantum-and)
+### [第21章：坍缩合取与量子与](./chapter-021-collapse-conjunction-quantum-and.md)
 逻辑与作为需要两个状态一起坍缩的纠缠。
 
-### [第22章：坍缩析取与可能性云](./chapter-022-collapse-disjunction-possibility-clouds)
+### [第22章：坍缩析取与可能性云](./chapter-022-collapse-disjunction-possibility-clouds.md)
 逻辑或作为维持多种可能性直到观察的叠加。
 
-### [第23章：ψ蕴涵与坍缩因果性](./chapter-023-psi-implication-collapse-causality)
+### [第23章：ψ蕴涵与坍缩因果性](./chapter-023-psi-implication-collapse-causality.md)
 蕴涵作为从前件到后件的坍缩传播。
 
-### [第24章：模态坍缩逻辑与必然性](./chapter-024-modal-collapse-logic-necessity)
+### [第24章：模态坍缩逻辑与必然性](./chapter-024-modal-collapse-logic-necessity.md)
 必然性和可能性作为模态空间中不同的坍缩约束。
 
-### [第25章：通过ψ层级的悖论解决](./chapter-025-paradox-resolution-psi-levels)
+### [第25章：通过ψ层级的悖论解决](./chapter-025-paradox-resolution-psi-levels.md)
 自指悖论如何通过递归坍缩层级消解。
 
-### [第26章：坍缩量词与观察范围](./chapter-026-collapse-quantifiers-observation-scope)
+### [第26章：坍缩量词与观察范围](./chapter-026-collapse-quantifiers-observation-scope.md)
 全称和存在量化作为不同的观察协议。
 
-### [第27章：元逻辑与自指真理](./chapter-027-metalogic-self-referential-truth)
+### [第27章：元逻辑与自指真理](./chapter-027-metalogic-self-referential-truth.md)
 逻辑本身的逻辑，其中ψ = ψ(ψ)成为推理的基础。
 
 ## 核心原理

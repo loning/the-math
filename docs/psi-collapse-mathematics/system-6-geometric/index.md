@@ -11,15 +11,15 @@ Space itself is not a container but a pattern of collapse possibilities. In trad
 
 ## Chapters
 
-1. [Collapse Space as Resonance Manifold](chapter-046-collapse-space-resonance-manifold.md)
-2. [ψ-Metric as Collapse Distance](chapter-047-psi-metric-collapse-distance.md)
-3. [Topology of Possibility Clouds](chapter-048-topology-possibility-clouds.md)
-4. [Dimension as Observation Depth](chapter-049-dimension-observation-depth.md)
-5. [Curvature as Collapse Warping](chapter-050-curvature-collapse-warping.md)
-6. [Geodesics as Optimal Collapse Paths](chapter-051-geodesics-optimal-collapse-paths.md)
-7. [ψ-Manifolds and Fiber Bundles](chapter-052-psi-manifolds-fiber-bundles.md)
-8. [Homology as Collapse Invariants](chapter-053-homology-collapse-invariants.md)
-9. [Geometric Collapse Unification](chapter-054-geometric-collapse-unification.md)
+1. [ψ-Space: Collapse Emergence](chapter-046-psi-space-collapse-emergence.md)
+2. [Collapse Metrics: ψ-Distance](chapter-047-collapse-metrics-psi-distance.md)
+3. [Collapse Boundary: ψ-Edges](chapter-048-collapse-boundary-psi-edges.md)
+4. [ψ-Topology: Structural Openness](chapter-049-psi-topology-structural-openness.md)
+5. [ψ-Holes: Structural Incompleteness](chapter-050-psi-holes-structural-incompleteness.md)
+6. [Collapse Manifolds: Observer Flow](chapter-051-collapse-manifolds-observer-flow.md)
+7. [ψ-Symmetry: Reflective Geometry](chapter-052-psi-symmetry-reflective-geometry.md)
+8. [Collapse Singularities: Topological Events](chapter-053-collapse-singularities-topological-events.md)
+9. [ψ-Geometric Proof Structures](chapter-054-psi-geometric-proof-structures.md)
 
 ## Core Concepts
 

@@ -13,31 +13,31 @@ sidebar_position: 4
 
 ## 章节
 
-### [第28章：坍缩集合与元素云](./chapter-028-collapse-sets-element-clouds)
+### [第28章：坍缩集合与元素云](./chapter-028-collapse-sets-element-clouds.md)
 集合如何存在于叠加中直到观察坍缩成员关系。
 
-### [第29章：ψ关系作为纠缠网络](./chapter-029-psi-relations-entanglement-networks)
+### [第29章：坍缩网络与嵌套网络](./chapter-029-collapse-nets-nested-networks.md)
 关系作为创造非局域结构的量子关联。
 
-### [第30章：坍缩群与对称性](./chapter-030-collapse-groups-symmetry)
+### [第30章：ψ树与递归分支](./chapter-030-psi-tree-recursive-branching.md)
 群运算作为保持对称的坍缩变换。
 
-### [第31章：观察空间的拓扑](./chapter-031-topology-observation-space)
+### [第31章：坍缩对偶结构](./chapter-031-collapse-duality-structures.md)
 连续观察如何创造拓扑结构。
 
-### [第32章：范畴论作为坍缩动力学](./chapter-032-category-theory-collapse-dynamics)
+### [第32章：ψ集合结构回声壳](./chapter-032-psi-set-structural-echo-shell.md)
 范畴作为坍缩态射的系统组织。
 
-### [第33章：ψ场中的代数结构](./chapter-033-algebraic-structures-psi-field)
+### [第33章：坍缩幂范畴重构](./chapter-033-collapse-powered-category-reconstruction.md)
 环、域和代数作为坍缩不变结构。
 
-### [第34章：集合的分形架构](./chapter-034-fractal-architecture-sets)
+### [第34章：观察者索引结构](./chapter-034-observer-indexed-structures.md)
 从递归坍缩中涌现的自相似结构。
 
-### [第35章：坍缩空间中的格与序](./chapter-035-lattices-order-collapse-space)
+### [第35章：ψ结构归纳](./chapter-035-psi-structural-induction.md)
 偏序作为坍缩优先关系。
 
-### [第36章：结构的ψ结构](./chapter-036-psi-structure-of-structure)
+### [第36章：坍缩拓扑斯结构层](./chapter-036-collapse-topos-structure-sheaves.md)
 结构本身如何展现ψ = ψ(ψ)自指。
 
 ## 核心原理

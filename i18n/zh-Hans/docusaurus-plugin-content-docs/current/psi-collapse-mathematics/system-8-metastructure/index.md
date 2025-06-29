@@ -11,15 +11,15 @@ sidebar_position: 8
 
 ## 章节
 
-1. [元系统作为观察者壳](chapter-064-meta-systems-observer-shells.md)
-2. [ψ递归结构层次](chapter-065-psi-recursive-structure-hierarchy.md)
-3. [自指与坍缩循环](chapter-066-self-reference-collapse-loops.md)
-4. [通过分层的不完备性控制](chapter-067-incompleteness-control-layering.md)
-5. [元坍缩与高级观察](chapter-068-meta-collapse-higher-observation.md)
-6. [系统边界作为相变](chapter-069-system-boundaries-phase-transitions.md)
-7. [ψ反射与意识建模](chapter-070-psi-reflection-consciousness-modeling.md)
-8. [通用元数学](chapter-071-universal-meta-mathematics.md)
-9. [ψ元结构完备性](chapter-072-psi-metastructure-completeness.md)
+1. [元系统作为观察者壳](chapter-064-meta-structural-collapse-observation.md)
+2. [ψ递归结构层次](chapter-065-psi-hierarchy-recursive-levels.md)
+3. [自指与坍缩循环](chapter-066-collapse-meta-category-theory.md)
+4. [通过分层的不完备性控制](chapter-067-psi-emergent-structure-dynamics.md)
+5. [元坍缩与高级观察](chapter-068-observer-structure-interaction.md)
+6. [系统边界作为相变](chapter-069-collapse-meta-logic-framework.md)
+7. [ψ反射与意识建模](chapter-070-psi-system-self-reference-architecture.md)
+8. [通用元数学](chapter-071-meta-mathematical-consciousness.md)
+9. [ψ元结构完备性](chapter-072-psi-theory-complete-integration.md)
 
 ## 核心概念
 

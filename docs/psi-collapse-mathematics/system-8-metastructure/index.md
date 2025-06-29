@@ -11,15 +11,15 @@ Mathematics observing itself—this is the domain of meta-mathematics, where sys
 
 ## Chapters
 
-1. [Meta-Systems as Observer Shells](chapter-064-meta-systems-observer-shells.md)
-2. [ψ-Recursive Structure Hierarchy](chapter-065-psi-recursive-structure-hierarchy.md)
-3. [Self-Reference and Collapse Loops](chapter-066-self-reference-collapse-loops.md)
-4. [Incompleteness Control through Layering](chapter-067-incompleteness-control-layering.md)
-5. [Meta-Collapse and Higher Observation](chapter-068-meta-collapse-higher-observation.md)
-6. [System Boundaries as Phase Transitions](chapter-069-system-boundaries-phase-transitions.md)
-7. [ψ-Reflection and Consciousness Modeling](chapter-070-psi-reflection-consciousness-modeling.md)
-8. [Universal Meta-Mathematics](chapter-071-universal-meta-mathematics.md)
-9. [ψ-MetaStructure Completeness](chapter-072-psi-metastructure-completeness.md)
+1. [Meta-Structural Collapse Observation](chapter-064-meta-structural-collapse-observation.md)
+2. [ψ-Hierarchy: Recursive Levels](chapter-065-psi-hierarchy-recursive-levels.md)
+3. [Collapse Meta-Category Theory](chapter-066-collapse-meta-category-theory.md)
+4. [ψ-Emergent Structure Dynamics](chapter-067-psi-emergent-structure-dynamics.md)
+5. [Observer-Structure Interaction](chapter-068-observer-structure-interaction.md)
+6. [Collapse Meta-Logic Framework](chapter-069-collapse-meta-logic-framework.md)
+7. [ψ-System Self-Reference Architecture](chapter-070-psi-system-self-reference-architecture.md)
+8. [Meta-Mathematical Consciousness](chapter-071-meta-mathematical-consciousness.md)
+9. [ψ-Theory Complete Integration](chapter-072-psi-theory-complete-integration.md)
 
 ## Core Concepts
 

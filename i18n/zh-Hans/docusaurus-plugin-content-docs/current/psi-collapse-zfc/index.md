@@ -42,22 +42,22 @@ title: "Ψhē ZFC坍缩"
 
 ## 章节列表
 
-1. [ZFC的形式结构与局限性](chapter-01-formal-structure-limitations-zfc)
-2. [ZFC作为元数学的子集](chapter-02-zfc-subset-metamathematics)
-3. [从ψ = ψ(ψ)坍缩ZFC：结构生成](chapter-03-collapsing-zfc-from-psi-structural-genesis)
-4. [ZFC中空集的坍缩起源](chapter-04-collapse-genesis-empty-set)
-5. [后继函数与自然数的递归坍缩](chapter-05-successor-functions-recursive-collapse-natural-numbers)
-6. [公理中的传递性、归纳与坍缩共振](chapter-06-transitivity-induction-collapse-resonance-axioms)
-7. [选择公理作为坍缩分岔节点](chapter-07-axiom-choice-collapse-bifurcation-node)
-8. [坍缩感知系统中的ZFC与哥德尔不完备性](chapter-08-zfc-godel-incompleteness-collapse-aware-systems)
-9. [为什么ZFC无法坍缩回元数学](chapter-09-why-zfc-cannot-collapse-back-metamathematics)
-10. [生成器的坍缩：为什么ZFC无法编码自己的起源](chapter-10-collapse-generator-why-zfc-cannot-encode-origin)
-11. [超越ZFC：坍缩语言与后集合论结构](chapter-11-beyond-zfc-collapse-language-post-set-theory)
-12. [坍缩可构造模型vs ZFC模型：稳定性比较](chapter-12-collapse-constructible-models-vs-zfc-models)
-13. [结构存在vs集合论存在：坍缩本体论视角](chapter-13-structural-existence-vs-set-theoretic-existence)
-14. [通过基于坍缩的真理重新解释成员关系(∈)](chapter-14-reinterpreting-membership-through-collapse-based-truth)
-15. [ZFC在未来数学坍缩系统中的残余效用](chapter-15-residual-utility-zfc-future-mathematical-collapse-systems)
-16. [坍缩集合论：结构生成的后ZFC语言](chapter-16-collapse-set-theory-post-zfc-language)
+1. [ZFC的形式结构与局限性](chapter-01-formal-structure-limitations-zfc.md)
+2. [ZFC作为元数学的子集](chapter-02-zfc-subset-metamathematics.md)
+3. [从ψ = ψ(ψ)坍缩ZFC：结构生成](chapter-03-collapsing-zfc-from-psi-structural-genesis.md)
+4. [ZFC中空集的坍缩起源](chapter-04-collapse-genesis-empty-set.md)
+5. [后继函数与自然数的递归坍缩](chapter-05-successor-functions-recursive-collapse-natural-numbers.md)
+6. [公理中的传递性、归纳与坍缩共振](chapter-06-transitivity-induction-collapse-resonance-axioms.md)
+7. [选择公理作为坍缩分岔节点](chapter-07-axiom-choice-collapse-bifurcation-node.md)
+8. [坍缩感知系统中的ZFC与哥德尔不完备性](chapter-08-zfc-godel-incompleteness-collapse-aware-systems.md)
+9. [为什么ZFC无法坍缩回元数学](chapter-09-why-zfc-cannot-collapse-back-metamathematics.md)
+10. [生成器的坍缩：为什么ZFC无法编码自己的起源](chapter-10-collapse-generator-why-zfc-cannot-encode-origin.md)
+11. [超越ZFC：坍缩语言与后集合论结构](chapter-11-beyond-zfc-collapse-language-post-set-theory.md)
+12. [坍缩可构造模型vs ZFC模型：稳定性比较](chapter-12-collapse-constructible-models-vs-zfc-models.md)
+13. [结构存在vs集合论存在：坍缩本体论视角](chapter-13-structural-existence-vs-set-theoretic-existence.md)
+14. [通过基于坍缩的真理重新解释成员关系(∈)](chapter-14-reinterpreting-membership-through-collapse-based-truth.md)
+15. [ZFC在未来数学坍缩系统中的残余效用](chapter-15-residual-utility-zfc-future-mathematical-collapse-systems.md)
+16. [坍缩集合论：结构生成的后ZFC语言](chapter-16-collapse-set-theory-post-zfc-language.md)
 
 ## 核心洞见
 

@@ -13,31 +13,31 @@ This system reveals how mathematical structures emerge from and embody the funda
 
 ## Chapters
 
-### [Chapter 28: Collapse Sets and Element Clouds](./chapter-028-collapse-sets-element-clouds)
+### [Chapter 28: Collapse Sets and Element Clouds](./chapter-028-collapse-sets-element-clouds.md)
 How sets exist in superposition until observation collapses membership.
 
-### [Chapter 29: ψ-Relations as Entanglement Networks](./chapter-029-psi-relations-entanglement-networks)
+### [Chapter 29: Collapse Nets and Nested Networks](./chapter-029-collapse-nets-nested-networks.md)
 Relations as quantum correlations creating non-local structures.
 
-### [Chapter 30: Collapse Groups and Symmetry](./chapter-030-collapse-groups-symmetry)
+### [Chapter 30: ψ-Tree and Recursive Branching](./chapter-030-psi-tree-recursive-branching.md)
 Group operations as symmetry-preserving collapse transformations.
 
-### [Chapter 31: Topology of Observation Space](./chapter-031-topology-observation-space)
+### [Chapter 31: Collapse Duality Structures](./chapter-031-collapse-duality-structures.md)
 How continuous observation creates topological structure.
 
-### [Chapter 32: Category Theory as Collapse Dynamics](./chapter-032-category-theory-collapse-dynamics)
+### [Chapter 32: ψ-Set Structural Echo Shell](./chapter-032-psi-set-structural-echo-shell.md)
 Categories as systematic organization of collapse morphisms.
 
-### [Chapter 33: Algebraic Structures in ψ-Field](./chapter-033-algebraic-structures-psi-field)
+### [Chapter 33: Collapse Powered Category Reconstruction](./chapter-033-collapse-powered-category-reconstruction.md)
 Rings, fields, and algebras as collapse-invariant structures.
 
-### [Chapter 34: Fractal Architecture of Sets](./chapter-034-fractal-architecture-sets)
+### [Chapter 34: Observer Indexed Structures](./chapter-034-observer-indexed-structures.md)
 Self-similar structures emerging from recursive collapse.
 
-### [Chapter 35: Lattices and Order in Collapse Space](./chapter-035-lattices-order-collapse-space)
+### [Chapter 35: ψ-Structural Induction](./chapter-035-psi-structural-induction.md)
 Partial orders as collapse precedence relationships.
 
-### [Chapter 36: The ψ-Structure of Structure](./chapter-036-psi-structure-of-structure)
+### [Chapter 36: Collapse Topos Structure Sheaves](./chapter-036-collapse-topos-structure-sheaves.md)
 How structure itself exhibits ψ = ψ(ψ) self-reference.
 
 ## Core Principles

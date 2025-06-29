@@ -11,15 +11,15 @@ Traditional proofs are chains of logical deductions from axioms to conclusions. 
 
 ## Chapters
 
-1. [Proof as Collapse Pathway](chapter-055-proof-collapse-pathway.md)
-2. [ψ-Axioms as Collapse Seeds](chapter-056-psi-axioms-collapse-seeds.md)
-3. [Inference Rules as Collapse Operators](chapter-057-inference-rules-collapse-operators.md)
-4. [Theorem Stability and Coherence](chapter-058-theorem-stability-coherence.md)
-5. [Proof Verification as Resonance Check](chapter-059-proof-verification-resonance-check.md)
-6. [Incompleteness as Observation Limits](chapter-060-incompleteness-observation-limits.md)
-7. [Meta-Proof and Self-Reference](chapter-061-meta-proof-self-reference.md)
-8. [Constructive vs Classical Collapse](chapter-062-constructive-classical-collapse.md)
-9. [ψ-Proof System Completeness](chapter-063-psi-proof-system-completeness.md)
+1. [ψ-Proof Path Structure](chapter-055-psi-proof-path-structure.md)
+2. [Collapse Lemma: Stability Nodes](chapter-056-collapse-lemma-stability-nodes.md)
+3. [ψ-Theorem: Fixed Collapse Point](chapter-057-psi-theorem-fixed-collapse-point.md)
+4. [ψ-Corollary: Frequency Shadow](chapter-058-psi-corollary-frequency-shadow.md)
+5. [Collapse Induction Mechanics](chapter-059-collapse-induction-mechanics.md)
+6. [ψ-Refutation: Collapse Break Path](chapter-060-psi-refutation-collapse-break-path.md)
+7. [Collapse Proof Equivalence](chapter-061-collapse-proof-equivalence.md)
+8. [Observer-Based Collapse Validation](chapter-062-observer-based-collapse-validation.md)
+9. [ψ-Axiom: Collapse Generator](chapter-063-psi-axiom-collapse-generator.md)
 
 ## Core Concepts
 

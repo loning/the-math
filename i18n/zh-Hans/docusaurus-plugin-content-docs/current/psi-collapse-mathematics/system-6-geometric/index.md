@@ -11,15 +11,14 @@ sidebar_position: 6
 
 ## 章节
 
-1. [坍缩空间作为共振流形](chapter-046-collapse-space-resonance-manifold.md)
-2. [ψ度量作为坍缩距离](chapter-047-psi-metric-collapse-distance.md)
-3. [可能性云的拓扑](chapter-048-topology-possibility-clouds.md)
-4. [维度作为观察深度](chapter-049-dimension-observation-depth.md)
-5. [曲率作为坍缩扭曲](chapter-050-curvature-collapse-warping.md)
-6. [测地线作为最优坍缩路径](chapter-051-geodesics-optimal-collapse-paths.md)
-7. [ψ流形与纤维丛](chapter-052-psi-manifolds-fiber-bundles.md)
-8. [同调作为坍缩不变量](chapter-053-homology-collapse-invariants.md)
-9. [几何坍缩统一](chapter-054-geometric-collapse-unification.md)
+1. [坍缩空间作为共振流形](chapter-046-psi-space-collapse-emergence.md)
+2. [ψ度量作为坍缩距离](chapter-047-collapse-metrics-psi-distance.md)
+3. [可能性云的拓扑](chapter-048-collapse-boundary-psi-edges.md)
+4. [维度作为观察深度](chapter-050-psi-holes-structural-incompleteness.md)
+5. [曲率作为坍缩扭曲](chapter-051-collapse-manifolds-observer-flow.md)
+6. [测地线作为最优坍缩路径](chapter-052-psi-symmetry-reflective-geometry.md)
+7. [ψ流形与纤维丛](chapter-053-collapse-singularities-topological-events.md)
+8. [同调作为坍缩不变量](chapter-054-psi-geometric-proof-structures.md)
 
 ## 核心概念
 

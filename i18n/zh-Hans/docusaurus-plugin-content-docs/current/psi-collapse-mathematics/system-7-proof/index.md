@@ -11,15 +11,15 @@ sidebar_position: 7
 
 ## 章节
 
-1. [证明作为坍缩路径](chapter-055-proof-collapse-pathway.md)
-2. [ψ公理作为坍缩种子](chapter-056-psi-axioms-collapse-seeds.md)
-3. [推理规则作为坍缩算子](chapter-057-inference-rules-collapse-operators.md)
-4. [定理稳定性与相干性](chapter-058-theorem-stability-coherence.md)
-5. [证明验证作为共振检查](chapter-059-proof-verification-resonance-check.md)
-6. [不完备性作为观察限制](chapter-060-incompleteness-observation-limits.md)
-7. [元证明与自指](chapter-061-meta-proof-self-reference.md)
-8. [构造性与经典坍缩](chapter-062-constructive-classical-collapse.md)
-9. [ψ证明系统完备性](chapter-063-psi-proof-system-completeness.md)
+1. [证明作为坍缩路径](chapter-055-psi-proof-path-structure.md)
+2. [ψ公理作为坍缩种子](chapter-056-collapse-lemma-stability-nodes.md)
+3. [推理规则作为坍缩算子](chapter-057-psi-theorem-fixed-collapse-point.md)
+4. [定理稳定性与相干性](chapter-058-psi-corollary-frequency-shadow.md)
+5. [证明验证作为共振检查](chapter-059-collapse-induction-mechanics.md)
+6. [不完备性作为观察限制](chapter-060-psi-refutation-collapse-break-path.md)
+7. [元证明与自指](chapter-061-collapse-proof-equivalence.md)
+8. [构造性与经典坍缩](chapter-062-observer-based-collapse-validation.md)
+9. [ψ证明系统完备性](chapter-063-psi-axiom-collapse-generator.md)
 
 ## 核心概念
 

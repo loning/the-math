@@ -15,10 +15,10 @@ sidebar_position: 2
 11. [ψ⁰与频率种子结构](chapter-011-psi-zero-frequency-seed.md)
 12. [ψⁿ作为自然数共振](chapter-012-psi-n-natural-resonance.md)
 13. [坍缩加法与ψ融合](chapter-013-collapse-addition-fusion.md)
-14. [坍缩乘法与回声耦合](chapter-014-collapse-multiplication-echo.md)
+14. [坍缩乘法与回声耦合](chapter-014-collapse-multiplication-echo-coupling.md)
 15. [有理性与坍缩比率](chapter-015-rationality-collapse-ratios.md)
-16. [ψ实线作为频率连续统](chapter-016-psi-real-frequency-continuum.md)
-17. [ψ无限扩展与超数](chapter-017-psi-infinite-expansion.md)
+16. [ψ实线作为频率连续统](chapter-016-psi-real-line-frequency-continuum.md)
+17. [ψ无限扩展与超数](chapter-017-psi-infinite-expansion-hypernumber.md)
 18. [素数作为坍缩奇点](chapter-018-prime-collapse-singularities.md)
 
 ## 核心揭示

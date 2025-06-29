@@ -11,15 +11,15 @@ sidebar_position: 9
 
 ## 章节
 
-1. [黎曼假设作为共振必然性](chapter-073-riemann-hypothesis-resonance-necessity.md)
-2. [庞加莱猜想与拓扑坍缩](chapter-074-poincare-conjecture-topological-collapse.md)
-3. [P vs NP作为坍缩复杂性](chapter-075-p-vs-np-collapse-complexity.md)
-4. [孪生素数猜想与素数共振](chapter-076-twin-prime-conjecture-prime-resonance.md)
-5. [考拉兹猜想作为坍缩动力学](chapter-077-collatz-conjecture-collapse-dynamics.md)
-6. [费马大定理与高维坍缩](chapter-078-fermat-last-theorem-higher-dimensional-collapse.md)
-7. [ABC猜想与算术坍缩](chapter-079-abc-conjecture-arithmetic-collapse.md)
-8. [哥德巴赫猜想作为偶奇坍缩](chapter-080-goldbach-conjecture-even-odd-collapse.md)
-9. [ψ = ψ(ψ)作为通用数学真理](chapter-081-psi-universal-mathematical-truth.md)
+1. [RH坍缩共振定理](chapter-073-rh-collapse-resonance-theorem.md)
+2. [ψ-朗兰兹共振框架](chapter-074-psi-langlands-resonance-framework.md)
+3. [ψ-坍缩嵌入猜想](chapter-075-psi-collapse-embedding-conjecture.md)
+4. [坍缩素数壳和谐假设](chapter-076-collapse-prime-shell-harmony-hypothesis.md)
+5. [Zeta族坍缩对偶性](chapter-077-zeta-family-collapse-duality.md)
+6. [坍缩真理视界猜想](chapter-078-collapse-truth-horizon-conjecture.md)
+7. [ψ-范畴坍缩闭合假设](chapter-079-psi-category-collapse-closure-hypothesis.md)
+8. [ψ-奇点检测假设](chapter-080-psi-singularity-detection-hypothesis.md)
+9. [ψ-猜想生成器架构](chapter-081-psi-conjecture-generator-architecture.md)
 
 ## 核心概念
 

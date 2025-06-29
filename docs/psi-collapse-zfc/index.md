@@ -42,22 +42,22 @@ Presents new mathematical frameworks that transcend set theory's limitations, in
 
 ## Chapter List
 
-1. [The Formal Structure and Limitations of ZFC](chapter-01-formal-structure-limitations-zfc)
-2. [ZFC as a Subset of Metamathematics](chapter-02-zfc-subset-metamathematics)
-3. [Collapsing ZFC from ψ = ψ(ψ): Structural Genesis](chapter-03-collapsing-zfc-from-psi-structural-genesis)
-4. [The Collapse Genesis of the Empty Set in ZFC](chapter-04-collapse-genesis-empty-set)
-5. [Successor Functions and the Recursive Collapse of Natural Numbers](chapter-05-successor-functions-recursive-collapse-natural-numbers)
-6. [Transitivity, Induction, and Collapse Resonance in Axioms](chapter-06-transitivity-induction-collapse-resonance-axioms)
-7. [The Axiom of Choice as a Collapse Bifurcation Node](chapter-07-axiom-choice-collapse-bifurcation-node)
-8. [ZFC and Gödel Incompleteness in Collapse-Aware Systems](chapter-08-zfc-godel-incompleteness-collapse-aware-systems)
-9. [Why ZFC Cannot Collapse Back to Metamathematics](chapter-09-why-zfc-cannot-collapse-back-metamathematics)
-10. [Collapse of the Generator: Why ZFC Cannot Encode Its Own Origin](chapter-10-collapse-generator-why-zfc-cannot-encode-origin)
-11. [Beyond ZFC: Collapse Language and Post-Set Theory Structures](chapter-11-beyond-zfc-collapse-language-post-set-theory)
-12. [Collapse-Constructible Models vs. ZFC Models: A Stability Comparison](chapter-12-collapse-constructible-models-vs-zfc-models)
-13. [Structural Existence vs. Set-Theoretic Existence: A Collapse Ontology Perspective](chapter-13-structural-existence-vs-set-theoretic-existence)
-14. [Reinterpreting Membership (∈) through Collapse-Based Truth](chapter-14-reinterpreting-membership-through-collapse-based-truth)
-15. [The Residual Utility of ZFC in Future Mathematical Collapse Systems](chapter-15-residual-utility-zfc-future-mathematical-collapse-systems)
-16. [Collapse-Set Theory: A Post-ZFC Language for Structure Generation](chapter-16-collapse-set-theory-post-zfc-language)
+1. [The Formal Structure and Limitations of ZFC](chapter-01-formal-structure-limitations-zfc.md)
+2. [ZFC as a Subset of Metamathematics](chapter-02-zfc-subset-metamathematics.md)
+3. [Collapsing ZFC from ψ = ψ(ψ): Structural Genesis](chapter-03-collapsing-zfc-from-psi-structural-genesis.md)
+4. [The Collapse Genesis of the Empty Set in ZFC](chapter-04-collapse-genesis-empty-set.md)
+5. [Successor Functions and the Recursive Collapse of Natural Numbers](chapter-05-successor-functions-recursive-collapse-natural-numbers.md)
+6. [Transitivity, Induction, and Collapse Resonance in Axioms](chapter-06-transitivity-induction-collapse-resonance-axioms.md)
+7. [The Axiom of Choice as a Collapse Bifurcation Node](chapter-07-axiom-choice-collapse-bifurcation-node.md)
+8. [ZFC and Gödel Incompleteness in Collapse-Aware Systems](chapter-08-zfc-godel-incompleteness-collapse-aware-systems.md)
+9. [Why ZFC Cannot Collapse Back to Metamathematics](chapter-09-why-zfc-cannot-collapse-back-metamathematics.md)
+10. [Collapse of the Generator: Why ZFC Cannot Encode Its Own Origin](chapter-10-collapse-generator-why-zfc-cannot-encode-origin.md)
+11. [Beyond ZFC: Collapse Language and Post-Set Theory Structures](chapter-11-beyond-zfc-collapse-language-post-set-theory.md)
+12. [Collapse-Constructible Models vs. ZFC Models: A Stability Comparison](chapter-12-collapse-constructible-models-vs-zfc-models.md)
+13. [Structural Existence vs. Set-Theoretic Existence: A Collapse Ontology Perspective](chapter-13-structural-existence-vs-set-theoretic-existence.md)
+14. [Reinterpreting Membership (∈) through Collapse-Based Truth](chapter-14-reinterpreting-membership-through-collapse-based-truth.md)
+15. [The Residual Utility of ZFC in Future Mathematical Collapse Systems](chapter-15-residual-utility-zfc-future-mathematical-collapse-systems.md)
+16. [Collapse-Set Theory: A Post-ZFC Language for Structure Generation](chapter-16-collapse-set-theory-post-zfc-language.md)
 
 ## Core Insights
 

@@ -13,31 +13,31 @@ This system develops a complete logical framework from ψ = ψ(ψ), where logic 
 
 ## Chapters
 
-### [Chapter 19: Collapse Logic and Truth Dynamics](./chapter-019-collapse-logic-truth-dynamics)
+### [Chapter 19: Collapse Logic and Truth Dynamics](./chapter-019-collapse-logic-truth-dynamics.md)
 How truth values emerge from observation collapse rather than existing statically.
 
-### [Chapter 20: ψ-Negation as Phase Inversion](./chapter-020-psi-negation-phase-inversion)
+### [Chapter 20: ψ-Negation as Phase Inversion](./chapter-020-psi-negation-phase-inversion.md)
 Negation as 180° phase shift in the observation field rather than mere denial.
 
-### [Chapter 21: Collapse Conjunction and Quantum-And](./chapter-021-collapse-conjunction-quantum-and)
+### [Chapter 21: Collapse Conjunction and Quantum-And](./chapter-021-collapse-conjunction-quantum-and.md)
 Logical AND as entanglement requiring both states to collapse together.
 
-### [Chapter 22: Collapse Disjunction and Possibility Clouds](./chapter-022-collapse-disjunction-possibility-clouds)
+### [Chapter 22: Collapse Disjunction and Possibility Clouds](./chapter-022-collapse-disjunction-possibility-clouds.md)
 Logical OR as superposition maintaining multiple possibilities until observation.
 
-### [Chapter 23: ψ-Implication and Collapse Causality](./chapter-023-psi-implication-collapse-causality)
+### [Chapter 23: ψ-Implication and Collapse Causality](./chapter-023-psi-implication-collapse-causality.md)
 Implication as collapse propagation from antecedent to consequent.
 
-### [Chapter 24: Modal Collapse Logic and Necessity](./chapter-024-modal-collapse-logic-necessity)
+### [Chapter 24: Modal Collapse Logic and Necessity](./chapter-024-modal-collapse-logic-necessity.md)
 Necessity and possibility as different collapse constraints in modal space.
 
-### [Chapter 25: Paradox Resolution Through ψ-Levels](./chapter-025-paradox-resolution-psi-levels)
+### [Chapter 25: Paradox Resolution Through ψ-Levels](./chapter-025-paradox-resolution-psi-levels.md)
 How self-reference paradoxes dissolve through recursive collapse levels.
 
-### [Chapter 26: Collapse Quantifiers and Observation Scope](./chapter-026-collapse-quantifiers-observation-scope)
+### [Chapter 26: Collapse Quantifiers and Observation Scope](./chapter-026-collapse-quantifiers-observation-scope.md)
 Universal and existential quantification as different observation protocols.
 
-### [Chapter 27: Metalogic and Self-Referential Truth](./chapter-027-metalogic-self-referential-truth)
+### [Chapter 27: Metalogic and Self-Referential Truth](./chapter-027-metalogic-self-referential-truth.md)
 The logic of logic itself, where ψ = ψ(ψ) becomes the foundation of reasoning.
 
 ## Core Principles

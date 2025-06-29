@@ -11,15 +11,15 @@ Functions in traditional mathematics map inputs to outputs as static corresponde
 
 ## Chapters
 
-1. [Collapse Functions as State Transformers](chapter-037-collapse-functions-state-transformers.md)
-2. [ψ-Domain and Codomain Entanglement](chapter-038-psi-domain-codomain-entanglement.md)
-3. [Composition as Collapse Cascading](chapter-039-composition-collapse-cascading.md)
-4. [Inverse Functions and Collapse Reversal](chapter-040-inverse-functions-collapse-reversal.md)
-5. [Fixed Points as Resonance Centers](chapter-041-fixed-points-resonance-centers.md)
-6. [Continuity as Collapse Coherence](chapter-042-continuity-collapse-coherence.md)
-7. [Differentiability and Collapse Gradients](chapter-043-differentiability-collapse-gradients.md)
-8. [Integration as Collapse Accumulation](chapter-044-integration-collapse-accumulation.md)
-9. [ψ-Functional Analysis Completeness](chapter-045-psi-functional-analysis-completeness.md)
+1. [Collapse Functions as Mappings](chapter-037-collapse-functions-mappings.md)
+2. [ψ-Continuous Functions: Quantum Jumps](chapter-038-psi-continuous-functions-quantum-jumps.md)
+3. [Collapse Differential: Derivatives](chapter-039-collapse-differential-derivatives.md)
+4. [ψ-Integral as Superposition](chapter-040-psi-integral-as-superposition.md)
+5. [Functorial Collapse Transformations](chapter-041-functorial-collapse-transformations.md)
+6. [Collapse Operators: Eigenstructures](chapter-042-collapse-operators-eigenstructures.md)
+7. [ψ-Functional Analysis Framework](chapter-043-psi-functional-analysis-framework.md)
+8. [Collapse Fourier: Frequency Domain](chapter-044-collapse-fourier-frequency-domain.md)
+9. [ψ-Variational Principles](chapter-045-psi-variational-principles.md)
 
 ## Core Concepts
 

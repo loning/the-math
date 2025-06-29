@@ -11,15 +11,15 @@ sidebar_position: 5
 
 ## 章节
 
-1. [坍缩函数作为状态转换器](chapter-037-collapse-functions-state-transformers.md)
-2. [ψ定义域与值域纠缠](chapter-038-psi-domain-codomain-entanglement.md)
-3. [复合作为坍缩级联](chapter-039-composition-collapse-cascading.md)
-4. [反函数与坍缩逆转](chapter-040-inverse-functions-collapse-reversal.md)
-5. [不动点作为共振中心](chapter-041-fixed-points-resonance-centers.md)
-6. [连续性作为坍缩相干性](chapter-042-continuity-collapse-coherence.md)
-7. [可微性与坍缩梯度](chapter-043-differentiability-collapse-gradients.md)
-8. [积分作为坍缩累积](chapter-044-integration-collapse-accumulation.md)
-9. [ψ函数分析完备性](chapter-045-psi-functional-analysis-completeness.md)
+1. [坍缩函数作为状态转换器](chapter-037-collapse-functions-mappings.md)
+2. [ψ定义域与值域纠缠](chapter-038-psi-continuous-functions-quantum-jumps.md)
+3. [复合作为坍缩级联](chapter-039-collapse-differential-derivatives.md)
+4. [反函数与坍缩逆转](chapter-040-psi-integral-as-superposition.md)
+5. [不动点作为共振中心](chapter-041-functorial-collapse-transformations.md)
+6. [连续性作为坍缩相干性](chapter-042-collapse-operators-eigenstructures.md)
+7. [可微性与坍缩梯度](chapter-043-psi-functional-analysis-framework.md)
+8. [积分作为坍缩累积](chapter-044-collapse-fourier-frequency-domain.md)
+9. [ψ函数分析完备性](chapter-045-psi-variational-principles.md)
 
 ## 核心概念
 

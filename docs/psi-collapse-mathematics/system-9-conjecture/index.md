@@ -11,15 +11,15 @@ The great unsolved problems of mathematics have resisted centuries of brilliant 
 
 ## Chapters
 
-1. [The Riemann Hypothesis as Resonance Necessity](chapter-073-riemann-hypothesis-resonance-necessity.md)
-2. [Poincaré Conjecture and Topological Collapse](chapter-074-poincare-conjecture-topological-collapse.md)
-3. [P vs NP as Collapse Complexity](chapter-075-p-vs-np-collapse-complexity.md)
-4. [The Twin Prime Conjecture and Prime Resonance](chapter-076-twin-prime-conjecture-prime-resonance.md)
-5. [Collatz Conjecture as Collapse Dynamics](chapter-077-collatz-conjecture-collapse-dynamics.md)
-6. [Fermat's Last Theorem and Higher Dimensional Collapse](chapter-078-fermat-last-theorem-higher-dimensional-collapse.md)
-7. [The ABC Conjecture and Arithmetic Collapse](chapter-079-abc-conjecture-arithmetic-collapse.md)
-8. [Goldbach Conjecture as Even-Odd Collapse](chapter-080-goldbach-conjecture-even-odd-collapse.md)
-9. [ψ = ψ(ψ) as Universal Mathematical Truth](chapter-081-psi-universal-mathematical-truth.md)
+1. [RH Collapse Resonance Theorem](chapter-073-rh-collapse-resonance-theorem.md)
+2. [ψ-Langlands Resonance Framework](chapter-074-psi-langlands-resonance-framework.md)
+3. [ψ-Collapse Embedding Conjecture](chapter-075-psi-collapse-embedding-conjecture.md)
+4. [Collapse Prime Shell Harmony Hypothesis](chapter-076-collapse-prime-shell-harmony-hypothesis.md)
+5. [Zeta Family Collapse Duality](chapter-077-zeta-family-collapse-duality.md)
+6. [Collapse Truth Horizon Conjecture](chapter-078-collapse-truth-horizon-conjecture.md)
+7. [ψ-Category Collapse Closure Hypothesis](chapter-079-psi-category-collapse-closure-hypothesis.md)
+8. [ψ-Singularity Detection Hypothesis](chapter-080-psi-singularity-detection-hypothesis.md)
+9. [ψ-Conjecture Generator Architecture](chapter-081-psi-conjecture-generator-architecture.md)
 
 ## Core Concepts
 
