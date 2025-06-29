@@ -1,9 +1,9 @@
 ---
-title: "Chapter 11: φ_FreeProduct — Collapse Stability of Free Products"
-sidebar_label: "11. φ_FreeProduct"
+title: "Chapter 11: φ_FreeProduct — Collapse Stability of Free Products [ZFC-Provable]"
+sidebar_label: "11. φ_FreeProduct [ZFC-Prov]"
 ---
 
-# Chapter 11: φ_FreeProduct — Collapse Stability of Free Products ✅
+# Chapter 11: φ_FreeProduct — Collapse Stability of Free Products [ZFC-Provable] ✅
 
 ## 11.1 Free Products in ZFC
 

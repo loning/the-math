@@ -1,9 +1,9 @@
 ---
-title: "Chapter 3: φ_NonMeasurable — Collapse Prohibition of Non-Measurable Sets"
-sidebar_label: "3. φ_NonMeasurable"
+title: "Chapter 3: φ_NonMeasurable — Collapse Prohibition of Non-Measurable Sets [ZFC-Provable]"
+sidebar_label: "3. φ_NonMeasurable [ZFC-Prov]"
 ---
 
-# Chapter 3: φ_NonMeasurable — Collapse Prohibition of Non-Measurable Sets ⚠️
+# Chapter 3: φ_NonMeasurable — Collapse Prohibition of Non-Measurable Sets [ZFC-Provable] ⚠️
 
 ## 3.1 Non-Measurable Sets in ZFC
 

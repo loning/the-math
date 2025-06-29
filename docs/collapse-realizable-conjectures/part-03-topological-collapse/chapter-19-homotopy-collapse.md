@@ -1,9 +1,9 @@
 ---
-title: "Chapter 19: φ_Homotopy — Collapse Equivalence of Continuous Maps"
-sidebar_label: "19. φ_Homotopy"
+title: "Chapter 19: φ_Homotopy — Collapse Equivalence of Continuous Maps [ZFC-Provable]"
+sidebar_label: "19. φ_Homotopy [ZFC-Prov]"
 ---
 
-# Chapter 19: φ_Homotopy — Collapse Equivalence of Continuous Maps ✅
+# Chapter 19: φ_Homotopy — Collapse Equivalence of Continuous Maps [ZFC-Provable] ✅
 
 ## 19.1 Homotopy Theory in ZFC
 

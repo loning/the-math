@@ -1,9 +1,9 @@
 ---
-title: "Chapter 4: φ_Steinhaus — Local Structure in Collapse Groups"
-sidebar_label: "4. φ_Steinhaus"
+title: "Chapter 4: φ_Steinhaus — Local Structure in Collapse Groups [ZFC-Provable]"
+sidebar_label: "4. φ_Steinhaus [ZFC-Prov]"
 ---
 
-# Chapter 4: φ_Steinhaus — Local Structure in Collapse Groups ✅
+# Chapter 4: φ_Steinhaus — Local Structure in Collapse Groups [ZFC-Provable] ✅
 
 ## 4.1 The Steinhaus Theorem in ZFC
 

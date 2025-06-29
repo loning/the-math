@@ -1,9 +1,9 @@
 ---
-title: "Chapter 18: φ_Dimension — Collapse Invariance in Manifolds"
-sidebar_label: "18. φ_Dimension"
+title: "Chapter 18: φ_Dimension — Collapse Invariance in Manifolds [ZFC-Provable]"
+sidebar_label: "18. φ_Dimension [ZFC-Prov]"
 ---
 
-# Chapter 18: φ_Dimension — Collapse Invariance in Manifolds ✅
+# Chapter 18: φ_Dimension — Collapse Invariance in Manifolds [ZFC-Provable] ✅
 
 ## 18.1 Topological Dimension in ZFC
 

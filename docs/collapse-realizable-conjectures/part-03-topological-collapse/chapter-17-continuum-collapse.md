@@ -1,9 +1,9 @@
 ---
-title: "Chapter 17: φ_Continuum — Collapse Cardinality of the Real Line"
-sidebar_label: "17. φ_Continuum"
+title: "Chapter 17: φ_Continuum — Collapse Cardinality of the Real Line [ZFC-Independent]"
+sidebar_label: "17. φ_Continuum [ZFC-Ind]"
 ---
 
-# Chapter 17: φ_Continuum — Collapse Cardinality of the Real Line ❌
+# Chapter 17: φ_Continuum — Collapse Cardinality of the Real Line [ZFC-Independent] ❌
 
 ## 17.1 The Continuum Hypothesis in ZFC
 

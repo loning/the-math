@@ -1,9 +1,9 @@
 ---
-title: "Chapter 16: φ_ResidualFiniteness — Collapse Detectability in Groups"
-sidebar_label: "16. φ_ResidualFiniteness"
+title: "Chapter 16: φ_ResidualFiniteness — Collapse Detectability in Groups [ZFC-Provable]"
+sidebar_label: "16. φ_ResidualFiniteness [ZFC-Prov]"
 ---
 
-# Chapter 16: φ_ResidualFiniteness — Collapse Detectability in Groups ✅
+# Chapter 16: φ_ResidualFiniteness — Collapse Detectability in Groups [ZFC-Provable] ✅
 
 ## 16.1 Residual Finiteness in ZFC
 

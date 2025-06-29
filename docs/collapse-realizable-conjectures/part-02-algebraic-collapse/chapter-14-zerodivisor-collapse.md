@@ -1,9 +1,9 @@
 ---
-title: "Chapter 14: φ_ZeroDivisor — Collapse of Null Product Observables"
-sidebar_label: "14. φ_ZeroDivisor"
+title: "Chapter 14: φ_ZeroDivisor — Collapse of Null Product Observables [ZFC-Provable]"
+sidebar_label: "14. φ_ZeroDivisor [ZFC-Prov]"
 ---
 
-# Chapter 14: φ_ZeroDivisor — Collapse of Null Product Observables ⚠️
+# Chapter 14: φ_ZeroDivisor — Collapse of Null Product Observables [ZFC-Provable] ⚠️
 
 ## 14.1 Zero Divisors in ZFC
 

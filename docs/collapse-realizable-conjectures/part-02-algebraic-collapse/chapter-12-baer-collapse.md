@@ -1,9 +1,9 @@
 ---
-title: "Chapter 12: φ_Baer — Collapse and Torsion Embeddings"
-sidebar_label: "12. φ_Baer"
+title: "Chapter 12: φ_Baer — Collapse and Torsion Embeddings [ZFC-Provable]"
+sidebar_label: "12. φ_Baer [ZFC-Prov]"
 ---
 
-# Chapter 12: φ_Baer — Collapse and Torsion Embeddings ⚠️
+# Chapter 12: φ_Baer — Collapse and Torsion Embeddings [ZFC-Provable] ⚠️
 
 ## 12.1 Baer's Criterion in ZFC
 

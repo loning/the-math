@@ -1,9 +1,9 @@
 ---
-title: "Chapter 8: φ_InnerRegularity — Collapse Approximation of Measures"
-sidebar_label: "8. φ_InnerRegularity"
+title: "Chapter 8: φ_InnerRegularity — Collapse Approximation of Measures [ZFC-Provable]"
+sidebar_label: "8. φ_InnerRegularity [ZFC-Prov]"
 ---
 
-# Chapter 8: φ_InnerRegularity — Collapse Approximation of Measures ✅
+# Chapter 8: φ_InnerRegularity — Collapse Approximation of Measures [ZFC-Provable] ✅
 
 ## 8.1 Inner Regularity in ZFC
 

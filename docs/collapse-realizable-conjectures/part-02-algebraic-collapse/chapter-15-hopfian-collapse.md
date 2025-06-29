@@ -1,9 +1,9 @@
 ---
-title: "Chapter 15: φ_Hopfian — Collapse Irreversibility of Endomorphisms"
-sidebar_label: "15. φ_Hopfian"
+title: "Chapter 15: φ_Hopfian — Collapse Irreversibility of Endomorphisms [ZFC-Provable]"
+sidebar_label: "15. φ_Hopfian [ZFC-Prov]"
 ---
 
-# Chapter 15: φ_Hopfian — Collapse Irreversibility of Endomorphisms ✅
+# Chapter 15: φ_Hopfian — Collapse Irreversibility of Endomorphisms [ZFC-Provable] ✅
 
 ## 15.1 Hopfian Groups in ZFC
 

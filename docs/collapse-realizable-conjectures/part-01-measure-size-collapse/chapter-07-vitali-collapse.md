@@ -1,9 +1,9 @@
 ---
-title: "Chapter 7: φ_Vitali — Collapse Denial of Vitali-type Partitions"
-sidebar_label: "7. φ_Vitali"
+title: "Chapter 7: φ_Vitali — Collapse Denial of Vitali-type Partitions [ZFC-Provable]"
+sidebar_label: "7. φ_Vitali [ZFC-Prov]"
 ---
 
-# Chapter 7: φ_Vitali — Collapse Denial of Vitali-type Partitions ❌
+# Chapter 7: φ_Vitali — Collapse Denial of Vitali-type Partitions [ZFC-Provable] ❌
 
 ## 7.1 Vitali Sets in ZFC
 

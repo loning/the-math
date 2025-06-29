@@ -1,9 +1,9 @@
 ---
-title: "Chapter 13: φ_GrothendieckGroup — K-Theory Collapse Echo"
-sidebar_label: "13. φ_GrothendieckGroup"
+title: "Chapter 13: φ_GrothendieckGroup — K-Theory Collapse Echo [ZFC-Provable]"
+sidebar_label: "13. φ_GrothendieckGroup [ZFC-Prov]"
 ---
 
-# Chapter 13: φ_GrothendieckGroup — K-Theory Collapse Echo ✅
+# Chapter 13: φ_GrothendieckGroup — K-Theory Collapse Echo [ZFC-Provable] ✅
 
 ## 13.1 The Grothendieck Group in ZFC
 

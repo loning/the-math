@@ -1,9 +1,9 @@
 ---
-title: "Chapter 2: φ_AntiBanach — Banach-Tarski Collapse Blockade"
-sidebar_label: "2. φ_AntiBanach"
+title: "Chapter 2: φ_AntiBanach — Banach-Tarski Collapse Blockade [ZFC-Provable]"
+sidebar_label: "2. φ_AntiBanach [ZFC-Prov]"
 ---
 
-# Chapter 2: φ_AntiBanach — Banach-Tarski Collapse Blockade ✅
+# Chapter 2: φ_AntiBanach — Banach-Tarski Collapse Blockade [ZFC-Provable] ✅
 
 ## 2.1 The Banach-Tarski Paradox in ZFC
 
