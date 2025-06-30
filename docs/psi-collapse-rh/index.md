@@ -50,15 +50,15 @@ This groundbreaking work reveals how the Riemann Hypothesis emerges naturally fr
 27. [φ(27) = [17] — Collapse Curvature: Laplacians and Log-Zeta Flow](book-1-collapse-trace/part-04-noncommutative-geometric/chapter-27-collapse-curvature-laplacians.md)
 
 #### [Part 5: Type-Theoretic and Cognitive Collapse](book-1-collapse-trace/part-05-type-theoretic/index.md) (Chapters 28-32)
-28. [φ(28) = [17,2,1] — Collapse Trace in Homotopy Type Theory](book-1-collapse-trace/part-05-type-theoretic/chapter-28-homotopy-type-collapse.md)
-29. [φ(29) = [18] — ζ(s) as a Self-Referential Fixed Point](book-1-collapse-trace/part-05-type-theoretic/chapter-29-self-referential-fixed.md)
-30. [φ(30) = [18,2,1] — Collapse δ(σ) as a Path Contractibility Criterion](book-1-collapse-trace/part-05-type-theoretic/chapter-30-path-contractibility.md)
-31. [φ(31) = [19] — Information-Theoretic Collapse Models of ζ(s)](book-1-collapse-trace/part-05-type-theoretic/chapter-31-information-theoretic.md)
-32. [φ(32) = [19,2,1] — Recursive Collapse and AGI-Compatible Structures](book-1-collapse-trace/part-05-type-theoretic/chapter-32-recursive-agi-structures.md)
+28. [φ(28) = [17,2,1] — Collapse Trace in Homotopy Type Theory](book-1-collapse-trace/part-05-type-theoretic/chapter-28-collapse-homotopy-type.md)
+29. [φ(29) = [18] — Inner Model Theory of Collapse Universality](book-1-collapse-trace/part-05-type-theoretic/chapter-29-inner-model-theory.md)
+30. [φ(30) = [18,2,1] — Motives, Cohomology, and Arithmetic Collapse](book-1-collapse-trace/part-05-type-theoretic/chapter-30-motives-cohomology-collapse.md)
+31. [φ(31) = [19] — Topos Theory and Logical Collapse](book-1-collapse-trace/part-05-type-theoretic/chapter-31-topos-theory-collapse.md)
+32. [φ(32) = [19,2,1] — Stacks, Gerbes, and the RH Moduli Problem](book-1-collapse-trace/part-05-type-theoretic/chapter-32-stacks-gerbes-rh.md)
 
-#### [Part 6: Universal Collapse Closure](book-1-collapse-trace/part-06-universal-closure/index.md) (Chapters 33-34)
-33. [φ(33) = [20] — The Riemann Hypothesis as a Universe of Collapse Paths](book-1-collapse-trace/part-06-universal-closure/chapter-33-universe-collapse-paths.md)
-34. [φ(34) = [20,2,1] — ψ = ψ(ψ) and the Structural Origin of ζ(s)](book-1-collapse-trace/part-06-universal-closure/chapter-34-psi-structural-origin.md)
+#### [Part 6: Collapse-Invariant Constructions](book-1-collapse-trace/part-06-collapse-invariant/index.md) (Chapters 33-34)
+33. [φ(33) = [20] — Collapse Invariants and Universal Structures](book-1-collapse-trace/part-06-collapse-invariant/chapter-33-collapse-invariants.md)
+34. [φ(34) = [20,2,1] — The ψ = ψ(ψ) Structural Completeness](book-1-collapse-trace/part-06-collapse-invariant/chapter-34-psi-structural-completeness.md)
 
 ### Book II: Spectral Collapse in ℝ
 **ψ(x)-Trace Series over Real Frequency Bands**

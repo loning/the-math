@@ -15,19 +15,19 @@ $$
 [5,1] = \lbrace\lbrace 1,2,3,4,5\rbrace, \lbrace 6\rbrace\rbrace
 $$
 
-The singleton {6} emerges distinct from the pentagonal group, just as individual zeros emerge from the continuous flow of ζ(s).
+The singleton \{6\} emerges distinct from the pentagonal group, just as individual zeros emerge from the continuous flow of ζ(s).
 
 ## 6.2 The Argument Principle
 
-**Theorem 6.1 (Argument Principle)**: For a meromorphic function f and a simple closed contour C:
+**Theorem 6.1 (Argument Principle)**: For a meromorphic function $f$ and a simple closed contour $C$:
 
 $$
 N - P = \frac{1}{2\pi i} \oint_C \frac{f'(z)}{f(z)} dz
 $$
 
-where N = number of zeros and P = number of poles inside C (counted with multiplicity).
+where $N$ = number of zeros and $P$ = number of poles inside $C$ (counted with multiplicity).
 
-*Proof*: Near a zero of order m:
+*Proof*: Near a zero of order $m$:
 
 $$
 f(z) = (z-z_0)^m g(z), \quad g(z_0) \neq 0
@@ -100,7 +100,7 @@ where arg is continuous along the critical line, starting from arg ζ(1/2) = 0.
 
 **Theorem 6.5 (S(t) Properties)**:
 1. S(t) = -S(-t) (odd function)
-2. S(t) changes by +1 at each zero on critical line
+2. S(t) changes by $+1$ at each zero on critical line
 3. $\int_0^T S(t) dt = O(\log T)$ (oscillates around 0)
 
 ## 6.7 Gram Points and Zero Detection
@@ -135,7 +135,7 @@ This may relate to:
 
 ## 6.9 Lehmer's Phenomenon
 
-**Definition 6.5 (Lehmer Pairs)**: Consecutive zeros ρ_n, ρ_{n+1} with:
+**Definition 6.5 (Lehmer Pairs)**: Consecutive zeros ρ_n, ρ_\{n+1\} with:
 
 $$
 |\gamma_{n+1} - \gamma_n| < \frac{0.1}{\log \gamma_n}
@@ -176,7 +176,7 @@ This remarkable duality relates:
 **Algorithm 6.1 (Turing's Method)**: To verify N(T) zeros with 0 < γ < T all lie on critical line:
 
 1. Compute S(T) to sufficient precision
-2. Check sign changes of Z(t) = e^{iθ(t)} ζ(1/2 + it)
+2. Check sign changes of $Z(t) = e^{i\theta(t)} \zeta(1/2 + it)$
 3. Verify count matches N(T)
 
 This method has verified billions of zeros, all on the critical line.

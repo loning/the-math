@@ -15,7 +15,7 @@ $$
 \text{Perfect}(n) \Leftrightarrow n = \sum_{d|n, d<n} d
 $$
 
-For n = 6: The number observes all its parts and finds itself complete.
+For $n = 6$: The number observes all its parts and finds itself complete.
 
 ## 7.2 Gram Points Defined
 
@@ -38,12 +38,12 @@ $$
 **Theorem 7.1 (Gram Shell Structure)**: Zeros tend to lie in "shells" between Gram points:
 
 $$
-g_n < \gamma_k < g_{n+1} \Rightarrow k \approx n + \text{small deviation}
+g_n < \gamma_k < g_\{n+1\} \Rightarrow k \approx n + \text\{small deviation\}
 $$
 
-*Proof Idea*: The function Z(t) = e^{iθ(t)} ζ(1/2 + it) is real-valued and typically:
-- Z(g_n) has sign (-1)^n
-- Zeros occur where Z changes sign
+*Proof Idea*: The function $Z(t) = e^{i\theta(t)} \zeta(1/2 + it)$ is real-valued and typically:
+- $Z(g_n)$ has sign $(-1)^n$
+- Zeros occur where $Z$ changes sign
 - Usually one zero per Gram interval ∎
 
 ## 7.4 Gram's Law and Its Violations
@@ -69,8 +69,8 @@ where c ≈ 0.27.
 ## 7.5 Rosser's Rule
 
 **Theorem 7.3 (Rosser's Rule)**: If Gram's law fails at g_n, then:
-- Either [g_{n-1}, g_n] contains at least 2 zeros
-- Or [g_n, g_{n+1}] contains at least 2 zeros
+- Either $[g_\{n-1\}, g_n]$ contains at least 2 zeros
+- Or $[g_n, g_\{n+1\}]$ contains at least 2 zeros
 - Or both intervals contain 0 zeros
 
 This maintains the average of one zero per Gram interval.
@@ -179,7 +179,7 @@ Goal: Find g_n such that θ(g_n) = nπ
 **Algorithm 7.2 (Shell Analysis)**:
 
 ```
-For each Gram interval [g_n, g_{n+1}]:
+For each Gram interval $[g_n, g_\{n+1\}]$:
 1. Count sign changes of Z(t)
 2. Locate zeros via bisection
 3. Classify as regular/compressed/expanded

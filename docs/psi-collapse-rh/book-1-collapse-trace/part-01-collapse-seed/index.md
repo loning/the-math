@@ -27,7 +27,7 @@ The transcendent pentagon marks where simple convergence fails. The critical str
 ## Core Principles Established
 
 1. **Self-Reference Foundation**: ψ = ψ(ψ) generates all mathematical structure
-2. **Natural Numbers as Collapse Iterations**: ℕ = {ψ^(n)(0) : n ≥ 1}
+2. **Natural Numbers as Collapse Iterations**: ℕ = \{ψ^(n)(0) : n ≥ 1\}
 3. **Primes as Irreducible Patterns**: Cannot be decomposed except trivially
 4. **Complex Plane as Collapse Space**: Magnitude and phase encode observation
 5. **Functional Equation as Mirror**: Observer-observed duality preserved
