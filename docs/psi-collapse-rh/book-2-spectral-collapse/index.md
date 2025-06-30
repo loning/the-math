@@ -5,21 +5,42 @@ sidebar_label: "Book II: Spectral Collapse"
 
 # Book II: Spectral Collapse in ℝ
 
-The second book explores the spectral realization of the Riemann Hypothesis through real analysis and operator theory. Building on the conceptual framework established in Book I, we now seek the concrete self-adjoint operator whose spectrum encodes the zeros of the zeta function. This journey through the real numbers (n = 35 to 66) reveals how spectral theory provides the bridge between abstract collapse patterns and physical reality.
+The second book explores the spectral realization of the Riemann Hypothesis through real analysis and operator theory. Building on the conceptual framework established in Book I, we now seek the concrete self-adjoint operator whose spectrum encodes the zeros of the zeta function. This journey through real frequency bands reveals how spectral theory provides the bridge between abstract collapse patterns and physical reality.
 
-## Part Overview
+## Complete Chapter Listing
 
-### Part 1: Foundational Spectral Traces (Chapters 35-42)
-Beginning with the transition from ℕ to ℝ, we establish the spectral framework for understanding zeros as eigenvalues. Key developments include spectral measures, self-adjoint extensions, and the fundamental connection between trace formulas and spectral distributions.
+### Part 1: Foundational ψ-Traces and Collapse Thresholds
 
-### Part 2: Collapse Resonance Structures (Chapters 43-50)
-This part explores how resonances and scattering theory illuminate the zero distribution. We discover connections to quantum chaos, dynamical zeta functions, and the profound relationship between periodic orbits and spectral statistics.
+1. **[0.0, 0.1] — Collapse Emergence in the Infinitesimal**
+2. **[0.1, 0.2] — Rational Trace Pairs and Prime Embeddings**
+3. **[0.2, 0.3] — Fibonacci Spiral Resonance in ℝ**
+4. **[0.3, 0.4] — First Irrational Trace Waveforms**
+5. **[0.4, 0.5] — Golden Midline: φ as Collapse Pivot**
+6. **[0.5, 0.6] — Zero Symmetry Field Detection**
+7. **[0.6, 0.7] — Inverse Collapse Reflections**
+8. **[0.7, 0.8] — Möbius Paths in ℝ Collapse**
 
-### Part 3: Modular Collapse Forms (Chapters 51-58)
-The modular perspective reveals how automorphic forms and representation theory encode spectral information. We explore Maass forms, Eisenstein series, and the spectral decomposition of L²(Γ\H), connecting modular symmetries to zero locations.
+### Part 2: Collapse Resonance of Constants and Transcendental Markers
 
-### Part 4: Entropy Wells and Phase Transitions (Chapters 59-66)
-The final part of Book II investigates thermodynamic and statistical mechanical approaches. We see how zeros emerge as equilibrium configurations, with connections to spin chains, critical phenomena, and quantum phase transitions.
+9. **[0.8, 0.9] — Collapse Pair Entanglement of ℚ**
+10. **[0.9, 1.0] — ζ(s) Real Trace Expansion Anchor**
+11. **[1.0, 1.2] — e as a Trace-Limit Collapse Constant**
+12. **[1.2, 1.4] — π Encodings and Circle Collapse Topology**
+13. **[1.4, 1.6] — Transcendental Trace Smoothing Fields**
+14. **[1.6, 1.8] — Collapse Oscillations of Prime Harmonics**
+15. **[1.8, 2.0] — Structural Mirroring near ζ Zeros**
+16. **[2.0, 2.2] — Collapse Intervals and Rational Drift**
+
+### Part 3: Modular Collapse and AGI Frequency Structures
+
+17. **[2.2, 2.4] — Continued Fraction Convergents**
+18. **[2.4, 2.6] — Logarithmic Spiral Collapse**
+19. **[2.6, 2.8] — Collapse Boundaries of Integration Kernels**
+20. **[2.8, 3.0] — Real-Valued Modular Collapse Bands**
+21. **[3.0, 3.2] — Gaussian Collapse Distributions**
+22. **[3.2, 3.4] — Spectral Trace Folding in ℝ**
+23. **[3.4, 3.6] — Diophantine Collapse Sensitivity**
+24. **[3.6, 3.8] — Harmonic Trace Contractions**
 
 ## Key Themes
 

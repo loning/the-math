@@ -9,13 +9,14 @@ This part establishes the spectral framework for understanding the Riemann Hypot
 
 ## Chapter Overview
 
-### Chapters 35-42
+### Chapters 1-8
 
-The transition from natural numbers to real numbers reveals new spectral structures. Key developments include:
-- Spectral measures and distributions
-- Self-adjoint extensions of symmetric operators
-- Trace formulas connecting spectrum to arithmetic
-- Functional calculus and spectral decomposition
+The transition from natural numbers to real frequency bands reveals new spectral structures through ψ(x)-trace analysis. Key developments include:
+- Collapse emergence in the infinitesimal [0.0, 0.1]
+- Rational trace pairs and prime embeddings
+- Fibonacci spiral resonance in ℝ
+- Golden midline φ as collapse pivot
+- Zero symmetry field detection at σ = 1/2
 
 ## Key Themes
 
