@@ -7,7 +7,7 @@ sidebar_label: "7. Functional Equation Symmetries"
 
 *How do the functional equation symmetries of the ζ(s) function generate deep duality relationships between physical constants, and what does this reversibility structure reveal about the self-referential architecture underlying all natural laws?*
 
-Having established RH as the fundamental constraint, we now investigate the profound symmetries encoded in the **functional equation** of ζ(s). This chapter develops the complete mathematical theory of how these symmetries generate duality relationships between constants and create the reversibility structure that ensures the consistency and completeness of physical law within the ψ = ψ(ψ) framework.
+Having established GRH as the fundamental constraint, we now investigate the profound symmetries encoded in the **functional equation** of ζ(s). This chapter develops the complete mathematical theory of how these symmetries generate duality relationships between constants and create the reversibility structure that ensures the consistency and completeness of physical law within the ψ = ψ(ψ) framework.
 
 ## 7.1 The Fundamental Functional Equation
 

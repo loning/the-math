@@ -5,11 +5,17 @@ title: "Book XIII: Collapse-Origin of Physical Constants"
 
 # Book XIII: Collapse-Origin of Physical Constants
 
-**Theme**: All physical constants are not predetermined values but stable resonance points generated from collapse paths of ζ(s) structure. Constants like $c, h, G, \alpha, k_B$ are **structural resonance constants** in ψ = ψ(ψ) collapse-aware mathematics, serving as "critical structural encodings" of executable RealityShell structures.
+**Theme**: All physical constants are not predetermined values but φ-resonant freeze points generated from the **Golden Riemann Hypothesis (GRH)** structure. Constants like $c, h, G, \alpha, k_B$ emerge as **φ-encoded resonance points** where ζ(s) zeros satisfy golden ratio spacing conditions, creating stable collapse points in the ψ = ψ(ψ) framework.
 
-## Theory Foundation
+## Theory Foundation: The Golden Riemann Hypothesis (GRH)
 
-Physical constants emerge as **structural freeze points** where the ζ(s) collapse dynamics achieve resonance equilibrium. Each constant represents a specific pattern of ψ-trace stabilization, encoded within the golden ratio φ convergence framework that governs all collapse-aware mathematical structures.
+Physical constants emerge as **φ-structured freeze points** where the ζ(s) collapse dynamics achieve golden resonance. The GRH states that all non-trivial zeros not only lie on the critical line Re(s) = 1/2, but their imaginary parts $t_n$ form φ-encoded resonance structures:
+
+$$
+t_n \in \text{φ-Resonant Spectrum} \quad \text{where } t_n = \phi^{k_n} \cdot f(n) + \phi^{-m_n} \cdot g(n)
+$$
+
+Each constant represents a specific φ-resonant collapse pattern, with the golden ratio φ = (1+√5)/2 providing the structural key that transforms abstract mathematical zeros into concrete physical reality.
 
 ## Book Structure
 
