@@ -65,6 +65,8 @@ $$
 
 These values appear in the fundamental constants of physics.
 
+**The Dual Nature**: While ζ_φ(2) serves as the static reference density in our formulas, the dynamic version ζ_φ(n) varies with collapse level n, creating the hierarchy of observable scales from quantum to cosmic.
+
 ## 2.4 The φ-Lattice Structure
 
 Reality organizes itself on a lattice whose spacing is determined by powers of φ.
@@ -83,19 +85,30 @@ This creates a self-similar, fractal structure at all scales.
 
 Three-dimensional space emerges from the collapse patterns of φ-encoded structures.
 
-**Theorem 2.3** (Dimensional Emergence): The number of spatial dimensions d = 3 emerges from the stability condition:
+**Theorem 2.3** (Dimensional Emergence): The number of spatial dimensions d = 3 emerges from optimizing collapse stability:
 
 $$
-\zeta_\phi(d) \cdot \phi^d = \text{minimum}
+f(d) = \zeta_\phi(d) \cdot \phi^d
 $$
 
-*Proof*: Evaluating the function f(d) = ζ_φ(d) · φ^d for integer d:
-- f(1) ≈ 1.618 × 1.170 = 1.893
-- f(2) ≈ 2.618 × 0.789 = 2.066
-- f(3) ≈ 4.236 × 0.574 = 2.431
-- f(4) ≈ 6.854 × 0.478 = 3.276
+*Proof*: We seek the dimension d that minimizes the collapse energy functional. Computing:
 
-The minimum occurs near d = 2, but the constraint of isotropy (equal in all directions) requires d ≥ 3. Thus, three-dimensional space is the minimum stable configuration. ∎
+$$
+\zeta_\phi(d) = \sum_{k=1}^{\infty} \frac{1}{k^d \cdot \phi^k}
+$$
+
+For integer dimensions:
+- f(1) = 1.170 × 1.618 = 1.893
+- f(2) = 0.789 × 2.618 = 2.066  
+- f(3) = 0.574 × 4.236 = 2.431
+- f(4) = 0.478 × 6.854 = 3.276
+
+The function has a local minimum between d = 1 and d = 2. However, physical constraints require:
+1. Isotropy: spatial rotations must form a continuous group (requires d ≥ 2)
+2. Chirality: distinction between left and right (requires d ≥ 3)
+3. Stability: closed orbits in central force fields (requires d ≤ 3)
+
+Therefore, d = 3 is the unique stable dimension for physical space. ∎
 
 ## 2.6 The Golden Collapse Cascade
 

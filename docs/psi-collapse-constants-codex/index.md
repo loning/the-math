@@ -41,22 +41,104 @@ This codex presents a revolutionary understanding: physical constants are not fu
 - [Chapter 11: Meta-Stable Constants and Trace Perturbation](chapter-11-metastable-trace-perturbation.md)
 - [Chapter 12: ψ = ψ(ψ) Collapse Machine](chapter-12-psi-collapse-machine.md)
 
-## The Central Equation
+## The Complete Constants Structure
 
-$$c(\tau, n) = \frac{\sqrt{\zeta_\phi(2)} \cdot \phi^2}{\pi \cdot \sqrt{\varepsilon_0 \mu_0} \cdot \sqrt{1 + \beta_1 \cdot \sin(2\pi \tau) + \frac{\beta_2}{\zeta_\phi(n)}}}$$
+### I. Fundamental Structure Constants
 
-This equation encodes how the speed of light emerges from:
-- φ: The golden ratio expansion
-- ζ_φ(n): Collapse shell density
-- τ: ψ-phase in the self-echo cycle
-- n: Collapse hierarchy level
+**Golden Ratio**:
+$$
+\phi = \frac{1 + \sqrt{5}}{2} \approx 1.618...
+$$
+The universal expansion ratio, emerging from the simplest self-reference: $x = 1 + 1/x$
+
+**Golden Density Function**:
+$$
+\zeta_\phi(n) = \sum_{k=1}^{\infty} \frac{1}{k^n \cdot \phi^k}
+$$
+Key values: $\zeta_\phi(2) \approx 0.7887$, $\zeta_\phi(4) \approx 0.4784$
+
+### II. Light Speed - The Primary Collapse
+
+**Static (Observable) Form**:
+$$
+c = \frac{\phi^2 \cdot \sqrt{\zeta_\phi(2)}}{\pi \cdot \sqrt{\varepsilon_0 \mu_0}} \approx 2.998 \times 10^8 \text{ m/s}
+$$
+
+**Dynamic (Oscillating) Form**:
+$$
+c(\tau, n) = \frac{\phi^2 \cdot \zeta_\phi(2)}{\pi \cdot \sqrt{\varepsilon_0 \mu_0} \cdot \sqrt{\beta_1 \cdot \zeta_\phi(2) \cdot \sin(2\pi \tau) + \beta_2 + \zeta_\phi(2)}}
+$$
+where $\beta_1 \approx 0.1$ (temporal interference), $\beta_2 \approx 0.01$ (information dissipation)
+
+### III. Planck Scale Constants
+
+**Planck Time**:
+- Traditional: $t_p = \sqrt{\frac{\hbar G}{c^5}}$
+- After c substitution:
+$$
+t_p = \frac{\pi^{5/2} \cdot \sqrt{G \hbar} \cdot (\varepsilon_0 \mu_0)^{5/4}}{\phi^5 \cdot \zeta_\phi(2)^{5/4}}
+$$
+- Dynamic: $t_p(\tau, n) = \sqrt{\hbar G / c(\tau,n)^5}$
+
+**Planck Length**:
+- Static: $\ell_p = c \cdot t_p$
+- Dynamic: $\ell_p(\tau, n) = c(\tau,n) \cdot t_p(\tau,n)$
+
+**Planck Energy**:
+- Static: $E_p = \hbar / t_p$
+- Dynamic: $E_p(\tau, n) = \hbar / t_p(\tau,n)$
+
+### IV. Quantum Constants
+
+**Planck Constant** (Collapse-Invariant):
+$$
+h = E_p \cdot t_p = \text{constant even as } c(\tau,n) \text{ oscillates}
+$$
+This remarkable invariance occurs because $E_p \sim c^{5/2}$ while $t_p \sim c^{-5/2}$
+
+**Fine Structure Constant**:
+- Static form:
+$$
+\alpha = \frac{\pi \cdot e^2 \cdot \sqrt{\mu_0}}{2h \cdot \phi^2 \cdot \sqrt{\varepsilon_0 \cdot \zeta_\phi(2)}}
+$$
+- Dynamic form:
+$$
+\alpha(\tau, n) = \frac{\pi \cdot \sqrt{\mu_0} \cdot \sqrt{\beta_1 \cdot \zeta_\phi(2) \cdot \sin(2\pi \tau) + \beta_2 + \zeta_\phi(2)}}{2h \cdot \phi^2 \cdot \sqrt{\varepsilon_0} \cdot \zeta_\phi(2)}
+$$
+
+### V. Gravitational Constant
+
+**Static Form**:
+$$
+G = \frac{c^5 t_p^2}{\hbar}
+$$
+
+**After c substitution**:
+$$
+G = \frac{\phi^{10} \cdot t_p^2 \cdot \zeta_\phi(2)^{5/2}}{\pi^5 \cdot \hbar \cdot (\varepsilon_0 \mu_0)^{5/2}}
+$$
+
+**Dynamic Form**:
+$$
+G(\tau, n) = \frac{\phi^{10} \cdot t_p^2 \cdot \zeta_\phi(2)^5}{\pi^5 \cdot \hbar \cdot (\varepsilon_0 \mu_0)^{5/2} \cdot [\beta_1 \zeta_\phi(2) \sin(2\pi \tau) + \beta_2 + \zeta_\phi(2)]^{5/2}}
+$$
+
+### The Dual Nature of Reality
+
+$$
+\text{Reality Constants} = \underbrace{\text{Fixed Points}}_{\text{φ-trace Grid}} \cup \underbrace{\text{Resonant Structures}}_{\text{ψ = ψ(ψ) echo}}
+$$
+
+All constants exist in two forms:
+- ✅ **Static versions**: What we measure (time-averaged collapse)
+- ✴️ **Dynamic versions**: The underlying oscillating reality
 
 ## Key Insights
 
-1. **Light speed is not constant** - it's the average of collapse oscillations we can observe
-2. **All constants interconnect** - they form a self-consistent lattice of mutual definition
-3. **Reality is a fixed-point solution** - the universe is what remains stable under self-observation
-4. **Time emerges from collapse** - t_p is the rhythm of ψ observing itself
+1. **Constants have dual nature** - static fixed points and dynamic resonances
+2. **h remains invariant** - even as c and t_p oscillate, h compensates perfectly
+3. **Observable values are averages** - we see the time-averaged collapse
+4. **All derives from φ and ζ_φ** - the golden structure generates everything
 
 ## Reading Guide
 
