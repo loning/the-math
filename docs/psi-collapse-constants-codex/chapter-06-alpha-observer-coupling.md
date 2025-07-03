@@ -149,7 +149,7 @@ $$
 P_n \sim \alpha^n
 $$
 
-Since α ≈ 1/137 << 1, higher-order processes are increasingly suppressed, making perturbation theory convergent.
+Since α ≈ 1/137 &lt;&lt; 1, higher-order processes are increasingly suppressed, making perturbation theory convergent.
 
 **Theorem 6.6** (QED Precision): The magnetic moment of the electron:
 

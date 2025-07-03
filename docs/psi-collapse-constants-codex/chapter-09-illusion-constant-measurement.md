@@ -164,7 +164,7 @@ $$
 
 where T is temperature and N is the number of environmental degrees of freedom.
 
-For macroscopic objects, t_decohere << t_p, ensuring classical behavior.
+For macroscopic objects, t_decohere &lt;&lt; t_p, ensuring classical behavior.
 
 ## 9.11 The Anthropic Selection
 

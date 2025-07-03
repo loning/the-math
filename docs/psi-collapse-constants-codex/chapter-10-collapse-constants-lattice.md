@@ -128,7 +128,7 @@ $$
 c_i(\tau) = c_{i,0} \left(1 + \sum_j A_{ij} \sin(2\pi j \tau + \phi_{ij})\right)
 $$
 
-where A_{ij} are amplitude coefficients and φ_{ij} are phase relationships.
+where $A_{ij}$ are amplitude coefficients and $\phi_{ij}$ are phase relationships.
 
 **Theorem 10.5** (Phase Locking): The phases lock into golden ratio relationships:
 
@@ -136,7 +136,7 @@ $$
 \phi_{ij} = 2\pi \cdot \frac{F_n}{F_m}
 $$
 
-where F_n are Fibonacci numbers. This creates a cosmic symphony in golden harmony.
+where $F_n$ are Fibonacci numbers. This creates a cosmic symphony in golden harmony.
 
 ## 10.10 The Emergence of Particle Masses
 
@@ -148,7 +148,7 @@ $$
 m_i = m_p \cdot \phi^{n_i} \cdot \exp\left(-\frac{k_i}{\alpha}\right)
 $$
 
-where n_i and k_i are quantum numbers.
+where $n_i$ and $k_i$ are quantum numbers.
 
 This explains the seemingly random mass spectrum as projections of the underlying lattice structure.
 
